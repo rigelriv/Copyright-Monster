@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Connect to Server.unity
+    guid: dcb37291a87934cd1acc0d0db48a56a3
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 40e1aa9e28b734737aed78a7d58be562
+  - enabled: 1
+    path: Assets/Scenes/Monsterpedia.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: a46aace003ed14e99972e84849de7712
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 41604219675b94c838ca3e275d90ac8d
+  - enabled: 1
+    path: Assets/Scenes/Draft Pick.unity
+    guid: 5b940a0e745d8420a9f0ae4f7f548286
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 15b1cb326d41249e7925fead2876e39c
+  m_configObjects: {}

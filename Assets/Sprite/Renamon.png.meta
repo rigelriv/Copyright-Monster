@@ -1,0 +1,3672 @@
+fileFormatVersion: 2
+guid: 06795da278f234c0cb222a064c05ce63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1630737700021675364
+    second: Renamon_0
+  - first:
+      213: -5998183051005854538
+    second: Renamon_1
+  - first:
+      213: 5073513175298088276
+    second: Renamon_2
+  - first:
+      213: -5999668052868412461
+    second: Renamon_3
+  - first:
+      213: -2025707233681031282
+    second: Renamon_4
+  - first:
+      213: -2858506829948572748
+    second: Renamon_5
+  - first:
+      213: -7043660459359676533
+    second: Renamon_6
+  - first:
+      213: -253871724647809502
+    second: Renamon_7
+  - first:
+      213: -5044603700517177305
+    second: Renamon_8
+  - first:
+      213: -2625185668606890128
+    second: Renamon_9
+  - first:
+      213: -3854020332960050827
+    second: Renamon_10
+  - first:
+      213: 6293867089199464829
+    second: Renamon_11
+  - first:
+      213: -4181252796979260957
+    second: Renamon_12
+  - first:
+      213: -2110449974104002334
+    second: Renamon_13
+  - first:
+      213: 1179272070111078316
+    second: Renamon_14
+  - first:
+      213: -339475571359887181
+    second: Renamon_15
+  - first:
+      213: 8493195661836573235
+    second: Renamon_16
+  - first:
+      213: 3854701057008943284
+    second: Renamon_17
+  - first:
+      213: 3556333819445313667
+    second: Renamon_18
+  - first:
+      213: -3915132337465770153
+    second: Renamon_19
+  - first:
+      213: 885399283424280265
+    second: Renamon_20
+  - first:
+      213: -4846608886958801677
+    second: Renamon_21
+  - first:
+      213: 9093178100031418638
+    second: Renamon_22
+  - first:
+      213: -2216598067377524319
+    second: Renamon_23
+  - first:
+      213: 5312886107272638416
+    second: Renamon_24
+  - first:
+      213: 4893637385808604921
+    second: Renamon_25
+  - first:
+      213: -2683178103867619774
+    second: Renamon_26
+  - first:
+      213: 2827332708698890376
+    second: Renamon_27
+  - first:
+      213: 2405467181962706050
+    second: Renamon_28
+  - first:
+      213: -3613086560950145058
+    second: Renamon_29
+  - first:
+      213: -5486286009794987424
+    second: Renamon_30
+  - first:
+      213: -5083473648819090864
+    second: Renamon_31
+  - first:
+      213: 6094441600368762493
+    second: Renamon_32
+  - first:
+      213: -5075389240410522086
+    second: Renamon_33
+  - first:
+      213: 2756519491829579337
+    second: Renamon_34
+  - first:
+      213: 2282635884320704171
+    second: Renamon_35
+  - first:
+      213: 1896721710874995600
+    second: Renamon_36
+  - first:
+      213: 6299438959270129911
+    second: Renamon_37
+  - first:
+      213: 5947560708088557467
+    second: Renamon_38
+  - first:
+      213: -8355296893193955872
+    second: Renamon_39
+  - first:
+      213: 9083088512848524737
+    second: Renamon_40
+  - first:
+      213: 7677723386646754305
+    second: Renamon_41
+  - first:
+      213: -833012704573784531
+    second: Renamon_42
+  - first:
+      213: 2436670598018189483
+    second: Renamon_43
+  - first:
+      213: 2385385623475406098
+    second: Renamon_44
+  - first:
+      213: 2438416830040540247
+    second: Renamon_45
+  - first:
+      213: 5792903507423364587
+    second: Renamon_46
+  - first:
+      213: -5623982439789739758
+    second: Renamon_47
+  - first:
+      213: -7060549886589552215
+    second: Renamon_48
+  - first:
+      213: -7886402429228889828
+    second: Renamon_49
+  - first:
+      213: 861542933159179416
+    second: Renamon_50
+  - first:
+      213: 4213938151167195260
+    second: Renamon_51
+  - first:
+      213: -2048399683404686390
+    second: Renamon_52
+  - first:
+      213: 7911212016758118269
+    second: Renamon_53
+  - first:
+      213: 4744794945155066243
+    second: Renamon_54
+  - first:
+      213: 8179755178694312128
+    second: Renamon_55
+  - first:
+      213: -3356006644793104775
+    second: Renamon_56
+  - first:
+      213: 5692965889377337213
+    second: Renamon_57
+  - first:
+      213: -9025659536467619933
+    second: Renamon_58
+  - first:
+      213: -9195870531851008580
+    second: Renamon_59
+  - first:
+      213: -622238011040621794
+    second: Renamon_60
+  - first:
+      213: -4834936234319790933
+    second: Renamon_61
+  - first:
+      213: -2096084844230102665
+    second: Renamon_62
+  - first:
+      213: -1300366879437353238
+    second: Renamon_63
+  - first:
+      213: 7476856875693218213
+    second: Renamon_64
+  - first:
+      213: 6137705148371728814
+    second: Renamon_65
+  - first:
+      213: -8366318149640849540
+    second: Renamon_66
+  - first:
+      213: 5138196851212999777
+    second: Renamon_67
+  - first:
+      213: -2909521819898883810
+    second: Renamon_68
+  - first:
+      213: 6698056795191503176
+    second: Renamon_69
+  - first:
+      213: -4307930677785320985
+    second: Renamon_70
+  - first:
+      213: -2449318885044496182
+    second: Renamon_71
+  - first:
+      213: -670724861336368418
+    second: Renamon_72
+  - first:
+      213: 5951112075243467440
+    second: Renamon_73
+  - first:
+      213: -228520156642301130
+    second: Renamon_74
+  - first:
+      213: -4435355818898067573
+    second: Renamon_75
+  - first:
+      213: -306417216583764552
+    second: Renamon_76
+  - first:
+      213: 8375677603990476603
+    second: Renamon_77
+  - first:
+      213: 5508289172298422455
+    second: Renamon_78
+  - first:
+      213: 6174288649305324172
+    second: Renamon_79
+  - first:
+      213: 5478779010401520756
+    second: Renamon_80
+  - first:
+      213: 5202515473583489224
+    second: Renamon_81
+  - first:
+      213: 7395629583115095053
+    second: Renamon_82
+  - first:
+      213: 7484014830791954253
+    second: Renamon_83
+  - first:
+      213: 2108976598625147995
+    second: Renamon_84
+  - first:
+      213: 7451724026104432522
+    second: Renamon_85
+  - first:
+      213: -5323214790283128928
+    second: Renamon_86
+  - first:
+      213: -6000342266065002222
+    second: Renamon_87
+  - first:
+      213: -324698386500803897
+    second: Renamon_88
+  - first:
+      213: 7123305495922991106
+    second: Renamon_89
+  - first:
+      213: 4258356357688627797
+    second: Renamon_90
+  - first:
+      213: -8685149018696809394
+    second: Renamon_91
+  - first:
+      213: 7113413061160381262
+    second: Renamon_92
+  - first:
+      213: 8624161659886609138
+    second: Renamon_93
+  - first:
+      213: 697623859849090071
+    second: Renamon_94
+  - first:
+      213: -224701790311733118
+    second: Renamon_95
+  - first:
+      213: -8611953992924635460
+    second: Renamon_96
+  - first:
+      213: 8159895625092929006
+    second: Renamon_97
+  - first:
+      213: 6471817701919107365
+    second: Renamon_98
+  - first:
+      213: 2004315779398984851
+    second: Renamon_99
+  - first:
+      213: 538033653077500021
+    second: Renamon_100
+  - first:
+      213: 5824367739625432072
+    second: Renamon_101
+  - first:
+      213: -3601920909929425357
+    second: Renamon_102
+  - first:
+      213: -6276421571521800271
+    second: Renamon_103
+  - first:
+      213: 6546540040769959803
+    second: Renamon_104
+  - first:
+      213: -6804027386611267155
+    second: Renamon_105
+  - first:
+      213: 1803088805418419173
+    second: Renamon_106
+  - first:
+      213: 350124765984501148
+    second: Renamon_107
+  - first:
+      213: -5586696762527992051
+    second: Renamon_108
+  - first:
+      213: -3953913267418552255
+    second: Renamon_109
+  - first:
+      213: 861659504514847233
+    second: Renamon_110
+  - first:
+      213: -6994638509861073210
+    second: Renamon_111
+  - first:
+      213: -8597859323979522338
+    second: Renamon_112
+  - first:
+      213: -3455540663577883878
+    second: Renamon_113
+  - first:
+      213: 1311425923211990145
+    second: Renamon_114
+  - first:
+      213: -4630833513969616849
+    second: Renamon_115
+  - first:
+      213: 8835523662374715691
+    second: Renamon_116
+  - first:
+      213: -7744939649102004691
+    second: Renamon_117
+  - first:
+      213: -6596578515043401547
+    second: Renamon_118
+  - first:
+      213: -5460284276963617569
+    second: Renamon_119
+  - first:
+      213: -5558163779794788241
+    second: Renamon_120
+  - first:
+      213: 4023515188684840079
+    second: Renamon_121
+  - first:
+      213: -5168435965276639165
+    second: Renamon_122
+  - first:
+      213: 7481010729157662873
+    second: Renamon_123
+  - first:
+      213: 8463474646135964971
+    second: Renamon_124
+  - first:
+      213: 3324014218645674261
+    second: Renamon_125
+  - first:
+      213: 3692911090667540069
+    second: Renamon_126
+  - first:
+      213: 1213508448231215907
+    second: Renamon_127
+  - first:
+      213: 560651505765441377
+    second: Renamon_128
+  - first:
+      213: 1997279980766310298
+    second: Renamon_129
+  - first:
+      213: -5454853690653100951
+    second: Renamon_130
+  - first:
+      213: 5079064793019916400
+    second: Renamon_131
+  - first:
+      213: -9102816093120936900
+    second: Renamon_132
+  - first:
+      213: 3087490230899937584
+    second: Renamon_133
+  - first:
+      213: -3149889995886171974
+    second: Renamon_134
+  - first:
+      213: -7997097934315695172
+    second: Renamon_135
+  - first:
+      213: -2023280814473189851
+    second: Renamon_136
+  - first:
+      213: 8410146752771648195
+    second: Renamon_137
+  - first:
+      213: 6833030086667224897
+    second: Renamon_138
+  - first:
+      213: -4184204296197064603
+    second: Renamon_139
+  - first:
+      213: 8738439678541995192
+    second: Renamon_140
+  - first:
+      213: -8406552286907005680
+    second: Renamon_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Renamon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ade5ca3b47e59e0800000000000000
+      internalID: -1630737700021675364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 132
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf60b7b4c22cca0800000000000000
+      internalID: -5998183051005854538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d18e03a5db86640800000000000000
+      internalID: 5073513175298088276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc48a81b5ecbca0800000000000000
+      internalID: -5999668052868412461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb08de00e33e3e0800000000000000
+      internalID: -2025707233681031282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb23e4ee2b8458d0800000000000000
+      internalID: -2858506829948572748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 132
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d6619124ef3e90800000000000000
+      internalID: -7043660459359676533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef9d1f2011a7cf0800000000000000
+      internalID: -253871724647809502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 132
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287d0e69a7fdf9b0800000000000000
+      internalID: -5044603700517177305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 132
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6d311b87719bd0800000000000000
+      internalID: -2625185668606890128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57198c83de4c38ac0800000000000000
+      internalID: -3854020332960050827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71814375ce485750800000000000000
+      internalID: 6293867089199464829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 132
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e151fffbb439f5c0800000000000000
+      internalID: -4181252796979260957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 132
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07c412eec26b2e0800000000000000
+      internalID: -2110449974104002334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 132
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a28023bd9d5010800000000000000
+      internalID: 1179272070111078316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 132
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0db2734c0f94bf0800000000000000
+      internalID: -339475571359887181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 132
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a58af9474edd570800000000000000
+      internalID: 8493195661836573235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 132
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b047523036ae7530800000000000000
+      internalID: 3854701057008943284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 132
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800fba34c2aa5130800000000000000
+      internalID: 3556333819445313667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 132
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f35b0e1e7aaa9c0800000000000000
+      internalID: -3915132337465770153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 132
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb3ec05f1994c00800000000000000
+      internalID: 885399283424280265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 132
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb19f45e26dbcb0800000000000000
+      internalID: -4846608886958801677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 132
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fbb3ed45713e70800000000000000
+      internalID: 9093178100031418638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 132
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a135204dcf0d31e0800000000000000
+      internalID: -2216598067377524319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 132
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe71404c92bb940800000000000000
+      internalID: 5312886107272638416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe61b85641b9e340800000000000000
+      internalID: 4893637385808604921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 101
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464dd90bbf63cad0800000000000000
+      internalID: -2683178103867619774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88027d36e14bc3720800000000000000
+      internalID: 2827332708698890376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3fb348afe16120800000000000000
+      internalID: 2405467181962706050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf24df6aecbbddc0800000000000000
+      internalID: -3613086560950145058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a79f111fbccd3b0800000000000000
+      internalID: -5486286009794987424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a441956afd379b0800000000000000
+      internalID: -5083473648819090864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 101
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ed756885ec39450800000000000000
+      internalID: 6094441600368762493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebd7c50689099b0800000000000000
+      internalID: -5075389240410522086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 101
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e31f68fdf114620800000000000000
+      internalID: 2756519491829579337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_35
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 101
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ce7c2e3d8daf10800000000000000
+      internalID: 2282635884320704171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 101
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba976c852825a10800000000000000
+      internalID: 1896721710874995600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 101
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07d8b8b5a1c6750800000000000000
+      internalID: 6299438959270129911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 101
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f60b5d3faf98250800000000000000
+      internalID: 5947560708088557467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 101
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5df307eb50c0c80800000000000000
+      internalID: -8355296893193955872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 101
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c574cfc0ec9d0e70800000000000000
+      internalID: 9083088512848524737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 101
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f9c8edb0cc8a60800000000000000
+      internalID: 7677723386646754305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 101
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2efd72db5b8074f0800000000000000
+      internalID: -833012704573784531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 101
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba84385bffac0d120800000000000000
+      internalID: 2436670598018189483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_44
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 101
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215439316979a1120800000000000000
+      internalID: 2385385623475406098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75486e8003ff6d120800000000000000
+      internalID: 2438416830040540247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 68
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be585124c07846050800000000000000
+      internalID: 5792903507423364587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2114c45a4c993f1b0800000000000000
+      internalID: -5623982439789739758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b7ea5943e30e90800000000000000
+      internalID: -7060549886589552215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c80a46cedd8290800000000000000
+      internalID: -7886402429228889828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 68
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89473b9abb0d4fb00800000000000000
+      internalID: 861542933159179416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 68
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7879cd0c6aea7a30800000000000000
+      internalID: 4213938151167195260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 68
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb14a0475f9293e0800000000000000
+      internalID: -2048399683404686390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775ba1f9654acd60800000000000000
+      internalID: 7911212016758118269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 68
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38969061dd5e8d140800000000000000
+      internalID: 4744794945155066243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 68
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08cbf2ff3548170800000000000000
+      internalID: 8179755178694312128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 68
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a149ccb11d61d0800000000000000
+      internalID: -3356006644793104775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f70c2505a710f40800000000000000
+      internalID: 5692965889377337213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af0b39b87a6eb280800000000000000
+      internalID: -9025659536467619933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c98c1974b16080800000000000000
+      internalID: -9195870531851008580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 68
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9d2263dd5d57f0800000000000000
+      internalID: -622238011040621794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 67
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac34b98c1bd6ecb0800000000000000
+      internalID: -4834936234319790933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_62
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 67
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b59090f539e2e0800000000000000
+      internalID: -2096084844230102665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee0479763b24fde0800000000000000
+      internalID: -1300366879437353238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a99120e6b123c760800000000000000
+      internalID: 7476856875693218213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea978c040528d2550800000000000000
+      internalID: 6137705148371728814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f0c438fdd4eb80800000000000000
+      internalID: -8366318149640849540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd49610da8e4740800000000000000
+      internalID: 5138196851212999777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 33
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dda2f15d4f97d0800000000000000
+      internalID: -2909521819898883810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e7cada2744fc50800000000000000
+      internalID: 6698056795191503176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e129997fd72734c0800000000000000
+      internalID: -4307930677785320985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 33
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8544b7375420ed0800000000000000
+      internalID: -2449318885044496182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac502da4b11b6f0800000000000000
+      internalID: -670724861336368418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2bc6fe6e8969250800000000000000
+      internalID: 5951112075243467440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 33
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba157d02224dcf0800000000000000
+      internalID: -228520156642301130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6e1ad1637272c0800000000000000
+      internalID: -4435355818898067573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 33
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f57c3a236fbbf0800000000000000
+      internalID: -306417216583764552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 33
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371c0397626c3470800000000000000
+      internalID: 8375677603990476603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_78
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85afa61df517c40800000000000000
+      internalID: 5508289172298422455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 33
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af19250da7fa550800000000000000
+      internalID: 6174288649305324172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_80
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c49dd6b78880c40800000000000000
+      internalID: 5478779010401520756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 33
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ca65524c033840800000000000000
+      internalID: 5202515473583489224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 33
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c02ff0ced82a660800000000000000
+      internalID: 7395629583115095053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_83
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 33
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f0c1b26df8cd760800000000000000
+      internalID: 7484014830791954253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd9a8ea07944d10800000000000000
+      internalID: 2108976598625147995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c2345587d96760800000000000000
+      internalID: 7451724026104432522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af81121a542026b0800000000000000
+      internalID: -5323214790283128928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ee6c00808abca0800000000000000
+      internalID: -6000342266065002222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22a7da9807e7bf0800000000000000
+      internalID: -324698386500803897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e31f8b901bd260800000000000000
+      internalID: 7123305495922991106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529e0bab88b81b30800000000000000
+      internalID: 4258356357688627797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448e3fbbf6287780800000000000000
+      internalID: -8685149018696809394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba61b9d7be7b260800000000000000
+      internalID: 7113413061160381262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 19
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a51f365d2fa770800000000000000
+      internalID: 8624161659886609138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_94
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714542154357ea900800000000000000
+      internalID: 697623859849090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288231889e2b1ecf0800000000000000
+      internalID: -224701790311733118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_96
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe58b5b8713c7880800000000000000
+      internalID: -8611953992924635460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_97
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 19
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee59de986d5cd3170800000000000000
+      internalID: 8159895625092929006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52929f529e380d950800000000000000
+      internalID: 6471817701919107365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_99
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39469c00592c0db10800000000000000
+      internalID: 2004315779398984851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e3e0c1ca777700800000000000000
+      internalID: 538033653077500021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_101
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046e91b99f44d050800000000000000
+      internalID: 5824367739625432072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 19
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336da962408630ec0800000000000000
+      internalID: -3601920909929425357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_103
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b718d8a5dba5e8a0800000000000000
+      internalID: -6276421571521800271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f6f56b7bf9da50800000000000000
+      internalID: 6546540040769959803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98103242d3391a0800000000000000
+      internalID: -6804027386611267155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_106
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c27127bbd50910800000000000000
+      internalID: 1803088805418419173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_107
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da29f9e94ebd400800000000000000
+      internalID: 350124765984501148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_108
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07b1b1e4e01872b0800000000000000
+      internalID: -5586696762527992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_109
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14820def4d0e029c0800000000000000
+      internalID: -3953913267418552255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_110
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10252fb01ca35fb00800000000000000
+      internalID: 861659504514847233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_111
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce867f955d0eee90800000000000000
+      internalID: -6994638509861073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_112
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9b6d8f744ea880800000000000000
+      internalID: -8597859323979522338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_113
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc58023147b00d0800000000000000
+      internalID: -3455540663577883878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_114
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841a4ecdee133210800000000000000
+      internalID: 1311425923211990145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28fdd94479fbbfb0800000000000000
+      internalID: -4630833513969616849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_116
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21476455f51e9a70800000000000000
+      internalID: 8835523662374715691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebf607c62748490800000000000000
+      internalID: -7744939649102004691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b04ddd6ace3474a0800000000000000
+      internalID: -6596578515043401547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_119
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4dee2416c2934b0800000000000000
+      internalID: -5460284276963617569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_120
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a3ed9d7f6dd2b0800000000000000
+      internalID: -5558163779794788241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_121
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd2f12fb566d730800000000000000
+      internalID: 4023515188684840079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_122
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34035558fd60648b0800000000000000
+      internalID: -5168435965276639165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_123
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99814504f93e1d760800000000000000
+      internalID: 7481010729157662873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_124
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258578695d447570800000000000000
+      internalID: 8463474646135964971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_125
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51919ba0255412e20800000000000000
+      internalID: 3324014218645674261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_126
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ec652321bdf3330800000000000000
+      internalID: 3692911090667540069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_127
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d1c4118f37d010800000000000000
+      internalID: 1213508448231215907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_128
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fdfe3f295d7c700800000000000000
+      internalID: 560651505765441377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_129
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f239a7f83c7bb10800000000000000
+      internalID: 1997279980766310298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_130
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b4ea28777c44b0800000000000000
+      internalID: -5454853690653100951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070252be4867c7640800000000000000
+      internalID: 5079064793019916400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_132
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 5
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3441d9fdfc4ca180800000000000000
+      internalID: -9102816093120936900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_133
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031974cb108f8da20800000000000000
+      internalID: 3087490230899937584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_134
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e5a1dcb75944d0800000000000000
+      internalID: -3149889995886171974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_135
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35a179cc9940190800000000000000
+      internalID: -7997097934315695172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_136
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526667ca1dcdbe3e0800000000000000
+      internalID: -2023280814473189851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_137
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caebdba9e7d6b470800000000000000
+      internalID: 8410146752771648195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_138
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474b5f29acc3de50800000000000000
+      internalID: 6833030086667224897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b2898c58bee5c0800000000000000
+      internalID: -4184204296197064603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_140
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9ca2e69c254970800000000000000
+      internalID: 8738439678541995192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renamon_141
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01509212c3de55b80800000000000000
+      internalID: -8406552286907005680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Renamon_59: -9195870531851008580
+      Renamon_6: -7043660459359676533
+      Renamon_116: 8835523662374715691
+      Renamon_109: -3953913267418552255
+      Renamon_75: -4435355818898067573
+      Renamon_76: -306417216583764552
+      Renamon_95: -224701790311733118
+      Renamon_24: 5312886107272638416
+      Renamon_126: 3692911090667540069
+      Renamon_53: 7911212016758118269
+      Renamon_122: -5168435965276639165
+      Renamon_74: -228520156642301130
+      Renamon_72: -670724861336368418
+      Renamon_81: 5202515473583489224
+      Renamon_120: -5558163779794788241
+      Renamon_23: -2216598067377524319
+      Renamon_33: -5075389240410522086
+      Renamon_27: 2827332708698890376
+      Renamon_80: 5478779010401520756
+      Renamon_64: 7476856875693218213
+      Renamon_84: 2108976598625147995
+      Renamon_132: -9102816093120936900
+      Renamon_141: -8406552286907005680
+      Renamon_136: -2023280814473189851
+      Renamon_54: 4744794945155066243
+      Renamon_62: -2096084844230102665
+      Renamon_10: -3854020332960050827
+      Renamon_61: -4834936234319790933
+      Renamon_65: 6137705148371728814
+      Renamon_32: 6094441600368762493
+      Renamon_40: 9083088512848524737
+      Renamon_42: -833012704573784531
+      Renamon_117: -7744939649102004691
+      Renamon_102: -3601920909929425357
+      Renamon_68: -2909521819898883810
+      Renamon_7: -253871724647809502
+      Renamon_67: 5138196851212999777
+      Renamon_31: -5083473648819090864
+      Renamon_41: 7677723386646754305
+      Renamon_77: 8375677603990476603
+      Renamon_131: 5079064793019916400
+      Renamon_39: -8355296893193955872
+      Renamon_4: -2025707233681031282
+      Renamon_36: 1896721710874995600
+      Renamon_38: 5947560708088557467
+      Renamon_66: -8366318149640849540
+      Renamon_55: 8179755178694312128
+      Renamon_104: 6546540040769959803
+      Renamon_78: 5508289172298422455
+      Renamon_43: 2436670598018189483
+      Renamon_71: -2449318885044496182
+      Renamon_47: -5623982439789739758
+      Renamon_101: 5824367739625432072
+      Renamon_45: 2438416830040540247
+      Renamon_89: 7123305495922991106
+      Renamon_98: 6471817701919107365
+      Renamon_137: 8410146752771648195
+      Renamon_121: 4023515188684840079
+      Renamon_21: -4846608886958801677
+      Renamon_50: 861542933159179416
+      Renamon_140: 8738439678541995192
+      Renamon_139: -4184204296197064603
+      Renamon_63: -1300366879437353238
+      Renamon_22: 9093178100031418638
+      Renamon_58: -9025659536467619933
+      Renamon_112: -8597859323979522338
+      Renamon_127: 1213508448231215907
+      Renamon_113: -3455540663577883878
+      Renamon_5: -2858506829948572748
+      Renamon_100: 538033653077500021
+      Renamon_88: -324698386500803897
+      Renamon_103: -6276421571521800271
+      Renamon_70: -4307930677785320985
+      Renamon_2: 5073513175298088276
+      Renamon_17: 3854701057008943284
+      Renamon_57: 5692965889377337213
+      Renamon_138: 6833030086667224897
+      Renamon_111: -6994638509861073210
+      Renamon_14: 1179272070111078316
+      Renamon_34: 2756519491829579337
+      Renamon_49: -7886402429228889828
+      Renamon_1: -5998183051005854538
+      Renamon_30: -5486286009794987424
+      Renamon_12: -4181252796979260957
+      Renamon_26: -2683178103867619774
+      Renamon_60: -622238011040621794
+      Renamon_91: -8685149018696809394
+      Renamon_0: -1630737700021675364
+      Renamon_3: -5999668052868412461
+      Renamon_11: 6293867089199464829
+      Renamon_37: 6299438959270129911
+      Renamon_106: 1803088805418419173
+      Renamon_69: 6698056795191503176
+      Renamon_92: 7113413061160381262
+      Renamon_18: 3556333819445313667
+      Renamon_83: 7484014830791954253
+      Renamon_94: 697623859849090071
+      Renamon_51: 4213938151167195260
+      Renamon_133: 3087490230899937584
+      Renamon_110: 861659504514847233
+      Renamon_85: 7451724026104432522
+      Renamon_99: 2004315779398984851
+      Renamon_73: 5951112075243467440
+      Renamon_108: -5586696762527992051
+      Renamon_82: 7395629583115095053
+      Renamon_115: -4630833513969616849
+      Renamon_97: 8159895625092929006
+      Renamon_124: 8463474646135964971
+      Renamon_44: 2385385623475406098
+      Renamon_79: 6174288649305324172
+      Renamon_13: -2110449974104002334
+      Renamon_19: -3915132337465770153
+      Renamon_9: -2625185668606890128
+      Renamon_90: 4258356357688627797
+      Renamon_123: 7481010729157662873
+      Renamon_28: 2405467181962706050
+      Renamon_20: 885399283424280265
+      Renamon_16: 8493195661836573235
+      Renamon_86: -5323214790283128928
+      Renamon_56: -3356006644793104775
+      Renamon_25: 4893637385808604921
+      Renamon_35: 2282635884320704171
+      Renamon_15: -339475571359887181
+      Renamon_87: -6000342266065002222
+      Renamon_93: 8624161659886609138
+      Renamon_48: -7060549886589552215
+      Renamon_114: 1311425923211990145
+      Renamon_8: -5044603700517177305
+      Renamon_96: -8611953992924635460
+      Renamon_130: -5454853690653100951
+      Renamon_107: 350124765984501148
+      Renamon_29: -3613086560950145058
+      Renamon_129: 1997279980766310298
+      Renamon_135: -7997097934315695172
+      Renamon_119: -5460284276963617569
+      Renamon_134: -3149889995886171974
+      Renamon_125: 3324014218645674261
+      Renamon_105: -6804027386611267155
+      Renamon_46: 5792903507423364587
+      Renamon_52: -2048399683404686390
+      Renamon_128: 560651505765441377
+      Renamon_118: -6596578515043401547
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

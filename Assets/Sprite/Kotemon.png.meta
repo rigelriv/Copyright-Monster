@@ -1,0 +1,3997 @@
+fileFormatVersion: 2
+guid: d9f560e61e4b24729abcaccb62cafcbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8310544368270135355
+    second: Kotemon_0
+  - first:
+      213: -6945815272725222561
+    second: Kotemon_1
+  - first:
+      213: 7223174008951413093
+    second: Kotemon_2
+  - first:
+      213: -4015347281852189860
+    second: Kotemon_3
+  - first:
+      213: -8119078576133828748
+    second: Kotemon_4
+  - first:
+      213: -3654721325986605560
+    second: Kotemon_5
+  - first:
+      213: 955205321316260070
+    second: Kotemon_6
+  - first:
+      213: 198384462393406337
+    second: Kotemon_7
+  - first:
+      213: 1441134104612153777
+    second: Kotemon_8
+  - first:
+      213: -6163420070829304878
+    second: Kotemon_9
+  - first:
+      213: 4054246605636580710
+    second: Kotemon_10
+  - first:
+      213: 5449304444054711423
+    second: Kotemon_11
+  - first:
+      213: 424749277011182806
+    second: Kotemon_12
+  - first:
+      213: 7840458211816525384
+    second: Kotemon_13
+  - first:
+      213: 1508949404698962758
+    second: Kotemon_14
+  - first:
+      213: -1163120533061393332
+    second: Kotemon_15
+  - first:
+      213: 3520666653868140556
+    second: Kotemon_16
+  - first:
+      213: 6372915098257463468
+    second: Kotemon_17
+  - first:
+      213: -2197990967988340195
+    second: Kotemon_18
+  - first:
+      213: -1612747236170816476
+    second: Kotemon_19
+  - first:
+      213: 1643616734087146627
+    second: Kotemon_20
+  - first:
+      213: -1353423260260711300
+    second: Kotemon_21
+  - first:
+      213: -3185348107674595145
+    second: Kotemon_22
+  - first:
+      213: 1518020238212505854
+    second: Kotemon_23
+  - first:
+      213: -1285939507541395432
+    second: Kotemon_24
+  - first:
+      213: -1979665167645836773
+    second: Kotemon_25
+  - first:
+      213: 7516900772131116072
+    second: Kotemon_26
+  - first:
+      213: 3842812187468158234
+    second: Kotemon_27
+  - first:
+      213: -7441238737883130747
+    second: Kotemon_28
+  - first:
+      213: -8791579356152250709
+    second: Kotemon_29
+  - first:
+      213: -2399318250661321323
+    second: Kotemon_30
+  - first:
+      213: 8668651845326835517
+    second: Kotemon_31
+  - first:
+      213: -2345692670412096812
+    second: Kotemon_32
+  - first:
+      213: 5515958964446116899
+    second: Kotemon_33
+  - first:
+      213: 1440135118421983819
+    second: Kotemon_34
+  - first:
+      213: -5048724252804490997
+    second: Kotemon_35
+  - first:
+      213: -504913090700904954
+    second: Kotemon_36
+  - first:
+      213: 5545757408971327211
+    second: Kotemon_37
+  - first:
+      213: 6709515246047978759
+    second: Kotemon_38
+  - first:
+      213: -7953241631126053727
+    second: Kotemon_39
+  - first:
+      213: 1209569525219731039
+    second: Kotemon_40
+  - first:
+      213: -6325828304804023411
+    second: Kotemon_41
+  - first:
+      213: 1570882040087389263
+    second: Kotemon_42
+  - first:
+      213: 4607405920400000806
+    second: Kotemon_43
+  - first:
+      213: -5874785414246886607
+    second: Kotemon_44
+  - first:
+      213: 5665839013868259859
+    second: Kotemon_45
+  - first:
+      213: -3515901065861034306
+    second: Kotemon_46
+  - first:
+      213: 3208534688242809905
+    second: Kotemon_47
+  - first:
+      213: -2289306556795076095
+    second: Kotemon_48
+  - first:
+      213: -8080163528917774452
+    second: Kotemon_49
+  - first:
+      213: 1793263245275703571
+    second: Kotemon_50
+  - first:
+      213: -513535967887035219
+    second: Kotemon_51
+  - first:
+      213: 2301965017875478870
+    second: Kotemon_52
+  - first:
+      213: -952994074627894702
+    second: Kotemon_53
+  - first:
+      213: 2998156947603075800
+    second: Kotemon_54
+  - first:
+      213: -2654286628894683780
+    second: Kotemon_55
+  - first:
+      213: -1785389597075169230
+    second: Kotemon_56
+  - first:
+      213: -3548320420869495144
+    second: Kotemon_57
+  - first:
+      213: 4624595949336475918
+    second: Kotemon_58
+  - first:
+      213: -2152634699097865777
+    second: Kotemon_59
+  - first:
+      213: -1068291258379221139
+    second: Kotemon_60
+  - first:
+      213: 3554709186848275200
+    second: Kotemon_61
+  - first:
+      213: 1920135168920527778
+    second: Kotemon_62
+  - first:
+      213: -1492118412780780277
+    second: Kotemon_63
+  - first:
+      213: -707963072712248488
+    second: Kotemon_64
+  - first:
+      213: -5616541597982200653
+    second: Kotemon_65
+  - first:
+      213: 1968373319414114480
+    second: Kotemon_66
+  - first:
+      213: 5332426011433363875
+    second: Kotemon_67
+  - first:
+      213: -4732024369961289832
+    second: Kotemon_68
+  - first:
+      213: 5980583297978784047
+    second: Kotemon_69
+  - first:
+      213: 1665715319950073748
+    second: Kotemon_70
+  - first:
+      213: -457257717632526297
+    second: Kotemon_71
+  - first:
+      213: -5706177967685525861
+    second: Kotemon_72
+  - first:
+      213: -1609188955145019239
+    second: Kotemon_73
+  - first:
+      213: 4639216876475114323
+    second: Kotemon_74
+  - first:
+      213: 5729350668986133425
+    second: Kotemon_75
+  - first:
+      213: -5107088418946151946
+    second: Kotemon_76
+  - first:
+      213: 6376514190537099970
+    second: Kotemon_77
+  - first:
+      213: -2070856211737837340
+    second: Kotemon_78
+  - first:
+      213: 1420408256117732244
+    second: Kotemon_79
+  - first:
+      213: 5586736737552449343
+    second: Kotemon_80
+  - first:
+      213: -5658203066856913604
+    second: Kotemon_81
+  - first:
+      213: -7630256275491592528
+    second: Kotemon_82
+  - first:
+      213: -8076098511207365386
+    second: Kotemon_83
+  - first:
+      213: 7947509156027647888
+    second: Kotemon_84
+  - first:
+      213: 2468510658222303271
+    second: Kotemon_85
+  - first:
+      213: 1447808072976975777
+    second: Kotemon_86
+  - first:
+      213: 8512820423847668720
+    second: Kotemon_87
+  - first:
+      213: -228277925830914634
+    second: Kotemon_88
+  - first:
+      213: 6021424713376497567
+    second: Kotemon_89
+  - first:
+      213: -746916944032894381
+    second: Kotemon_90
+  - first:
+      213: 6423484435184132240
+    second: Kotemon_91
+  - first:
+      213: 3101374383650220178
+    second: Kotemon_92
+  - first:
+      213: -2156855804377253476
+    second: Kotemon_93
+  - first:
+      213: 506835623378925053
+    second: Kotemon_94
+  - first:
+      213: -2513326372023133959
+    second: Kotemon_95
+  - first:
+      213: 479032483596611042
+    second: Kotemon_96
+  - first:
+      213: -7172139811411291791
+    second: Kotemon_97
+  - first:
+      213: -9164809766418850412
+    second: Kotemon_98
+  - first:
+      213: -5841133637181493070
+    second: Kotemon_99
+  - first:
+      213: 983554458284111806
+    second: Kotemon_100
+  - first:
+      213: -5050353140885930634
+    second: Kotemon_101
+  - first:
+      213: 6879966688653913164
+    second: Kotemon_102
+  - first:
+      213: -3568346790760262280
+    second: Kotemon_103
+  - first:
+      213: -2793950768958373134
+    second: Kotemon_104
+  - first:
+      213: -7801848515262827519
+    second: Kotemon_105
+  - first:
+      213: -5304602590221486392
+    second: Kotemon_106
+  - first:
+      213: 7364614751886563505
+    second: Kotemon_107
+  - first:
+      213: -2331118509376917009
+    second: Kotemon_108
+  - first:
+      213: 7785375591007066207
+    second: Kotemon_109
+  - first:
+      213: 3099673419569496163
+    second: Kotemon_110
+  - first:
+      213: 4805113593219472535
+    second: Kotemon_111
+  - first:
+      213: 4582746846657615406
+    second: Kotemon_112
+  - first:
+      213: 1309434444431941109
+    second: Kotemon_113
+  - first:
+      213: 5265628370906533129
+    second: Kotemon_114
+  - first:
+      213: -4878352945729852612
+    second: Kotemon_115
+  - first:
+      213: -6446873516494151823
+    second: Kotemon_116
+  - first:
+      213: 6220795643932391718
+    second: Kotemon_117
+  - first:
+      213: -1172651842223567119
+    second: Kotemon_118
+  - first:
+      213: 8572885693341556740
+    second: Kotemon_119
+  - first:
+      213: 2876311190823956697
+    second: Kotemon_120
+  - first:
+      213: 690308546237819381
+    second: Kotemon_121
+  - first:
+      213: -3699613000449019774
+    second: Kotemon_122
+  - first:
+      213: 8780633993625550941
+    second: Kotemon_123
+  - first:
+      213: -8695919005288169874
+    second: Kotemon_124
+  - first:
+      213: -2430576386495658691
+    second: Kotemon_125
+  - first:
+      213: -9216913956396499712
+    second: Kotemon_126
+  - first:
+      213: 1278573053917025116
+    second: Kotemon_127
+  - first:
+      213: -3136286138054280857
+    second: Kotemon_128
+  - first:
+      213: 2875231081084457797
+    second: Kotemon_129
+  - first:
+      213: 4828662340423140571
+    second: Kotemon_130
+  - first:
+      213: 9003260334201375594
+    second: Kotemon_131
+  - first:
+      213: -5091305555335180190
+    second: Kotemon_132
+  - first:
+      213: -3823333551389290350
+    second: Kotemon_133
+  - first:
+      213: 4007572861327573870
+    second: Kotemon_134
+  - first:
+      213: -5697358264495531079
+    second: Kotemon_135
+  - first:
+      213: 1316543750113793901
+    second: Kotemon_136
+  - first:
+      213: -2285555478042023407
+    second: Kotemon_137
+  - first:
+      213: 3072312229332038678
+    second: Kotemon_138
+  - first:
+      213: 6739404140331368504
+    second: Kotemon_139
+  - first:
+      213: -4867085632419606193
+    second: Kotemon_140
+  - first:
+      213: 6882067381660139502
+    second: Kotemon_141
+  - first:
+      213: -2173403985919102048
+    second: Kotemon_142
+  - first:
+      213: 1723081601072453788
+    second: Kotemon_143
+  - first:
+      213: 1360278345828353786
+    second: Kotemon_144
+  - first:
+      213: 5412113459455056105
+    second: Kotemon_145
+  - first:
+      213: 6102448426396547499
+    second: Kotemon_146
+  - first:
+      213: 5418028424891358027
+    second: Kotemon_147
+  - first:
+      213: -8230839836137190643
+    second: Kotemon_148
+  - first:
+      213: 4132335674721877885
+    second: Kotemon_149
+  - first:
+      213: -5011808733750356374
+    second: Kotemon_150
+  - first:
+      213: -7755221219373642116
+    second: Kotemon_151
+  - first:
+      213: 5514388274984723953
+    second: Kotemon_152
+  - first:
+      213: 1373219793710351135
+    second: Kotemon_153
+  - first:
+      213: -5714649393227153036
+    second: Kotemon_154
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kotemon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305dd0621cf45370800000000000000
+      internalID: 8310544368270135355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 139
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5beab95fc18b9f90800000000000000
+      internalID: -6945815272725222561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569126abd7edd3460800000000000000
+      internalID: 7223174008951413093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 139
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53be5fdbee9648c0800000000000000
+      internalID: -4015347281852189860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 140
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0f0e3d0d335f80800000000000000
+      internalID: -8119078576133828748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 140
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806168b4152d74dc0800000000000000
+      internalID: -3654721325986605560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 140
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85e98cd22914d00800000000000000
+      internalID: 955205321316260070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 140
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837ae11e9dc0c200800000000000000
+      internalID: 198384462393406337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 140
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ab1b25dfeff310800000000000000
+      internalID: 1441134104612153777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d4bcc912277aa0800000000000000
+      internalID: -6163420070829304878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 140
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653dc8bec3934830800000000000000
+      internalID: 4054246605636580710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 140
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca6dc2581df9b40800000000000000
+      internalID: 5449304444054711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 140
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40bde873305e500800000000000000
+      internalID: 424749277011182806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 140
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4e9ff337eecc60800000000000000
+      internalID: 7840458211816525384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 140
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6e132d7dd0f410800000000000000
+      internalID: 1508949404698962758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 140
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a9e3a904cbdfe0800000000000000
+      internalID: -1163120533061393332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08af5c1babebd030800000000000000
+      internalID: 3520666653868140556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81c574484217850800000000000000
+      internalID: 6372915098257463468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 140
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab98d2cda2f71e0800000000000000
+      internalID: -2197990967988340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ab83feee5e99e0800000000000000
+      internalID: -1612747236170816476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce62e16bc4fc610800000000000000
+      internalID: 1643616734087146627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c86d27bca73de0800000000000000
+      internalID: -1353423260260711300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0d714d5ce5bc3d0800000000000000
+      internalID: -3185348107674595145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a2842d57111510800000000000000
+      internalID: 1518020238212505854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ba52c4dc672ee0800000000000000
+      internalID: -1285939507541395432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a714cc401d684e0800000000000000
+      internalID: -1979665167645836773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241cbe0d65615860800000000000000
+      internalID: 7516900772131116072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 105
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d49c0359645530800000000000000
+      internalID: 3842812187468158234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58499931bc86bb890800000000000000
+      internalID: -7441238737883130747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae33e5c7290ef580800000000000000
+      internalID: -8791579356152250709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 105
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595683e53c8e3bed0800000000000000
+      internalID: -2399318250661321323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 105
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f8d32ccec3d4870800000000000000
+      internalID: 8668651845326835517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 105
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da79dbb1fc627fd0800000000000000
+      internalID: -2345692670412096812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 105
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c317f047f9c8c40800000000000000
+      internalID: 5515958964446116899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 105
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428b1292436cf310800000000000000
+      internalID: 1440135118421983819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_35
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 105
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0950b69a045fe9b0800000000000000
+      internalID: -5048724252804490997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 105
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f35a18303ef8f0800000000000000
+      internalID: -504913090700904954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 105
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60a341bfc76fc40800000000000000
+      internalID: 5545757408971327211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 105
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e1c7519cfc1d50800000000000000
+      internalID: 6709515246047978759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_39
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 105
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac12e3efd860a190800000000000000
+      internalID: -7953241631126053727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_40
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 105
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562cd9131149c010800000000000000
+      internalID: 1209569525219731039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 105
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837b062ca42638a0800000000000000
+      internalID: -6325828304804023411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_42
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 105
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44237f74e4ecc510800000000000000
+      internalID: 1570882040087389263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274975064bc0ff30800000000000000
+      internalID: 4607405920400000806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1331b2caac1987ea0800000000000000
+      internalID: -5874785414246886607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 70
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aca20709a11ae40800000000000000
+      internalID: 5665839013868259859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8fefcb92053fc0800000000000000
+      internalID: -3515901065861034306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3b36ac41078c20800000000000000
+      internalID: 3208534688242809905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c14cd0dfba30e0800000000000000
+      internalID: -2289306556795076095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f0acbb41e7ddf80800000000000000
+      internalID: -8080163528917774452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 70
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3192c63ab63f2e810800000000000000
+      internalID: 1793263245275703571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 70
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f4be02cd8fd8f0800000000000000
+      internalID: -513535967887035219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 70
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f7d7ccf832ff10800000000000000
+      internalID: 2301965017875478870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 70
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25290c430f846c2f0800000000000000
+      internalID: -952994074627894702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 70
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d230c2ebd79b9920800000000000000
+      internalID: 2998156947603075800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 70
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc9a0cf541a2bd0800000000000000
+      internalID: -2654286628894683780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 70
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23028a0fe950937e0800000000000000
+      internalID: -1785389597075169230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 70
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8962fc48065d1cec0800000000000000
+      internalID: -3548320420869495144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 70
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0939e5838ddd2040800000000000000
+      internalID: 4624595949336475918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 70
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18715752e4022e0800000000000000
+      internalID: -2152634699097865777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67c6a3b2caac21f0800000000000000
+      internalID: -1068291258379221139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_61
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 70
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb8e9fb2dd45130800000000000000
+      internalID: 3554709186848275200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_62
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a32e3843c0b5aa10800000000000000
+      internalID: 1920135168920527778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_63
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c16b853eea4be0800000000000000
+      internalID: -1492118412780780277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 70
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85374e8165fcc26f0800000000000000
+      internalID: -707963072712248488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_65
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce012ac290e02b0800000000000000
+      internalID: -5616541597982200653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8e809ea11115b10800000000000000
+      internalID: 1968373319414114480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e98a7435900a40800000000000000
+      internalID: 5332426011433363875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89737f728e8745eb0800000000000000
+      internalID: -4732024369961289832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 36
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d8a1b2dc4ff250800000000000000
+      internalID: 5980583297978784047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fdc86124fcd1710800000000000000
+      internalID: 1665715319950073748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72815b9478e77a9f0800000000000000
+      internalID: -457257717632526297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 36
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e91fafe559fc0b0800000000000000
+      internalID: -5706177967685525861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906910db230ba9e0800000000000000
+      internalID: -1609188955145019239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_74
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353eb466b2fc16040800000000000000
+      internalID: 4639216876475114323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 36
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bba09af31eb28f40800000000000000
+      internalID: 5729350668986133425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 37
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90438342aff19b0800000000000000
+      internalID: -5107088418946151946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_77
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 37
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca83304fdded7850800000000000000
+      internalID: 6376514190537099970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 37
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0847e4f37d243e0800000000000000
+      internalID: -2070856211737837340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 37
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493fde588cd46b310800000000000000
+      internalID: 1420408256117732244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_80
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 37
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f30778673188d40800000000000000
+      internalID: 5586736737552449343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_81
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 37
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c7f40a460a71b0800000000000000
+      internalID: -5658203066856913604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_82
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 37
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e0222852eb1690800000000000000
+      internalID: -7630256275491592528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_83
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 37
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48c6c613febef80800000000000000
+      internalID: -8076098511207365386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_84
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 37
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097413e38793b4e60800000000000000
+      internalID: 7947509156027647888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_85
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 37
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282b9b6d59e14220800000000000000
+      internalID: 2468510658222303271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_86
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 37
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74cb485c5a71410800000000000000
+      internalID: 1447808072976975777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_87
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 37
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6128921d932670800000000000000
+      internalID: 8512820423847668720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd09c89f6ef4dcf0800000000000000
+      internalID: -228277925830914634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f709abfd5609350800000000000000
+      internalID: 6021424713376497567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f23a2ffa62a5f0800000000000000
+      internalID: -746916944032894381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a66b8f0dc42950800000000000000
+      internalID: 6423484435184132240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_92
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 21
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a7f4f19b4a0b20800000000000000
+      internalID: 3101374383650220178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_93
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 21
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99ba5cc21f4112e0800000000000000
+      internalID: -2156855804377253476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5b30b6054a80700800000000000000
+      internalID: 506835623378925053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f890f61bfede1dd0800000000000000
+      internalID: -2513326372023133959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_96
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 21
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed26ac718dd5a600800000000000000
+      internalID: 479032483596611042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 21
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171946557d0777c90800000000000000
+      internalID: -7172139811411291791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_98
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd29e131e00d080800000000000000
+      internalID: -9164809766418850412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0363697ef10fea0800000000000000
+      internalID: -5841133637181493070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_100
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b647919946ad00800000000000000
+      internalID: 983554458284111806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_101
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d3737839a89e9b0800000000000000
+      internalID: -5050353140885930634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_102
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 21
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cacbf604d8a7f50800000000000000
+      internalID: 6879966688653913164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875545def7faa7ec0800000000000000
+      internalID: -3568346790760262280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 21
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28e402494e939d0800000000000000
+      internalID: -2793950768958373134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_105
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b9508c144ab390800000000000000
+      internalID: -7801848515262827519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63b379c044266b0800000000000000
+      internalID: -5304602590221486392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_107
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8dcc1f81e543660800000000000000
+      internalID: 7364614751886563505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 21
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13047011436afd0800000000000000
+      internalID: -2331118509376917009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5819f0f9d53b0c60800000000000000
+      internalID: 7785375591007066207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_110
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 19
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36009256d80440b20800000000000000
+      internalID: 3099673419569496163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_111
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5f3dba513fa240800000000000000
+      internalID: 4805113593219472535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2691920aff299f30800000000000000
+      internalID: 4582746846657615406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_113
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd60580bb0c2210800000000000000
+      internalID: 1309434444431941109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_114
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4a17da15431940800000000000000
+      internalID: 5265628370906533129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_115
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3baacca7db9c4cb0800000000000000
+      internalID: -4878352945729852612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_116
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1e7991ba1886a0800000000000000
+      internalID: -6446873516494151823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_117
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62933e0dda4b45650800000000000000
+      internalID: 6220795643932391718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_118
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8e0bcc57e9bfe0800000000000000
+      internalID: -1172651842223567119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_119
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e6a3fd1209f670800000000000000
+      internalID: 8572885693341556740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_120
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 19
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0fa88e9c5bae720800000000000000
+      internalID: 2876311190823956697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_121
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ebe327f7749900800000000000000
+      internalID: 690308546237819381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b1d5d39558acc0800000000000000
+      internalID: -3699613000449019774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_123
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5045cc68141bd970800000000000000
+      internalID: 8780633993625550941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_124
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6efa36dcb3e15780800000000000000
+      internalID: -8695919005288169874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_125
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35497b77abd44ed0800000000000000
+      internalID: -2430576386495658691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_126
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d75a70791f61080800000000000000
+      internalID: -9216913956396499712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_127
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535c1a1b676eb110800000000000000
+      internalID: 1278573053917025116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_128
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769fa4bcf5ca974d0800000000000000
+      internalID: -3136286138054280857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_129
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54393334f6fd6e720800000000000000
+      internalID: 2875231081084457797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44a35b0dad20340800000000000000
+      internalID: 4828662340423140571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0078929102fc70800000000000000
+      internalID: 9003260334201375594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_132
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601643829c0859b0800000000000000
+      internalID: -5091305555335180190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_133
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290db93546ac0fac0800000000000000
+      internalID: -3823333551389290350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_134
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630deac842cd9730800000000000000
+      internalID: 4007572861327573870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_135
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 8
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9b9628daeee0b0800000000000000
+      internalID: -5697358264495531079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_136
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671bccb09d454210800000000000000
+      internalID: 1316543750113793901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6bd0f6631840e0800000000000000
+      internalID: -2285555478042023407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_138
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614bc6cd1bb03aa20800000000000000
+      internalID: 3072312229332038678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_139
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308f36db5c278d50800000000000000
+      internalID: 6739404140331368504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_140
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d83c7763a47cb0800000000000000
+      internalID: -4867085632419606193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_141
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb72422d3028f50800000000000000
+      internalID: 6882067381660139502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_142
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3bfd9079486d1e0800000000000000
+      internalID: -2173403985919102048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_143
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985fee369d99e710800000000000000
+      internalID: 1723081601072453788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_144
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af641cec2fda0e210800000000000000
+      internalID: 1360278345828353786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_145
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ddea4480bb1b40800000000000000
+      internalID: 5412113459455056105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_146
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f18bf28040b450800000000000000
+      internalID: 6102448426396547499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_147
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5e908524b03b40800000000000000
+      internalID: 5418028424891358027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_148
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 8
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b88e327ce26cd80800000000000000
+      internalID: -8230839836137190643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_149
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb870f661095930800000000000000
+      internalID: 4132335674721877885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_150
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 8
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a661c96a28a727ab0800000000000000
+      internalID: -5011808733750356374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_151
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e89a0d36bef5490800000000000000
+      internalID: -7755221219373642116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_152
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52b0c6bea078c40800000000000000
+      internalID: 5514388274984723953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_153
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1304a27028ae0310800000000000000
+      internalID: 1373219793710351135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotemon_154
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 8
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714bc487ac71b0b0800000000000000
+      internalID: -5714649393227153036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kotemon_31: 8668651845326835517
+      Kotemon_136: 1316543750113793901
+      Kotemon_118: -1172651842223567119
+      Kotemon_84: 7947509156027647888
+      Kotemon_75: 5729350668986133425
+      Kotemon_89: 6021424713376497567
+      Kotemon_114: 5265628370906533129
+      Kotemon_110: 3099673419569496163
+      Kotemon_42: 1570882040087389263
+      Kotemon_143: 1723081601072453788
+      Kotemon_152: 5514388274984723953
+      Kotemon_98: -9164809766418850412
+      Kotemon_65: -5616541597982200653
+      Kotemon_69: 5980583297978784047
+      Kotemon_16: 3520666653868140556
+      Kotemon_43: 4607405920400000806
+      Kotemon_94: 506835623378925053
+      Kotemon_99: -5841133637181493070
+      Kotemon_49: -8080163528917774452
+      Kotemon_95: -2513326372023133959
+      Kotemon_39: -7953241631126053727
+      Kotemon_133: -3823333551389290350
+      Kotemon_47: 3208534688242809905
+      Kotemon_137: -2285555478042023407
+      Kotemon_108: -2331118509376917009
+      Kotemon_122: -3699613000449019774
+      Kotemon_15: -1163120533061393332
+      Kotemon_126: -9216913956396499712
+      Kotemon_30: -2399318250661321323
+      Kotemon_27: 3842812187468158234
+      Kotemon_64: -707963072712248488
+      Kotemon_33: 5515958964446116899
+      Kotemon_127: 1278573053917025116
+      Kotemon_112: 4582746846657615406
+      Kotemon_121: 690308546237819381
+      Kotemon_83: -8076098511207365386
+      Kotemon_17: 6372915098257463468
+      Kotemon_20: 1643616734087146627
+      Kotemon_57: -3548320420869495144
+      Kotemon_54: 2998156947603075800
+      Kotemon_115: -4878352945729852612
+      Kotemon_123: 8780633993625550941
+      Kotemon_40: 1209569525219731039
+      Kotemon_96: 479032483596611042
+      Kotemon_86: 1447808072976975777
+      Kotemon_58: 4624595949336475918
+      Kotemon_37: 5545757408971327211
+      Kotemon_79: 1420408256117732244
+      Kotemon_91: 6423484435184132240
+      Kotemon_142: -2173403985919102048
+      Kotemon_77: 6376514190537099970
+      Kotemon_59: -2152634699097865777
+      Kotemon_101: -5050353140885930634
+      Kotemon_85: 2468510658222303271
+      Kotemon_81: -5658203066856913604
+      Kotemon_106: -5304602590221486392
+      Kotemon_100: 983554458284111806
+      Kotemon_92: 3101374383650220178
+      Kotemon_104: -2793950768958373134
+      Kotemon_125: -2430576386495658691
+      Kotemon_113: 1309434444431941109
+      Kotemon_8: 1441134104612153777
+      Kotemon_116: -6446873516494151823
+      Kotemon_45: 5665839013868259859
+      Kotemon_19: -1612747236170816476
+      Kotemon_22: -3185348107674595145
+      Kotemon_103: -3568346790760262280
+      Kotemon_36: -504913090700904954
+      Kotemon_23: 1518020238212505854
+      Kotemon_154: -5714649393227153036
+      Kotemon_144: 1360278345828353786
+      Kotemon_35: -5048724252804490997
+      Kotemon_120: 2876311190823956697
+      Kotemon_149: 4132335674721877885
+      Kotemon_14: 1508949404698962758
+      Kotemon_71: -457257717632526297
+      Kotemon_63: -1492118412780780277
+      Kotemon_73: -1609188955145019239
+      Kotemon_87: 8512820423847668720
+      Kotemon_132: -5091305555335180190
+      Kotemon_51: -513535967887035219
+      Kotemon_13: 7840458211816525384
+      Kotemon_55: -2654286628894683780
+      Kotemon_102: 6879966688653913164
+      Kotemon_53: -952994074627894702
+      Kotemon_78: -2070856211737837340
+      Kotemon_38: 6709515246047978759
+      Kotemon_107: 7364614751886563505
+      Kotemon_139: 6739404140331368504
+      Kotemon_134: 4007572861327573870
+      Kotemon_18: -2197990967988340195
+      Kotemon_67: 5332426011433363875
+      Kotemon_24: -1285939507541395432
+      Kotemon_148: -8230839836137190643
+      Kotemon_130: 4828662340423140571
+      Kotemon_5: -3654721325986605560
+      Kotemon_90: -746916944032894381
+      Kotemon_153: 1373219793710351135
+      Kotemon_2: 7223174008951413093
+      Kotemon_82: -7630256275491592528
+      Kotemon_117: 6220795643932391718
+      Kotemon_68: -4732024369961289832
+      Kotemon_1: -6945815272725222561
+      Kotemon_141: 6882067381660139502
+      Kotemon_61: 3554709186848275200
+      Kotemon_52: 2301965017875478870
+      Kotemon_28: -7441238737883130747
+      Kotemon_62: 1920135168920527778
+      Kotemon_29: -8791579356152250709
+      Kotemon_6: 955205321316260070
+      Kotemon_74: 4639216876475114323
+      Kotemon_147: 5418028424891358027
+      Kotemon_48: -2289306556795076095
+      Kotemon_93: -2156855804377253476
+      Kotemon_72: -5706177967685525861
+      Kotemon_9: -6163420070829304878
+      Kotemon_128: -3136286138054280857
+      Kotemon_0: 8310544368270135355
+      Kotemon_25: -1979665167645836773
+      Kotemon_26: 7516900772131116072
+      Kotemon_131: 9003260334201375594
+      Kotemon_56: -1785389597075169230
+      Kotemon_135: -5697358264495531079
+      Kotemon_41: -6325828304804023411
+      Kotemon_12: 424749277011182806
+      Kotemon_97: -7172139811411291791
+      Kotemon_119: 8572885693341556740
+      Kotemon_76: -5107088418946151946
+      Kotemon_3: -4015347281852189860
+      Kotemon_80: 5586736737552449343
+      Kotemon_88: -228277925830914634
+      Kotemon_105: -7801848515262827519
+      Kotemon_145: 5412113459455056105
+      Kotemon_7: 198384462393406337
+      Kotemon_21: -1353423260260711300
+      Kotemon_150: -5011808733750356374
+      Kotemon_50: 1793263245275703571
+      Kotemon_46: -3515901065861034306
+      Kotemon_111: 4805113593219472535
+      Kotemon_138: 3072312229332038678
+      Kotemon_151: -7755221219373642116
+      Kotemon_124: -8695919005288169874
+      Kotemon_34: 1440135118421983819
+      Kotemon_146: 6102448426396547499
+      Kotemon_60: -1068291258379221139
+      Kotemon_109: 7785375591007066207
+      Kotemon_11: 5449304444054711423
+      Kotemon_32: -2345692670412096812
+      Kotemon_10: 4054246605636580710
+      Kotemon_66: 1968373319414114480
+      Kotemon_4: -8119078576133828748
+      Kotemon_140: -4867085632419606193
+      Kotemon_129: 2875231081084457797
+      Kotemon_44: -5874785414246886607
+      Kotemon_70: 1665715319950073748
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

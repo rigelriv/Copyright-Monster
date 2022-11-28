@@ -1,0 +1,3722 @@
+fileFormatVersion: 2
+guid: 090f45f9a3a8d436c92636e28667def1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7573340614654611181
+    second: Guilmon_0
+  - first:
+      213: -8177783998842074800
+    second: Guilmon_1
+  - first:
+      213: -4349214565639218043
+    second: Guilmon_2
+  - first:
+      213: 4321086696256291455
+    second: Guilmon_3
+  - first:
+      213: -615174461118282279
+    second: Guilmon_4
+  - first:
+      213: -5675507683049257489
+    second: Guilmon_5
+  - first:
+      213: -3673663156755733531
+    second: Guilmon_6
+  - first:
+      213: 6203373984555890174
+    second: Guilmon_7
+  - first:
+      213: 7050414577414932016
+    second: Guilmon_8
+  - first:
+      213: -6866679231225029891
+    second: Guilmon_9
+  - first:
+      213: 263144655865843180
+    second: Guilmon_10
+  - first:
+      213: -1984556673903027523
+    second: Guilmon_11
+  - first:
+      213: 3105200112199215545
+    second: Guilmon_12
+  - first:
+      213: 2038117960451568441
+    second: Guilmon_13
+  - first:
+      213: -4765303498584980072
+    second: Guilmon_14
+  - first:
+      213: 4711471245043351359
+    second: Guilmon_15
+  - first:
+      213: 505163671544411071
+    second: Guilmon_16
+  - first:
+      213: -8091104947832399863
+    second: Guilmon_17
+  - first:
+      213: -7208911614711209376
+    second: Guilmon_18
+  - first:
+      213: -1151367769152261986
+    second: Guilmon_19
+  - first:
+      213: 6922986788907297845
+    second: Guilmon_20
+  - first:
+      213: -5362452143030708192
+    second: Guilmon_21
+  - first:
+      213: -7949624027407974562
+    second: Guilmon_22
+  - first:
+      213: 4491214466188264282
+    second: Guilmon_23
+  - first:
+      213: 6793227512860539298
+    second: Guilmon_24
+  - first:
+      213: -2265760922388270669
+    second: Guilmon_25
+  - first:
+      213: 1410460159223296069
+    second: Guilmon_26
+  - first:
+      213: 3886783068302135111
+    second: Guilmon_27
+  - first:
+      213: -6774427719674931580
+    second: Guilmon_28
+  - first:
+      213: -6004653193520748773
+    second: Guilmon_29
+  - first:
+      213: 3052559384663074211
+    second: Guilmon_30
+  - first:
+      213: -5534215677691567588
+    second: Guilmon_31
+  - first:
+      213: 2761817346145788471
+    second: Guilmon_32
+  - first:
+      213: -8296251320823371944
+    second: Guilmon_33
+  - first:
+      213: -931030561150944761
+    second: Guilmon_34
+  - first:
+      213: -4395311796567199006
+    second: Guilmon_35
+  - first:
+      213: -3681647839493598026
+    second: Guilmon_36
+  - first:
+      213: 2435351135819570191
+    second: Guilmon_37
+  - first:
+      213: -4577833099816631155
+    second: Guilmon_38
+  - first:
+      213: -5616229955526713528
+    second: Guilmon_39
+  - first:
+      213: -1424339019593336990
+    second: Guilmon_40
+  - first:
+      213: -1712768582900038377
+    second: Guilmon_41
+  - first:
+      213: 7124238188901344337
+    second: Guilmon_42
+  - first:
+      213: -2188224825634751229
+    second: Guilmon_43
+  - first:
+      213: 410925373719868760
+    second: Guilmon_44
+  - first:
+      213: 7509892866980708902
+    second: Guilmon_45
+  - first:
+      213: 1175687349443103650
+    second: Guilmon_46
+  - first:
+      213: -8604284889524049266
+    second: Guilmon_47
+  - first:
+      213: -4568730418050721666
+    second: Guilmon_48
+  - first:
+      213: -5738821774895903212
+    second: Guilmon_49
+  - first:
+      213: 6134582968912528137
+    second: Guilmon_50
+  - first:
+      213: 1654172042353963305
+    second: Guilmon_51
+  - first:
+      213: 1650297872910661486
+    second: Guilmon_52
+  - first:
+      213: 8954123464677156280
+    second: Guilmon_53
+  - first:
+      213: -8121956380800906482
+    second: Guilmon_54
+  - first:
+      213: 3445937074358761864
+    second: Guilmon_55
+  - first:
+      213: -851507681129893127
+    second: Guilmon_56
+  - first:
+      213: 8181707555609478479
+    second: Guilmon_57
+  - first:
+      213: 6916529670514806836
+    second: Guilmon_58
+  - first:
+      213: 892990174318156873
+    second: Guilmon_59
+  - first:
+      213: -5846505928147331133
+    second: Guilmon_60
+  - first:
+      213: -4498056932383504347
+    second: Guilmon_61
+  - first:
+      213: -4046470945174323118
+    second: Guilmon_62
+  - first:
+      213: 2654986447734880177
+    second: Guilmon_63
+  - first:
+      213: 818120830743359287
+    second: Guilmon_64
+  - first:
+      213: -6930725641307968008
+    second: Guilmon_65
+  - first:
+      213: -3531547922762868699
+    second: Guilmon_66
+  - first:
+      213: 6756101849831557636
+    second: Guilmon_67
+  - first:
+      213: -747745314678804255
+    second: Guilmon_68
+  - first:
+      213: -5064066593404868107
+    second: Guilmon_69
+  - first:
+      213: -2095306377018948903
+    second: Guilmon_70
+  - first:
+      213: -5737694353359698872
+    second: Guilmon_71
+  - first:
+      213: 5062871658095790426
+    second: Guilmon_72
+  - first:
+      213: -6255942763486498792
+    second: Guilmon_73
+  - first:
+      213: 9095792816011046023
+    second: Guilmon_74
+  - first:
+      213: 2460458470787446092
+    second: Guilmon_75
+  - first:
+      213: 4656564337384206847
+    second: Guilmon_76
+  - first:
+      213: 7899985917135408589
+    second: Guilmon_77
+  - first:
+      213: 3833330028517159605
+    second: Guilmon_78
+  - first:
+      213: 8099790684657327998
+    second: Guilmon_79
+  - first:
+      213: -2920972434579425692
+    second: Guilmon_80
+  - first:
+      213: -6805376294173248006
+    second: Guilmon_81
+  - first:
+      213: 304994087739356500
+    second: Guilmon_82
+  - first:
+      213: -6371713073146687570
+    second: Guilmon_83
+  - first:
+      213: -3306869753938356949
+    second: Guilmon_84
+  - first:
+      213: -4430034589837258371
+    second: Guilmon_85
+  - first:
+      213: -3077040252963260962
+    second: Guilmon_86
+  - first:
+      213: -519611263393743275
+    second: Guilmon_87
+  - first:
+      213: -8471184893848669448
+    second: Guilmon_88
+  - first:
+      213: 7024222060180306838
+    second: Guilmon_89
+  - first:
+      213: -8029695909994688327
+    second: Guilmon_90
+  - first:
+      213: -5869580170302355962
+    second: Guilmon_91
+  - first:
+      213: -1039660363373277427
+    second: Guilmon_92
+  - first:
+      213: 488182758422351364
+    second: Guilmon_93
+  - first:
+      213: -6399516885034204665
+    second: Guilmon_94
+  - first:
+      213: 1360255876191088074
+    second: Guilmon_95
+  - first:
+      213: 1275464611068718650
+    second: Guilmon_96
+  - first:
+      213: -5349652672172253722
+    second: Guilmon_97
+  - first:
+      213: -6816306762431154533
+    second: Guilmon_98
+  - first:
+      213: -8990714102420644337
+    second: Guilmon_99
+  - first:
+      213: -5859720171922817707
+    second: Guilmon_100
+  - first:
+      213: 2811957641338148987
+    second: Guilmon_101
+  - first:
+      213: 6466717069501409386
+    second: Guilmon_102
+  - first:
+      213: -8543360383266658159
+    second: Guilmon_103
+  - first:
+      213: 2605264191165810019
+    second: Guilmon_104
+  - first:
+      213: -6426764493437119204
+    second: Guilmon_105
+  - first:
+      213: -2538459761090905655
+    second: Guilmon_106
+  - first:
+      213: 529508577136721564
+    second: Guilmon_107
+  - first:
+      213: 3355647778394453644
+    second: Guilmon_108
+  - first:
+      213: -7312380143020714904
+    second: Guilmon_109
+  - first:
+      213: -3927154057009123434
+    second: Guilmon_110
+  - first:
+      213: 120951536758710417
+    second: Guilmon_111
+  - first:
+      213: -4585676843875155902
+    second: Guilmon_112
+  - first:
+      213: 2253156201866676532
+    second: Guilmon_113
+  - first:
+      213: -2785211968705449839
+    second: Guilmon_114
+  - first:
+      213: -3076633982840692985
+    second: Guilmon_115
+  - first:
+      213: -8853290356599822228
+    second: Guilmon_116
+  - first:
+      213: 9158172311579506331
+    second: Guilmon_117
+  - first:
+      213: -4902916218687764349
+    second: Guilmon_118
+  - first:
+      213: -3353899858656604600
+    second: Guilmon_119
+  - first:
+      213: 6320445330511158652
+    second: Guilmon_120
+  - first:
+      213: 6163028053675968335
+    second: Guilmon_121
+  - first:
+      213: -2499855705230293524
+    second: Guilmon_122
+  - first:
+      213: 837154792639556914
+    second: Guilmon_123
+  - first:
+      213: -2623147696268571986
+    second: Guilmon_124
+  - first:
+      213: 6208963077223207526
+    second: Guilmon_125
+  - first:
+      213: -3958056905283333838
+    second: Guilmon_126
+  - first:
+      213: 210379345726523407
+    second: Guilmon_127
+  - first:
+      213: -170680687433068554
+    second: Guilmon_128
+  - first:
+      213: 7816611645294963347
+    second: Guilmon_129
+  - first:
+      213: -4391677219162352131
+    second: Guilmon_130
+  - first:
+      213: 1235700517202810377
+    second: Guilmon_131
+  - first:
+      213: -3299588646716651891
+    second: Guilmon_132
+  - first:
+      213: 1570565073429312158
+    second: Guilmon_133
+  - first:
+      213: -2584877406730891703
+    second: Guilmon_134
+  - first:
+      213: -1909139276640165363
+    second: Guilmon_135
+  - first:
+      213: -6489628999233966469
+    second: Guilmon_136
+  - first:
+      213: 3177956677439187081
+    second: Guilmon_137
+  - first:
+      213: -7087938446188950769
+    second: Guilmon_138
+  - first:
+      213: -1440973514903145228
+    second: Guilmon_139
+  - first:
+      213: 7099278966226250090
+    second: Guilmon_140
+  - first:
+      213: 2842100411397527842
+    second: Guilmon_141
+  - first:
+      213: 2986031853117071185
+    second: Guilmon_142
+  - first:
+      213: 8539241910261196538
+    second: Guilmon_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guilmon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec68be929e91960800000000000000
+      internalID: 7573340614654611181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0590523e7cca28e80800000000000000
+      internalID: -8177783998842074800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9e1b456c74a3c0800000000000000
+      internalID: -4349214565639218043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 132
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c506c47597fb30800000000000000
+      internalID: 4321086696256291455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5072246167677f0800000000000000
+      internalID: -615174461118282279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe549d715db8c31b0800000000000000
+      internalID: -5675507683049257489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36225a2d6840dc0800000000000000
+      internalID: -3673663156755733531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57a56a5cfc61650800000000000000
+      internalID: 6203373984555890174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368d0614ba18d160800000000000000
+      internalID: 7050414577414932016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 132
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9744de97a4b0a0800000000000000
+      internalID: -6866679231225029891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 132
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced0d699ba0e6a300800000000000000
+      internalID: 263144655865843180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 132
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba116f38307574e0800000000000000
+      internalID: -1984556673903027523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 132
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9232ccc03e71b20800000000000000
+      internalID: 3105200112199215545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 132
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333f039c79d84c10800000000000000
+      internalID: 2038117960451568441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 132
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958ae737bd3eddb0800000000000000
+      internalID: -4765303498584980072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 134
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fb64a8222826140800000000000000
+      internalID: 4711471245043351359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 132
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb336dbcea3b20700800000000000000
+      internalID: 505163671544411071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 134
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085b002bee96bf80800000000000000
+      internalID: -8091104947832399863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 132
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06263f3b41dc4fb90800000000000000
+      internalID: -7208911614711209376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 132
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9078d93d158500f0800000000000000
+      internalID: -1151367769152261986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 132
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53caa811ec3631060800000000000000
+      internalID: 6922986788907297845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 132
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285f99ff2eb495b0800000000000000
+      internalID: -5362452143030708192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 132
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fff64e0134da190800000000000000
+      internalID: -7949624027407974562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a534f33f2cff35e30800000000000000
+      internalID: 4491214466188264282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 105
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9767e4e64664e50800000000000000
+      internalID: 6793227512860539298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 104
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f51312766e80e0800000000000000
+      internalID: -2265760922388270669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 105
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407858ba06f29310800000000000000
+      internalID: 1410460159223296069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 101
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fc6298b90a0f530800000000000000
+      internalID: 3886783068302135111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865734a1e56cf1a0800000000000000
+      internalID: -6774427719674931580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 101
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e7c80cbf2baca0800000000000000
+      internalID: -6004653193520748773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 101
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a0a2569edc5a20800000000000000
+      internalID: 3052559384663074211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 101
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ebc4a9248233b0800000000000000
+      internalID: -5534215677691567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 101
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732288b5e32f35620800000000000000
+      internalID: 2761817346145788471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 101
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85725fe016bcddc80800000000000000
+      internalID: -8296251320823371944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 101
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab09f23a05413f0800000000000000
+      internalID: -931030561150944761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 101
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e237885537b003c0800000000000000
+      internalID: -4395311796567199006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_36
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 103
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b456e2dbc828ecc0800000000000000
+      internalID: -3681647839493598026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 102
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c9ed974fa1cc120800000000000000
+      internalID: 2435351135819570191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_38
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 103
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848764dc054870c0800000000000000
+      internalID: -4577833099816631155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 102
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1ceb8c942f02b0800000000000000
+      internalID: -5616229955526713528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 101
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673969453bbb3ce0800000000000000
+      internalID: -1424339019593336990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_41
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 102
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154bc96c060b38e0800000000000000
+      internalID: -1712768582900038377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_42
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 101
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154acb013e06ed260800000000000000
+      internalID: 7124238188901344337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d79536d1dd1a1e0800000000000000
+      internalID: -2188224825634751229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85574c14376e3b500800000000000000
+      internalID: 410925373719868760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62200adf5cf783860800000000000000
+      internalID: 7509892866980708902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0a7e4a61e05010800000000000000
+      internalID: 1175687349443103650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a68adfa70779880800000000000000
+      internalID: -8604284889524049266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78909514eb9890c0800000000000000
+      internalID: -4568730418050721666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_49
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 72
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8d06500c9b50b0800000000000000
+      internalID: -5738821774895903212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_50
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 72
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903413335ba622550800000000000000
+      internalID: 6134582968912528137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f3e555bcc4f610800000000000000
+      internalID: 1654172042353963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 72
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673c68fb2907e610800000000000000
+      internalID: 1650297872910661486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 72
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56213a9df634c70800000000000000
+      internalID: 8954123464677156280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b052124b3094f80800000000000000
+      internalID: -8121956380800906482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 72
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b083038d62df20800000000000000
+      internalID: 3445937074358761864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 72
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27cb68646de24f0800000000000000
+      internalID: -851507681129893127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_57
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 72
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458b3c5ca34b8170800000000000000
+      internalID: 8181707555609478479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 72
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301c7907137cff50800000000000000
+      internalID: 6916529670514806836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_59
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 72
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd52015d9846c00800000000000000
+      internalID: 892990174318156873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 72
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7109f95d90ddea0800000000000000
+      internalID: -5846505928147331133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_61
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 74
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284ccd3d01b391c0800000000000000
+      internalID: -4498056932383504347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_62
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 73
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25002fe4d1c08d7c0800000000000000
+      internalID: -4046470945174323118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b6b48b1868d420800000000000000
+      internalID: 2654986447734880177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f2ecb9f8c8a5b00800000000000000
+      internalID: 818120830743359287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda522ffbd11df90800000000000000
+      internalID: -6930725641307968008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528537c00eb6dfec0800000000000000
+      internalID: -3531547922762868699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac19946de72cd50800000000000000
+      internalID: 6756101849831557636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e07b1819997f95f0800000000000000
+      internalID: -747745314678804255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 41
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f92e2d8342d8b9b0800000000000000
+      internalID: -5064066593404868107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2cc2693f9fbe2e0800000000000000
+      internalID: -2095306377018948903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_71
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 41
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440b3e926d9f50b0800000000000000
+      internalID: -5737694353359698872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_72
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a594134e2fee24640800000000000000
+      internalID: 5062871658095790426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 41
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103637b33d6e29a0800000000000000
+      internalID: -6255942763486498792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_74
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 41
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c63e4ef5fba3e70800000000000000
+      internalID: 9095792816011046023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 41
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45f2ef61fd452220800000000000000
+      internalID: 2460458470787446092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 41
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b983e7907f9040800000000000000
+      internalID: 4656564337384206847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 41
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc171f55362ad60800000000000000
+      internalID: 7899985917135408589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 43
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27a90e959b23530800000000000000
+      internalID: 3833330028517159605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_79
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 44
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f940296bc386070800000000000000
+      internalID: 8099790684657327998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_80
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 41
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4667f26fb0f9677d0800000000000000
+      internalID: -2920972434579425692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_81
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af570fe11527e81a0800000000000000
+      internalID: -6805376294173248006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_82
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 41
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4557c42c18e8b3400800000000000000
+      internalID: 304994087739356500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf016008b02397a0800000000000000
+      internalID: -6371713073146687570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255506ba73ab12d0800000000000000
+      internalID: -3306869753938356949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719e0a030b5582c0800000000000000
+      internalID: -4430034589837258371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5fb8a51382c45d0800000000000000
+      internalID: -3077040252963260962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_87
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebf181f48f9c8f0800000000000000
+      internalID: -519611263393743275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2be77a83e407a80800000000000000
+      internalID: -8471184893848669448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b72807fbc0b7160800000000000000
+      internalID: 7024222060180306838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01c5eec1ac09090800000000000000
+      internalID: -8029695909994688327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 29
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6068378feef0b8ea0800000000000000
+      internalID: -5869580170302355962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_92
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f051a68626291f0800000000000000
+      internalID: -1039660363373277427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0c3dd1af56c600800000000000000
+      internalID: 488182758422351364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_94
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020c659c495037a0800000000000000
+      internalID: -6399516885034204665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_95
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde100338990e210800000000000000
+      internalID: 1360255876191088074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e255a5e4c53b110800000000000000
+      internalID: 1275464611068718650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_97
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed14730d3732c5b0800000000000000
+      internalID: -5349652672172253722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_98
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b2392d1d9761a0800000000000000
+      internalID: -6816306762431154533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 29
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e5f10a8219a3380800000000000000
+      internalID: -8990714102420644337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d795dbc871eaea0800000000000000
+      internalID: -5859720171922817707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d76f8394160720800000000000000
+      internalID: 2811957641338148987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_102
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68269e99e46eb950800000000000000
+      internalID: 6466717069501409386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_103
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 29
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ee3ffef2ef6980800000000000000
+      internalID: -8543360383266658159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_104
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cb748af1c72420800000000000000
+      internalID: 2605264191165810019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_105
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1556916ebb8fc6a0800000000000000
+      internalID: -6426764493437119204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9bd8feb4495ccd0800000000000000
+      internalID: -2538459761090905655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb1c5de31395700800000000000000
+      internalID: 529508577136721564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b78e10e7a19e20800000000000000
+      internalID: 3355647778394453644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_109
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86451a8a005358a90800000000000000
+      internalID: -7312380143020714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69facbd2132ff79c0800000000000000
+      internalID: -3927154057009123434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906a8728c4bda100800000000000000
+      internalID: 120951536758710417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_112
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240461ad4376c50c0800000000000000
+      internalID: -4585676843875155902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394bbbb0a1d44f10800000000000000
+      internalID: 2253156201866676532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_114
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190352d9870f859d0800000000000000
+      internalID: -2785211968705449839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_115
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f92ec71b99d45d0800000000000000
+      internalID: -3076633982840692985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_116
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e971d35bc22580800000000000000
+      internalID: -8853290356599822228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_117
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b38ff13d581f70800000000000000
+      internalID: 9158172311579506331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_118
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884d950da755fbb0800000000000000
+      internalID: -4902916218687764349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_119
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4a8829dd8471d0800000000000000
+      internalID: -3353899858656604600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_120
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd46b7a8bb6b750800000000000000
+      internalID: 6320445330511158652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_121
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478f189c59778550800000000000000
+      internalID: 6163028053675968335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c30c1b7abe4dd0800000000000000
+      internalID: -2499855705230293524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_123
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23deb4539db2e9b00800000000000000
+      internalID: 837154792639556914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa078a7115b89bd0800000000000000
+      internalID: -2623147696268571986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_125
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d761b50baa2650800000000000000
+      internalID: 6208963077223207526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_126
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311ecf17382219c0800000000000000
+      internalID: -3958056905283333838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_127
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cb1a76ea6be200800000000000000
+      internalID: 210379345726523407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff488fa1de91adf0800000000000000
+      internalID: -170680687433068554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_129
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aecf090ee2a7c60800000000000000
+      internalID: 7816611645294963347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_130
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df517a756d0ad03c0800000000000000
+      internalID: -4391677219162352131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_131
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d3a8c217162110800000000000000
+      internalID: 1235700517202810377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ca879b918532d0800000000000000
+      internalID: -3299588646716651891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_133
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92b362fc94cbc510800000000000000
+      internalID: 1570565073429312158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_134
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4fdf91bba02cd0800000000000000
+      internalID: -2584877406730891703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_135
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ed1561ff5185e0800000000000000
+      internalID: -1909139276640165363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee5980fc430f5a0800000000000000
+      internalID: -6489628999233966469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_137
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e756b2ce5a1c20800000000000000
+      internalID: 3177956677439187081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_138
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc215698592ad90800000000000000
+      internalID: -7087938446188950769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_139
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b3790932a00ce0800000000000000
+      internalID: -1440973514903145228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_140
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69615f2b94b58260800000000000000
+      internalID: 7099278966226250090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_141
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229575d144b217720800000000000000
+      internalID: 2842100411397527842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5b055624807920800000000000000
+      internalID: 2986031853117071185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilmon_143
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62f38464b718670800000000000000
+      internalID: 8539241910261196538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Guilmon_47: -8604284889524049266
+      Guilmon_56: -851507681129893127
+      Guilmon_71: -5737694353359698872
+      Guilmon_105: -6426764493437119204
+      Guilmon_139: -1440973514903145228
+      Guilmon_133: 1570565073429312158
+      Guilmon_35: -4395311796567199006
+      Guilmon_79: 8099790684657327998
+      Guilmon_32: 2761817346145788471
+      Guilmon_92: -1039660363373277427
+      Guilmon_25: -2265760922388270669
+      Guilmon_1: -8177783998842074800
+      Guilmon_117: 9158172311579506331
+      Guilmon_28: -6774427719674931580
+      Guilmon_74: 9095792816011046023
+      Guilmon_16: 505163671544411071
+      Guilmon_120: 6320445330511158652
+      Guilmon_122: -2499855705230293524
+      Guilmon_78: 3833330028517159605
+      Guilmon_50: 6134582968912528137
+      Guilmon_135: -1909139276640165363
+      Guilmon_9: -6866679231225029891
+      Guilmon_59: 892990174318156873
+      Guilmon_142: 2986031853117071185
+      Guilmon_65: -6930725641307968008
+      Guilmon_106: -2538459761090905655
+      Guilmon_66: -3531547922762868699
+      Guilmon_69: -5064066593404868107
+      Guilmon_116: -8853290356599822228
+      Guilmon_75: 2460458470787446092
+      Guilmon_134: -2584877406730891703
+      Guilmon_87: -519611263393743275
+      Guilmon_89: 7024222060180306838
+      Guilmon_103: -8543360383266658159
+      Guilmon_20: 6922986788907297845
+      Guilmon_23: 4491214466188264282
+      Guilmon_39: -5616229955526713528
+      Guilmon_18: -7208911614711209376
+      Guilmon_7: 6203373984555890174
+      Guilmon_27: 3886783068302135111
+      Guilmon_96: 1275464611068718650
+      Guilmon_24: 6793227512860539298
+      Guilmon_61: -4498056932383504347
+      Guilmon_94: -6399516885034204665
+      Guilmon_38: -4577833099816631155
+      Guilmon_55: 3445937074358761864
+      Guilmon_102: 6466717069501409386
+      Guilmon_17: -8091104947832399863
+      Guilmon_121: 6163028053675968335
+      Guilmon_132: -3299588646716651891
+      Guilmon_4: -615174461118282279
+      Guilmon_67: 6756101849831557636
+      Guilmon_113: 2253156201866676532
+      Guilmon_36: -3681647839493598026
+      Guilmon_22: -7949624027407974562
+      Guilmon_73: -6255942763486498792
+      Guilmon_62: -4046470945174323118
+      Guilmon_81: -6805376294173248006
+      Guilmon_83: -6371713073146687570
+      Guilmon_88: -8471184893848669448
+      Guilmon_21: -5362452143030708192
+      Guilmon_95: 1360255876191088074
+      Guilmon_100: -5859720171922817707
+      Guilmon_108: 3355647778394453644
+      Guilmon_5: -5675507683049257489
+      Guilmon_129: 7816611645294963347
+      Guilmon_86: -3077040252963260962
+      Guilmon_77: 7899985917135408589
+      Guilmon_115: -3076633982840692985
+      Guilmon_136: -6489628999233966469
+      Guilmon_98: -6816306762431154533
+      Guilmon_6: -3673663156755733531
+      Guilmon_64: 818120830743359287
+      Guilmon_30: 3052559384663074211
+      Guilmon_15: 4711471245043351359
+      Guilmon_37: 2435351135819570191
+      Guilmon_123: 837154792639556914
+      Guilmon_44: 410925373719868760
+      Guilmon_63: 2654986447734880177
+      Guilmon_57: 8181707555609478479
+      Guilmon_109: -7312380143020714904
+      Guilmon_128: -170680687433068554
+      Guilmon_85: -4430034589837258371
+      Guilmon_26: 1410460159223296069
+      Guilmon_42: 7124238188901344337
+      Guilmon_53: 8954123464677156280
+      Guilmon_101: 2811957641338148987
+      Guilmon_10: 263144655865843180
+      Guilmon_118: -4902916218687764349
+      Guilmon_46: 1175687349443103650
+      Guilmon_48: -4568730418050721666
+      Guilmon_90: -8029695909994688327
+      Guilmon_49: -5738821774895903212
+      Guilmon_91: -5869580170302355962
+      Guilmon_119: -3353899858656604600
+      Guilmon_2: -4349214565639218043
+      Guilmon_12: 3105200112199215545
+      Guilmon_45: 7509892866980708902
+      Guilmon_99: -8990714102420644337
+      Guilmon_130: -4391677219162352131
+      Guilmon_127: 210379345726523407
+      Guilmon_80: -2920972434579425692
+      Guilmon_76: 4656564337384206847
+      Guilmon_143: 8539241910261196538
+      Guilmon_72: 5062871658095790426
+      Guilmon_141: 2842100411397527842
+      Guilmon_52: 1650297872910661486
+      Guilmon_31: -5534215677691567588
+      Guilmon_60: -5846505928147331133
+      Guilmon_0: 7573340614654611181
+      Guilmon_19: -1151367769152261986
+      Guilmon_131: 1235700517202810377
+      Guilmon_97: -5349652672172253722
+      Guilmon_84: -3306869753938356949
+      Guilmon_13: 2038117960451568441
+      Guilmon_124: -2623147696268571986
+      Guilmon_40: -1424339019593336990
+      Guilmon_126: -3958056905283333838
+      Guilmon_110: -3927154057009123434
+      Guilmon_8: 7050414577414932016
+      Guilmon_34: -931030561150944761
+      Guilmon_140: 7099278966226250090
+      Guilmon_33: -8296251320823371944
+      Guilmon_93: 488182758422351364
+      Guilmon_111: 120951536758710417
+      Guilmon_3: 4321086696256291455
+      Guilmon_112: -4585676843875155902
+      Guilmon_58: 6916529670514806836
+      Guilmon_54: -8121956380800906482
+      Guilmon_104: 2605264191165810019
+      Guilmon_68: -747745314678804255
+      Guilmon_114: -2785211968705449839
+      Guilmon_107: 529508577136721564
+      Guilmon_14: -4765303498584980072
+      Guilmon_70: -2095306377018948903
+      Guilmon_82: 304994087739356500
+      Guilmon_51: 1654172042353963305
+      Guilmon_138: -7087938446188950769
+      Guilmon_11: -1984556673903027523
+      Guilmon_125: 6208963077223207526
+      Guilmon_137: 3177956677439187081
+      Guilmon_41: -1712768582900038377
+      Guilmon_29: -6004653193520748773
+      Guilmon_43: -2188224825634751229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

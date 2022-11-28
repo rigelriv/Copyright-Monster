@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 105aeadc21afc4113b9ba147154241f4, type: 3}
+  m_Name: Power Up
+  m_EditorClassIdentifier: 
+  skillName: Power Up
+  skillImage: {fileID: 21300000, guid: 9b9db11affa9d44a78522265a2b8127d, type: 3}
+  damage: 0
+  manaCost: 0
+  specialEffect: 

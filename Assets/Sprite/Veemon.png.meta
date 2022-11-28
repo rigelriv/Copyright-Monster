@@ -1,0 +1,3922 @@
+fileFormatVersion: 2
+guid: 10c9893c9e90f4ddaaf895c9124f0e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -308184068530597221
+    second: Veemon_0
+  - first:
+      213: -6716069836724943290
+    second: Veemon_1
+  - first:
+      213: 6767815259491540509
+    second: Veemon_2
+  - first:
+      213: -3357165772935432523
+    second: Veemon_3
+  - first:
+      213: 8189142546770973468
+    second: Veemon_4
+  - first:
+      213: 7393998782369995462
+    second: Veemon_5
+  - first:
+      213: -3332459591754955940
+    second: Veemon_6
+  - first:
+      213: -3839168093455993243
+    second: Veemon_7
+  - first:
+      213: 7136424630601680980
+    second: Veemon_8
+  - first:
+      213: -5243127500630026879
+    second: Veemon_9
+  - first:
+      213: -5735436815996846377
+    second: Veemon_10
+  - first:
+      213: -2522415932794554489
+    second: Veemon_11
+  - first:
+      213: 1871496838473884805
+    second: Veemon_12
+  - first:
+      213: -2728668569340257347
+    second: Veemon_13
+  - first:
+      213: 6875219763949164027
+    second: Veemon_14
+  - first:
+      213: 3371621949608259142
+    second: Veemon_15
+  - first:
+      213: 3571236757863489175
+    second: Veemon_16
+  - first:
+      213: 1915616430735240789
+    second: Veemon_17
+  - first:
+      213: 8601944520015242034
+    second: Veemon_18
+  - first:
+      213: 4451022483567248227
+    second: Veemon_19
+  - first:
+      213: 4351194977995964045
+    second: Veemon_20
+  - first:
+      213: 5093079472140100407
+    second: Veemon_21
+  - first:
+      213: 3768335884706076645
+    second: Veemon_22
+  - first:
+      213: 4480448090840291164
+    second: Veemon_23
+  - first:
+      213: 5656326841041917578
+    second: Veemon_24
+  - first:
+      213: -5194187117244618298
+    second: Veemon_25
+  - first:
+      213: -4130565520456172179
+    second: Veemon_26
+  - first:
+      213: 1676933378691423252
+    second: Veemon_27
+  - first:
+      213: 5064875872870189831
+    second: Veemon_28
+  - first:
+      213: -8254816673345821221
+    second: Veemon_29
+  - first:
+      213: 3849366544237617383
+    second: Veemon_30
+  - first:
+      213: 3269687459979027485
+    second: Veemon_31
+  - first:
+      213: 5330656693903632242
+    second: Veemon_32
+  - first:
+      213: -4219595264127793134
+    second: Veemon_33
+  - first:
+      213: 833254421694405041
+    second: Veemon_34
+  - first:
+      213: 8721323181330488729
+    second: Veemon_35
+  - first:
+      213: 5930371864546049488
+    second: Veemon_36
+  - first:
+      213: 6671647423705654620
+    second: Veemon_37
+  - first:
+      213: -572891314158723301
+    second: Veemon_38
+  - first:
+      213: -3517608374993893642
+    second: Veemon_39
+  - first:
+      213: -6018953905884421271
+    second: Veemon_40
+  - first:
+      213: -8041384414387029171
+    second: Veemon_41
+  - first:
+      213: 1696488577466141255
+    second: Veemon_42
+  - first:
+      213: 6767570658365759221
+    second: Veemon_43
+  - first:
+      213: -6006868200798576173
+    second: Veemon_44
+  - first:
+      213: -1426204358878988215
+    second: Veemon_45
+  - first:
+      213: -3247835656040814181
+    second: Veemon_46
+  - first:
+      213: 8361038663545954184
+    second: Veemon_47
+  - first:
+      213: -4864876961780100823
+    second: Veemon_48
+  - first:
+      213: 7183603717916755978
+    second: Veemon_49
+  - first:
+      213: 3903905032138825555
+    second: Veemon_50
+  - first:
+      213: -418449141819286427
+    second: Veemon_51
+  - first:
+      213: -3934651564354155616
+    second: Veemon_52
+  - first:
+      213: 4076159233800821536
+    second: Veemon_53
+  - first:
+      213: -184374096443228255
+    second: Veemon_54
+  - first:
+      213: -3118325641925804201
+    second: Veemon_55
+  - first:
+      213: 2042604272432594598
+    second: Veemon_56
+  - first:
+      213: 1136264002557533762
+    second: Veemon_57
+  - first:
+      213: -5546235812708362897
+    second: Veemon_58
+  - first:
+      213: -2188633244771510173
+    second: Veemon_59
+  - first:
+      213: 5671995465671596922
+    second: Veemon_60
+  - first:
+      213: 217446366133111750
+    second: Veemon_61
+  - first:
+      213: -2992281429016465032
+    second: Veemon_62
+  - first:
+      213: 2719016275593155399
+    second: Veemon_63
+  - first:
+      213: 6323706363877347546
+    second: Veemon_64
+  - first:
+      213: -2471095599019134594
+    second: Veemon_65
+  - first:
+      213: 2573468290746569357
+    second: Veemon_66
+  - first:
+      213: -7985488495409627572
+    second: Veemon_67
+  - first:
+      213: -1931370101595961242
+    second: Veemon_68
+  - first:
+      213: -1516183066878615850
+    second: Veemon_69
+  - first:
+      213: 8209471613257187775
+    second: Veemon_70
+  - first:
+      213: 8687400708066377199
+    second: Veemon_71
+  - first:
+      213: 3781807232002815245
+    second: Veemon_72
+  - first:
+      213: -741241993259704079
+    second: Veemon_73
+  - first:
+      213: 6116366795452045006
+    second: Veemon_74
+  - first:
+      213: -5904235823153488407
+    second: Veemon_75
+  - first:
+      213: -9164410152935688526
+    second: Veemon_76
+  - first:
+      213: 4275499447124109132
+    second: Veemon_77
+  - first:
+      213: 3780842756744744636
+    second: Veemon_78
+  - first:
+      213: -6856244301949874645
+    second: Veemon_79
+  - first:
+      213: -391339800433511130
+    second: Veemon_80
+  - first:
+      213: -4992274076546728248
+    second: Veemon_81
+  - first:
+      213: 3589175067361625432
+    second: Veemon_82
+  - first:
+      213: 1354784102838529015
+    second: Veemon_83
+  - first:
+      213: 44781904392203091
+    second: Veemon_84
+  - first:
+      213: 2700206297642172984
+    second: Veemon_85
+  - first:
+      213: -6995518140077784579
+    second: Veemon_86
+  - first:
+      213: 5649493089866574157
+    second: Veemon_87
+  - first:
+      213: 8108924253543890317
+    second: Veemon_88
+  - first:
+      213: 4709258256234511418
+    second: Veemon_89
+  - first:
+      213: 6355484739523839552
+    second: Veemon_90
+  - first:
+      213: 1813019299451440027
+    second: Veemon_91
+  - first:
+      213: 4522489295657292349
+    second: Veemon_92
+  - first:
+      213: -3216738973784196303
+    second: Veemon_93
+  - first:
+      213: -8546787440646815592
+    second: Veemon_94
+  - first:
+      213: 6032780656096009909
+    second: Veemon_95
+  - first:
+      213: -6151341206578880656
+    second: Veemon_96
+  - first:
+      213: -175329725066731506
+    second: Veemon_97
+  - first:
+      213: -7237102029231175440
+    second: Veemon_98
+  - first:
+      213: -1771923660629465891
+    second: Veemon_99
+  - first:
+      213: -1088274006264314129
+    second: Veemon_100
+  - first:
+      213: -8536412159634297917
+    second: Veemon_101
+  - first:
+      213: -4571401447466932758
+    second: Veemon_102
+  - first:
+      213: -7530914329010285632
+    second: Veemon_103
+  - first:
+      213: -3265701622832746244
+    second: Veemon_104
+  - first:
+      213: 5123084617434444709
+    second: Veemon_105
+  - first:
+      213: 1361555716401583995
+    second: Veemon_106
+  - first:
+      213: 2702973801025707113
+    second: Veemon_107
+  - first:
+      213: -8454977335590037498
+    second: Veemon_108
+  - first:
+      213: 7643484838169742594
+    second: Veemon_109
+  - first:
+      213: 236794781638922060
+    second: Veemon_110
+  - first:
+      213: 6428766509364984609
+    second: Veemon_111
+  - first:
+      213: -3771833666603037471
+    second: Veemon_112
+  - first:
+      213: 4464532076614128009
+    second: Veemon_113
+  - first:
+      213: -1637652934260588617
+    second: Veemon_114
+  - first:
+      213: 9154762033133427925
+    second: Veemon_115
+  - first:
+      213: 3564745637729111871
+    second: Veemon_116
+  - first:
+      213: 968114862779083782
+    second: Veemon_117
+  - first:
+      213: 2013996772456123133
+    second: Veemon_118
+  - first:
+      213: -7539994166793963888
+    second: Veemon_119
+  - first:
+      213: 4000178607907354050
+    second: Veemon_120
+  - first:
+      213: 5474483714899372475
+    second: Veemon_121
+  - first:
+      213: 3003170284230001747
+    second: Veemon_122
+  - first:
+      213: 1609714664186402642
+    second: Veemon_123
+  - first:
+      213: 6283994903776697282
+    second: Veemon_124
+  - first:
+      213: 7061804396341292299
+    second: Veemon_125
+  - first:
+      213: -4321304774511838383
+    second: Veemon_126
+  - first:
+      213: 8884701950003659061
+    second: Veemon_127
+  - first:
+      213: 7776906052715790309
+    second: Veemon_128
+  - first:
+      213: 4560485719409134634
+    second: Veemon_129
+  - first:
+      213: 3048915139664799200
+    second: Veemon_130
+  - first:
+      213: -8449198945041153922
+    second: Veemon_131
+  - first:
+      213: -7677984803001793185
+    second: Veemon_132
+  - first:
+      213: 5614043208951855010
+    second: Veemon_133
+  - first:
+      213: 4184800603645750402
+    second: Veemon_134
+  - first:
+      213: 6831487146123216600
+    second: Veemon_135
+  - first:
+      213: -110389896899652935
+    second: Veemon_136
+  - first:
+      213: 4858172408272253118
+    second: Veemon_137
+  - first:
+      213: 1257322360830970455
+    second: Veemon_138
+  - first:
+      213: 626142194767625330
+    second: Veemon_139
+  - first:
+      213: -462917073333429092
+    second: Veemon_140
+  - first:
+      213: -1632510711938147473
+    second: Veemon_141
+  - first:
+      213: -6442875483806919397
+    second: Veemon_142
+  - first:
+      213: -8456557553603207230
+    second: Veemon_143
+  - first:
+      213: 8574687902730705271
+    second: Veemon_144
+  - first:
+      213: 5837226354585973966
+    second: Veemon_145
+  - first:
+      213: -5315755066008287629
+    second: Veemon_146
+  - first:
+      213: -297494656498444197
+    second: Veemon_147
+  - first:
+      213: -8560916085367031650
+    second: Veemon_148
+  - first:
+      213: 868997295778372857
+    second: Veemon_149
+  - first:
+      213: -4518054779469173743
+    second: Veemon_150
+  - first:
+      213: 112427296418956399
+    second: Veemon_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Veemon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929cc5f83c19bbf0800000000000000
+      internalID: -308184068530597221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464b47111abbc2a0800000000000000
+      internalID: -6716069836724943290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 127
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e167ffe1c1ced50800000000000000
+      internalID: 6767815259491540509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6751c3483f861d0800000000000000
+      internalID: -3357165772935432523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 127
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13525322cda5a170800000000000000
+      internalID: 8189142546770973468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 127
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca95dca7b2cc9660800000000000000
+      internalID: 7393998782369995462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c534a1d48a9b0c1d0800000000000000
+      internalID: -3332459591754955940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ba84b5f888bac0800000000000000
+      internalID: -3839168093455993243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 129
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588c51246ca90360800000000000000
+      internalID: 7136424630601680980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 129
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859dd4415bac37b0800000000000000
+      internalID: -5243127500630026879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de7fce7a92a760b0800000000000000
+      internalID: -5735436815996846377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 129
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787befdc2149efcd0800000000000000
+      internalID: -2522415932794554489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 129
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a08f7574e8f910800000000000000
+      internalID: 1871496838473884805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 129
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb53bea462d12ad0800000000000000
+      internalID: -2728668569340257347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf55fe6e2ffa96f50800000000000000
+      internalID: 6875219763949164027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 129
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6f4fac486ace20800000000000000
+      internalID: 3371621949608259142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e5549f8e49f8130800000000000000
+      internalID: 3571236757863489175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 129
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e20ef8ef2a59a10800000000000000
+      internalID: 1915616430735240789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 129
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233602547fe306770800000000000000
+      internalID: 8601944520015242034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 129
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638d44cd5535cd30800000000000000
+      internalID: 4451022483567248227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 129
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb9e367cc826c30800000000000000
+      internalID: 4351194977995964045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 129
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733aebdabc04ea640800000000000000
+      internalID: 5093079472140100407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 129
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7534a8581db4430800000000000000
+      internalID: 3768335884706076645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 129
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57dc19dccfbd2e30800000000000000
+      internalID: 4480448090840291164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 129
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869fcd1b4f4f7e40800000000000000
+      internalID: 5656326841041917578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c969bb365a8ae7b0800000000000000
+      internalID: -5194187117244618298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbbb73b884da6c0800000000000000
+      internalID: -4130565520456172179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 96
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd5ece50aa54710800000000000000
+      internalID: 1676933378691423252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 96
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bcfd185cd0a4640800000000000000
+      internalID: 5064875872870189831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52043b8fff07d80800000000000000
+      internalID: -8254816673345821221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 96
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e06e872a72bb6530800000000000000
+      internalID: 3849366544237617383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14699adb63406d20800000000000000
+      internalID: 3269687459979027485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772fa3250c4af940800000000000000
+      internalID: 5330656693903632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 96
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180eb1b67cf075c0800000000000000
+      internalID: -4219595264127793134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95e945b70509b00800000000000000
+      internalID: 833254421694405041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d5592d93d580970800000000000000
+      internalID: 8721323181330488729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 96
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddfc345ac9ec4250800000000000000
+      internalID: 5930371864546049488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 96
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5520a4ebf3769c50800000000000000
+      internalID: 6671647423705654620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f99a4926eac08f0800000000000000
+      internalID: -572891314158723301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6cc8de1d1fe2fc0800000000000000
+      internalID: -3517608374993893642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 96
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632f48ff41687ca0800000000000000
+      internalID: -6018953905884421271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b391eea73476090800000000000000
+      internalID: -8041384414387029171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a80617f532b8710800000000000000
+      internalID: 1696488577466141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5f3c58ad3bed50800000000000000
+      internalID: 6767570658365759221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1afc6723153aca0800000000000000
+      internalID: -6006868200798576173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94877e321ba153ce0800000000000000
+      internalID: -1426204358878988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 66
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e6d8bdae5de2d0800000000000000
+      internalID: -3247835656040814181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f96f5ad50680470800000000000000
+      internalID: 8361038663545954184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219d11bd2c7c7cb0800000000000000
+      internalID: -4864876961780100823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a088a95658941b360800000000000000
+      internalID: 7183603717916755978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f9e7561f47d2630800000000000000
+      internalID: 3903905032138825555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5b49f8be513af0800000000000000
+      internalID: -418449141819286427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4cb7bf3f4569c0800000000000000
+      internalID: -3934651564354155616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 66
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b50aa0a3d619830800000000000000
+      internalID: 4076159233800821536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 66
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb7b37cb8f07df0800000000000000
+      internalID: -184374096443228255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f350ba95b79b4d0800000000000000
+      internalID: -3118325641925804201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 66
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae3a0b73c9c85c10800000000000000
+      internalID: 2042604272432594598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e51831712d4cf00800000000000000
+      internalID: 1136264002557533762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_58
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 66
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65d7fed9efc703b0800000000000000
+      internalID: -5546235812708362897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36898c5e8a960a1e0800000000000000
+      internalID: -2188633244771510173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_60
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 66
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5bf213d9f6be40800000000000000
+      internalID: 5671995465671596922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 66
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb40136156840300800000000000000
+      internalID: 217446366133111750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_62
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 66
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b973e4e74976d0800000000000000
+      internalID: -2992281429016465032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435c3d85e2ebb520800000000000000
+      internalID: 2719016275593155399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad059cafe6152c750800000000000000
+      internalID: 6323706363877347546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fe6625a7e4bdd0800000000000000
+      internalID: -2471095599019134594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825eae86cbc6b320800000000000000
+      internalID: 2573468290746569357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef329b588dd2190800000000000000
+      internalID: -7985488495409627572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 33
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668009c10256235e0800000000000000
+      internalID: -1931370101595961242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dedc34a88f65fae0800000000000000
+      internalID: -1516183066878615850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb109d5cfe6ede170800000000000000
+      internalID: 8209471613257187775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf5c98ae8df8870800000000000000
+      internalID: 8687400708066377199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f78004adab7430800000000000000
+      internalID: 3781807232002815245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0272b955496b5f0800000000000000
+      internalID: -741241993259704079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 34
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d9eec133b1e450800000000000000
+      internalID: 6116366795452045006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_75
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eddcc20dc0ff0ea0800000000000000
+      internalID: -5904235823153488407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f842658971d080800000000000000
+      internalID: -9164410152935688526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 34
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4726373810a55b30800000000000000
+      internalID: 4275499447124109132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 34
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe016b9470487430800000000000000
+      internalID: 3780842756744744636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e4bf0222ab9d0a0800000000000000
+      internalID: -6856244301949874645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 34
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62530b0668ea19af0800000000000000
+      internalID: -391339800433511130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_81
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 34
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7a067d21e7bab0800000000000000
+      internalID: -4992274076546728248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_82
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 34
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85547ce15bf4fc130800000000000000
+      internalID: 3589175067361625432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_83
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 34
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb690da6f82dc210800000000000000
+      internalID: 1354784102838529015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba9af97e81f9000800000000000000
+      internalID: 44781904392203091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320c37425f097520800000000000000
+      internalID: 2700206297642172984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ccd0c05deaee90800000000000000
+      internalID: -6995518140077784579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_87
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49658e6808076e40800000000000000
+      internalID: 5649493089866574157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d780b45afa88070800000000000000
+      internalID: 8108924253543890317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cfe6eee65aa5140800000000000000
+      internalID: 4709258256234511418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_90
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460cb2a2b7333850800000000000000
+      internalID: 6355484739523839552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_91
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0bb27273292910800000000000000
+      internalID: 1813019299451440027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_92
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32d820ad0c13ce30800000000000000
+      internalID: 4522489295657292349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_93
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b307442f8db53d0800000000000000
+      internalID: -3216738973784196303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900a750b16b36980800000000000000
+      internalID: -8546787440646815592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be537e2b0eb8b350800000000000000
+      internalID: 6032780656096009909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_96
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f94a983cb02aaa0800000000000000
+      internalID: -6151341206578880656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_97
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a4d24b8a119df0800000000000000
+      internalID: -175329725066731506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 19
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ca685c06a09b90800000000000000
+      internalID: -7237102029231175440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4221791dcd867e0800000000000000
+      internalID: -1771923660629465891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_100
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 19
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60356ae8ca5e0f0800000000000000
+      internalID: -1088274006264314129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 19
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb2ca06e52988980800000000000000
+      internalID: -8536412159634297917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5e6069a9e1f80c0800000000000000
+      internalID: -4571401447466932758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_103
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c351797151dc7790800000000000000
+      internalID: -7530914329010285632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_104
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 19
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf033ac2da5eda2d0800000000000000
+      internalID: -3265701622832746244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_105
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b278f05ad81740800000000000000
+      internalID: 5123084617434444709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_106
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d402d5b735e210800000000000000
+      internalID: 1361555716401583995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 19
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c135fd954e28520800000000000000
+      internalID: 2702973801025707113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_108
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6085d20e8e2e9aa80800000000000000
+      internalID: -8454977335590037498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_109
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0131a6fc131a60800000000000000
+      internalID: 7643484838169742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_110
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f014c6993494300800000000000000
+      internalID: 236794781638922060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_111
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb0a64411973950800000000000000
+      internalID: 6428766509364984609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_112
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4446a341c7abc0800000000000000
+      internalID: -3771833666603037471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_113
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811ce2054435fd30800000000000000
+      internalID: 4464532076614128009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_114
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 8
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf750c3553e549e0800000000000000
+      internalID: -1637652934260588617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_115
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 19
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc962ca09f3c0f70800000000000000
+      internalID: 9154762033133427925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_116
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f877b4545887130800000000000000
+      internalID: 3564745637729111871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_117
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c29b1a65f6f6d00800000000000000
+      internalID: 968114862779083782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_118
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac709d46723fb10800000000000000
+      internalID: 2013996772456123133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_119
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967abff04f8c5790800000000000000
+      internalID: -7539994166793963888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_120
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53f62004d738730800000000000000
+      internalID: 4000178607907354050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_121
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ec330fe549fb40800000000000000
+      internalID: 5474483714899372475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_122
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c98746776da920800000000000000
+      internalID: 3003170284230001747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257519c55fad65610800000000000000
+      internalID: 1609714664186402642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb99f9221c353750800000000000000
+      internalID: 6283994903776697282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_125
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0de635fea1900260800000000000000
+      internalID: 7061804396341292299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_126
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb50de334a704c0800000000000000
+      internalID: -4321304774511838383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_127
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5314031b95dcc4b70800000000000000
+      internalID: 8884701950003659061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_128
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb5b3e9de1deb60800000000000000
+      internalID: 7776906052715790309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8f9c69991a4f30800000000000000
+      internalID: 4560485719409134634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_130
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e70a6a2cef4a20800000000000000
+      internalID: 3048915139664799200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708734435a6eba80800000000000000
+      internalID: -8449198945041153922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_132
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550b3a5081527590800000000000000
+      internalID: -7677984803001793185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_133
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f447dd8619ed40800000000000000
+      internalID: 5614043208951855010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_134
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c252c1af5631a30800000000000000
+      internalID: 4184800603645750402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_135
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d642585d515ece50800000000000000
+      internalID: 6831487146123216600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_136
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2118049f0d77ef0800000000000000
+      internalID: -110389896899652935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_137
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fbacc012bb6340800000000000000
+      internalID: 4858172408272253118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_138
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4c7d8608e27110800000000000000
+      internalID: 1257322360830970455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_139
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf10a320180b800800000000000000
+      internalID: 626142194767625330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_140
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5f7bdf536399f0800000000000000
+      internalID: -462917073333429092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_141
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b18ea28282859e0800000000000000
+      internalID: -1632510711938147473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_142
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159d9f12ee4696a0800000000000000
+      internalID: -6442875483806919397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_143
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf95d2b5b544aa80800000000000000
+      internalID: -8456557553603207230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_144
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795a1687396ff670800000000000000
+      internalID: 8574687902730705271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_145
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 8
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec435aa417ef10150800000000000000
+      internalID: 5837226354585973966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_146
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c7997ee4aa36b0800000000000000
+      internalID: -5315755066008287629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_147
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5855d4af261fdbf0800000000000000
+      internalID: -297494656498444197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_148
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 8
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9835c39d24813980800000000000000
+      internalID: -8560916085367031650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_149
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc15a5bf6c4f0c00800000000000000
+      internalID: 868997295778372857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_150
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cebf1ad15ac41c0800000000000000
+      internalID: -4518054779469173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon_151
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 8
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f640c1ac70c6f8100800000000000000
+      internalID: 112427296418956399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Veemon_41: -8041384414387029171
+      Veemon_117: 968114862779083782
+      Veemon_35: 8721323181330488729
+      Veemon_80: -391339800433511130
+      Veemon_3: -3357165772935432523
+      Veemon_123: 1609714664186402642
+      Veemon_16: 3571236757863489175
+      Veemon_143: -8456557553603207230
+      Veemon_77: 4275499447124109132
+      Veemon_86: -6995518140077784579
+      Veemon_53: 4076159233800821536
+      Veemon_1: -6716069836724943290
+      Veemon_22: 3768335884706076645
+      Veemon_30: 3849366544237617383
+      Veemon_130: 3048915139664799200
+      Veemon_114: -1637652934260588617
+      Veemon_134: 4184800603645750402
+      Veemon_69: -1516183066878615850
+      Veemon_49: 7183603717916755978
+      Veemon_55: -3118325641925804201
+      Veemon_75: -5904235823153488407
+      Veemon_118: 2013996772456123133
+      Veemon_129: 4560485719409134634
+      Veemon_40: -6018953905884421271
+      Veemon_131: -8449198945041153922
+      Veemon_65: -2471095599019134594
+      Veemon_34: 833254421694405041
+      Veemon_116: 3564745637729111871
+      Veemon_90: 6355484739523839552
+      Veemon_13: -2728668569340257347
+      Veemon_76: -9164410152935688526
+      Veemon_149: 868997295778372857
+      Veemon_108: -8454977335590037498
+      Veemon_62: -2992281429016465032
+      Veemon_93: -3216738973784196303
+      Veemon_8: 7136424630601680980
+      Veemon_127: 8884701950003659061
+      Veemon_6: -3332459591754955940
+      Veemon_122: 3003170284230001747
+      Veemon_94: -8546787440646815592
+      Veemon_111: 6428766509364984609
+      Veemon_26: -4130565520456172179
+      Veemon_56: 2042604272432594598
+      Veemon_89: 4709258256234511418
+      Veemon_47: 8361038663545954184
+      Veemon_68: -1931370101595961242
+      Veemon_54: -184374096443228255
+      Veemon_120: 4000178607907354050
+      Veemon_119: -7539994166793963888
+      Veemon_124: 6283994903776697282
+      Veemon_39: -3517608374993893642
+      Veemon_50: 3903905032138825555
+      Veemon_4: 8189142546770973468
+      Veemon_136: -110389896899652935
+      Veemon_46: -3247835656040814181
+      Veemon_52: -3934651564354155616
+      Veemon_60: 5671995465671596922
+      Veemon_72: 3781807232002815245
+      Veemon_128: 7776906052715790309
+      Veemon_140: -462917073333429092
+      Veemon_42: 1696488577466141255
+      Veemon_109: 7643484838169742594
+      Veemon_71: 8687400708066377199
+      Veemon_74: 6116366795452045006
+      Veemon_102: -4571401447466932758
+      Veemon_141: -1632510711938147473
+      Veemon_84: 44781904392203091
+      Veemon_107: 2702973801025707113
+      Veemon_106: 1361555716401583995
+      Veemon_51: -418449141819286427
+      Veemon_23: 4480448090840291164
+      Veemon_100: -1088274006264314129
+      Veemon_61: 217446366133111750
+      Veemon_104: -3265701622832746244
+      Veemon_79: -6856244301949874645
+      Veemon_5: 7393998782369995462
+      Veemon_113: 4464532076614128009
+      Veemon_137: 4858172408272253118
+      Veemon_12: 1871496838473884805
+      Veemon_151: 112427296418956399
+      Veemon_146: -5315755066008287629
+      Veemon_15: 3371621949608259142
+      Veemon_66: 2573468290746569357
+      Veemon_37: 6671647423705654620
+      Veemon_0: -308184068530597221
+      Veemon_29: -8254816673345821221
+      Veemon_21: 5093079472140100407
+      Veemon_87: 5649493089866574157
+      Veemon_20: 4351194977995964045
+      Veemon_138: 1257322360830970455
+      Veemon_2: 6767815259491540509
+      Veemon_9: -5243127500630026879
+      Veemon_96: -6151341206578880656
+      Veemon_110: 236794781638922060
+      Veemon_98: -7237102029231175440
+      Veemon_45: -1426204358878988215
+      Veemon_148: -8560916085367031650
+      Veemon_83: 1354784102838529015
+      Veemon_14: 6875219763949164027
+      Veemon_133: 5614043208951855010
+      Veemon_147: -297494656498444197
+      Veemon_63: 2719016275593155399
+      Veemon_82: 3589175067361625432
+      Veemon_70: 8209471613257187775
+      Veemon_144: 8574687902730705271
+      Veemon_11: -2522415932794554489
+      Veemon_78: 3780842756744744636
+      Veemon_88: 8108924253543890317
+      Veemon_57: 1136264002557533762
+      Veemon_81: -4992274076546728248
+      Veemon_112: -3771833666603037471
+      Veemon_48: -4864876961780100823
+      Veemon_67: -7985488495409627572
+      Veemon_19: 4451022483567248227
+      Veemon_97: -175329725066731506
+      Veemon_125: 7061804396341292299
+      Veemon_135: 6831487146123216600
+      Veemon_95: 6032780656096009909
+      Veemon_44: -6006868200798576173
+      Veemon_85: 2700206297642172984
+      Veemon_145: 5837226354585973966
+      Veemon_99: -1771923660629465891
+      Veemon_10: -5735436815996846377
+      Veemon_43: 6767570658365759221
+      Veemon_24: 5656326841041917578
+      Veemon_64: 6323706363877347546
+      Veemon_58: -5546235812708362897
+      Veemon_17: 1915616430735240789
+      Veemon_32: 5330656693903632242
+      Veemon_132: -7677984803001793185
+      Veemon_36: 5930371864546049488
+      Veemon_92: 4522489295657292349
+      Veemon_33: -4219595264127793134
+      Veemon_91: 1813019299451440027
+      Veemon_103: -7530914329010285632
+      Veemon_126: -4321304774511838383
+      Veemon_31: 3269687459979027485
+      Veemon_101: -8536412159634297917
+      Veemon_150: -4518054779469173743
+      Veemon_105: 5123084617434444709
+      Veemon_121: 5474483714899372475
+      Veemon_7: -3839168093455993243
+      Veemon_73: -741241993259704079
+      Veemon_18: 8601944520015242034
+      Veemon_28: 5064875872870189831
+      Veemon_59: -2188633244771510173
+      Veemon_139: 626142194767625330
+      Veemon_27: 1676933378691423252
+      Veemon_25: -5194187117244618298
+      Veemon_38: -572891314158723301
+      Veemon_142: -6442875483806919397
+      Veemon_115: 9154762033133427925
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

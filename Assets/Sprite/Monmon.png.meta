@@ -1,0 +1,3172 @@
+fileFormatVersion: 2
+guid: 8d74ca19a50304cb6af53a2b61a16bd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -531501603079352711
+    second: Monmon_0
+  - first:
+      213: -5854367749667366617
+    second: Monmon_1
+  - first:
+      213: 191805928315914818
+    second: Monmon_2
+  - first:
+      213: -8727130917910110184
+    second: Monmon_3
+  - first:
+      213: 4459827730699708278
+    second: Monmon_4
+  - first:
+      213: -8253196965968973430
+    second: Monmon_5
+  - first:
+      213: 7555677946296704096
+    second: Monmon_6
+  - first:
+      213: 4915868649724659338
+    second: Monmon_7
+  - first:
+      213: 4024765976152696196
+    second: Monmon_8
+  - first:
+      213: -4973163811239069787
+    second: Monmon_9
+  - first:
+      213: 6889078260674442020
+    second: Monmon_10
+  - first:
+      213: -1595028526802271467
+    second: Monmon_11
+  - first:
+      213: -8443423473748553308
+    second: Monmon_12
+  - first:
+      213: -4227292362458153218
+    second: Monmon_13
+  - first:
+      213: 4102153642982201584
+    second: Monmon_14
+  - first:
+      213: -5944570168761858529
+    second: Monmon_15
+  - first:
+      213: -931646502361836672
+    second: Monmon_16
+  - first:
+      213: -8874092038537345117
+    second: Monmon_17
+  - first:
+      213: -5457567747463158340
+    second: Monmon_18
+  - first:
+      213: 5379920201100134936
+    second: Monmon_19
+  - first:
+      213: -1207491523178703122
+    second: Monmon_20
+  - first:
+      213: -3872889169057764491
+    second: Monmon_21
+  - first:
+      213: -837767206801756418
+    second: Monmon_22
+  - first:
+      213: -7700237652420845132
+    second: Monmon_23
+  - first:
+      213: 2478659628343261108
+    second: Monmon_24
+  - first:
+      213: -5431030273879412160
+    second: Monmon_25
+  - first:
+      213: 4643337821943998225
+    second: Monmon_26
+  - first:
+      213: 6287165295376104197
+    second: Monmon_27
+  - first:
+      213: 5069887779359894202
+    second: Monmon_28
+  - first:
+      213: -6190130822076537651
+    second: Monmon_29
+  - first:
+      213: 3501293392256583107
+    second: Monmon_30
+  - first:
+      213: 3684372799278517960
+    second: Monmon_31
+  - first:
+      213: -6194965792383343951
+    second: Monmon_32
+  - first:
+      213: -8683321847267660027
+    second: Monmon_33
+  - first:
+      213: 6599675462864637787
+    second: Monmon_34
+  - first:
+      213: -185543836536965736
+    second: Monmon_35
+  - first:
+      213: 8101064234564983958
+    second: Monmon_36
+  - first:
+      213: 7572998098778532471
+    second: Monmon_37
+  - first:
+      213: 2501513552013824397
+    second: Monmon_38
+  - first:
+      213: 1064387922902588569
+    second: Monmon_39
+  - first:
+      213: 5680569473251368741
+    second: Monmon_40
+  - first:
+      213: 5382957421729377921
+    second: Monmon_41
+  - first:
+      213: 4373402061079242321
+    second: Monmon_42
+  - first:
+      213: 2491603554170217220
+    second: Monmon_43
+  - first:
+      213: 6913929332495300156
+    second: Monmon_44
+  - first:
+      213: 7206714091203192210
+    second: Monmon_45
+  - first:
+      213: 709226255160221671
+    second: Monmon_46
+  - first:
+      213: -6819651684520926025
+    second: Monmon_47
+  - first:
+      213: -2942522622611253855
+    second: Monmon_48
+  - first:
+      213: 8901308306967360100
+    second: Monmon_49
+  - first:
+      213: 3052812387537739286
+    second: Monmon_50
+  - first:
+      213: 9001165160901127055
+    second: Monmon_51
+  - first:
+      213: -6288969903133341179
+    second: Monmon_52
+  - first:
+      213: 3635514042534135580
+    second: Monmon_53
+  - first:
+      213: 380372018061253194
+    second: Monmon_54
+  - first:
+      213: 758378924650117099
+    second: Monmon_55
+  - first:
+      213: -1642783655266977521
+    second: Monmon_56
+  - first:
+      213: -2866089020526945628
+    second: Monmon_57
+  - first:
+      213: 1374014161422850637
+    second: Monmon_58
+  - first:
+      213: -1515385485903521401
+    second: Monmon_59
+  - first:
+      213: 8131656918329230719
+    second: Monmon_60
+  - first:
+      213: 4706267262319780250
+    second: Monmon_61
+  - first:
+      213: -8399839594891996210
+    second: Monmon_62
+  - first:
+      213: -7848303413024281348
+    second: Monmon_63
+  - first:
+      213: 5459623100972457244
+    second: Monmon_64
+  - first:
+      213: 2328150167215386743
+    second: Monmon_65
+  - first:
+      213: 3790067472378069258
+    second: Monmon_66
+  - first:
+      213: -7222640414870122358
+    second: Monmon_67
+  - first:
+      213: 5990322319813295009
+    second: Monmon_68
+  - first:
+      213: 8202737863145933284
+    second: Monmon_69
+  - first:
+      213: 5654572164155720420
+    second: Monmon_70
+  - first:
+      213: -6126336963710449629
+    second: Monmon_71
+  - first:
+      213: -352174371928732276
+    second: Monmon_72
+  - first:
+      213: 4323379111837534526
+    second: Monmon_73
+  - first:
+      213: -4010225145020525654
+    second: Monmon_74
+  - first:
+      213: 1864415843478569978
+    second: Monmon_75
+  - first:
+      213: -4575665650506370049
+    second: Monmon_76
+  - first:
+      213: -5058567246567396508
+    second: Monmon_77
+  - first:
+      213: 6878002589196816500
+    second: Monmon_78
+  - first:
+      213: -4238378593989460021
+    second: Monmon_79
+  - first:
+      213: 4350448390243582640
+    second: Monmon_80
+  - first:
+      213: 5548238897901349442
+    second: Monmon_81
+  - first:
+      213: 9221889064071819945
+    second: Monmon_82
+  - first:
+      213: 5266269624116104850
+    second: Monmon_83
+  - first:
+      213: -829259454261696164
+    second: Monmon_84
+  - first:
+      213: -8846801509219273964
+    second: Monmon_85
+  - first:
+      213: -7679602157951801120
+    second: Monmon_86
+  - first:
+      213: -5550211948919543165
+    second: Monmon_87
+  - first:
+      213: 6887299046169222041
+    second: Monmon_88
+  - first:
+      213: -759443964141947189
+    second: Monmon_89
+  - first:
+      213: 824244056049734420
+    second: Monmon_90
+  - first:
+      213: -4524755792290825997
+    second: Monmon_91
+  - first:
+      213: -5358376738508938569
+    second: Monmon_92
+  - first:
+      213: -2704363573884934541
+    second: Monmon_93
+  - first:
+      213: 5556576785635023869
+    second: Monmon_94
+  - first:
+      213: -9175192010475056066
+    second: Monmon_95
+  - first:
+      213: 838630525699788988
+    second: Monmon_96
+  - first:
+      213: 5161126754078233623
+    second: Monmon_97
+  - first:
+      213: -4335682336435078556
+    second: Monmon_98
+  - first:
+      213: 2993800401823169598
+    second: Monmon_99
+  - first:
+      213: -738206500045726108
+    second: Monmon_100
+  - first:
+      213: -6966836892536064047
+    second: Monmon_101
+  - first:
+      213: -854725102605975064
+    second: Monmon_102
+  - first:
+      213: -6430429146727223004
+    second: Monmon_103
+  - first:
+      213: 606146845359638150
+    second: Monmon_104
+  - first:
+      213: 1240074589570713239
+    second: Monmon_105
+  - first:
+      213: 6105913076887061186
+    second: Monmon_106
+  - first:
+      213: 1003454411403799770
+    second: Monmon_107
+  - first:
+      213: 6733345930826501535
+    second: Monmon_108
+  - first:
+      213: 2766200491799271318
+    second: Monmon_109
+  - first:
+      213: -6719059529547797416
+    second: Monmon_110
+  - first:
+      213: -1554173689085136973
+    second: Monmon_111
+  - first:
+      213: 7176556901712897704
+    second: Monmon_112
+  - first:
+      213: 2312244505977771206
+    second: Monmon_113
+  - first:
+      213: -3986628151075966261
+    second: Monmon_114
+  - first:
+      213: 6077210009726058307
+    second: Monmon_115
+  - first:
+      213: 5866469331141440616
+    second: Monmon_116
+  - first:
+      213: 3846170667275353997
+    second: Monmon_117
+  - first:
+      213: -1096460261198823533
+    second: Monmon_118
+  - first:
+      213: 6558944414689005131
+    second: Monmon_119
+  - first:
+      213: -8146737305423370246
+    second: Monmon_120
+  - first:
+      213: -7423743148246991776
+    second: Monmon_121
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monmon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e87e6ab1abf98f0800000000000000
+      internalID: -531501603079352711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d298ac8b11cea0800000000000000
+      internalID: -5854367749667366617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 94
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a851fb97e69a200800000000000000
+      internalID: 191805928315914818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810a3a12ba003e680800000000000000
+      internalID: -8727130917910110184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677eacf11bd74ed30800000000000000
+      internalID: 4459827730699708278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8176163611c67d80800000000000000
+      internalID: -8253196965968973430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 94
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c944a7f092bd860800000000000000
+      internalID: 7555677946296704096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 94
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864155dd7ca83440800000000000000
+      internalID: 4915868649724659338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e8a8c457dad730800000000000000
+      internalID: 4024765976152696196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77445dcd5cbfab0800000000000000
+      internalID: -4973163811239069787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 94
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423bd5d9d2cea9f50800000000000000
+      internalID: 6889078260674442020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 94
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513065571025dd9e0800000000000000
+      internalID: -1595028526802271467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 94
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d507f51fe2da80800000000000000
+      internalID: -8443423473748553308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 94
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb5f55ef3a555c0800000000000000
+      internalID: -4227292362458153218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 94
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f857001107cde830800000000000000
+      internalID: 4102153642982201584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c09c5de4a08da0800000000000000
+      internalID: -5944570168761858529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 94
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083dc7231702213f0800000000000000
+      internalID: -931646502361836672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70cd2de44e8d480800000000000000
+      internalID: -8874092038537345117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 94
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb564d29c03d244b0800000000000000
+      internalID: -5457567747463158340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 94
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a858a3be059aa40800000000000000
+      internalID: 5379920201100134936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 94
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee653a37bd02e3fe0800000000000000
+      internalID: -1207491523178703122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 94
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57baad7f1dbb04ac0800000000000000
+      internalID: -3872889169057764491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 94
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2c120a27af54f0800000000000000
+      internalID: -837767206801756418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12e5917a2432590800000000000000
+      internalID: -7700237652420845132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7708aacc7f56220800000000000000
+      internalID: 2478659628343261108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 63
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427601adba11a4b0800000000000000
+      internalID: -5431030273879412160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117ab19c523707040800000000000000
+      internalID: 4643337821943998225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7e0b768f704750800000000000000
+      internalID: 6287165295376104197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba27dbe21cdb5640800000000000000
+      internalID: 5069887779359894202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46ee460dc381aa0800000000000000
+      internalID: -6190130822076537651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c540e32ac7179030800000000000000
+      internalID: 3501293392256583107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8b115a85812330800000000000000
+      internalID: 3684372799278517960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26b452f6f070aa0800000000000000
+      internalID: -6194965792383343951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe83f39c4ae7780800000000000000
+      internalID: -8683321847267660027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 63
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f88ecedd1c69b50800000000000000
+      internalID: 6599675462864637787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89573fc1dd0dc6df0800000000000000
+      internalID: -185543836536965736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 63
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1ed30003cc6070800000000000000
+      internalID: 8101064234564983958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 63
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a276ab5a1b81960800000000000000
+      internalID: 7572998098778532471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 63
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811c9c625927b220800000000000000
+      internalID: 2501513552013824397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 63
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c13df2d2775ce00800000000000000
+      internalID: 1064387922902588569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5317c6df65de40800000000000000
+      internalID: 5680569473251368741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 63
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6b33414b14ba40800000000000000
+      internalID: 5382957421729377921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e696d00271bc30800000000000000
+      internalID: 4373402061079242321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_43
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 63
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403aa6f3b34f39220800000000000000
+      internalID: 2491603554170217220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363989a81633ff50800000000000000
+      internalID: 6913929332495300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e7fb7844630460800000000000000
+      internalID: 7206714091203192210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef943c758da7d900800000000000000
+      internalID: 709226255160221671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46c3ccceabb51a0800000000000000
+      internalID: -6819651684520926025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a594bfc34f0a27d0800000000000000
+      internalID: -2942522622611253855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f5097ebcc78b70800000000000000
+      internalID: 8901308306967360100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e591521b4cd5a20800000000000000
+      internalID: 3052812387537739286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_51
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b222c06009aec70800000000000000
+      internalID: 9001165160901127055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4d98813719b8a0800000000000000
+      internalID: -6288969903133341179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17013982c0f37230800000000000000
+      internalID: 3635514042534135580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1a0bc55a574500800000000000000
+      internalID: 380372018061253194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 34
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b9e82d9d468a00800000000000000
+      internalID: 758378924650117099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 34
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097ef828f8a339e0800000000000000
+      internalID: -1642783655266977521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa18d4983b9938d0800000000000000
+      internalID: -2866089020526945628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_58
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 34
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a17f7999a711310800000000000000
+      internalID: 1374014161422850637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_59
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78910feede448fae0800000000000000
+      internalID: -1515385485903521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758c5442e279d070800000000000000
+      internalID: 8131656918329230719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_61
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 34
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ee94e325005140800000000000000
+      internalID: 4706267262319780250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_62
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec393388466cd6b80800000000000000
+      internalID: -8399839594891996210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_63
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 34
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfca331c0a9351390800000000000000
+      internalID: -7848303413024281348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_64
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ddaf4b84a74cb40800000000000000
+      internalID: 5459623100972457244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_65
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b3a4fd304f4020800000000000000
+      internalID: 2328150167215386743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a018bd51946099430800000000000000
+      internalID: 3790067472378069258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8059435fc604cb90800000000000000
+      internalID: -7222640414870122358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb09a6966e12350800000000000000
+      internalID: 5990322319813295009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c57660aaf5d170800000000000000
+      internalID: 8202737863145933284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_70
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e240519c63197e40800000000000000
+      internalID: 5654572164155720420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32881bf7df0eafaa0800000000000000
+      internalID: -6126336963710449629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d013e4643dc1bf0800000000000000
+      internalID: -352174371928732276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398b6e556abffb30800000000000000
+      internalID: 4323379111837534526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 21
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa356b94a71d858c0800000000000000
+      internalID: -4010225145020525654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38620e45cbfd910800000000000000
+      internalID: 1864415843478569978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37c927558ff70c0800000000000000
+      internalID: -4575665650506370049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bace304eb5cc9b0800000000000000
+      internalID: -5058567246567396508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701b45e9e2937f50800000000000000
+      internalID: 6878002589196816500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf73a9ef114e25c0800000000000000
+      internalID: -4238378593989460021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_80
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b28322e2c5ef5c30800000000000000
+      internalID: 4350448390243582640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2a6eb1ed4ffc40800000000000000
+      internalID: 5548238897901349442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27f0e7e3bbaff70800000000000000
+      internalID: 9221889064071819945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_83
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecedc325c851940800000000000000
+      internalID: 5266269624116104850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_84
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e8128be0ed74f0800000000000000
+      internalID: -829259454261696164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413789456e8d93580800000000000000
+      internalID: -8846801509219273964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_86
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a5fe86829c6590800000000000000
+      internalID: -7679602157951801120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_87
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa58483afa9f2b0800000000000000
+      internalID: -5550211948919543165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_88
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9dc4fdf9949f50800000000000000
+      internalID: 6887299046169222041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc631820db9e575f0800000000000000
+      internalID: -759443964141947189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41352191a9d407b00800000000000000
+      internalID: 824244056049734420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83d118496d431c0800000000000000
+      internalID: -4524755792290825997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 21
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b265780fb833a5b0800000000000000
+      internalID: -5358376738508938569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376251b68ab287ad0800000000000000
+      internalID: -2704363573884934541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb15f2852dec1d40800000000000000
+      internalID: 5556576785635023869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_95
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d1ad8a7b2ba080800000000000000
+      internalID: -9175192010475056066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb09226150a63ab00800000000000000
+      internalID: 838630525699788988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_97
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 19
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141991207100a740800000000000000
+      internalID: 5161126754078233623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af9dde2ef84d3c0800000000000000
+      internalID: -4335682336435078556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c77178a9d1c8920800000000000000
+      internalID: 2993800401823169598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_100
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed3e1791d51c5f0800000000000000
+      internalID: -738206500045726108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_101
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73d4412c2d05f90800000000000000
+      internalID: -6966836892536064047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_102
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cf863c086324f0800000000000000
+      internalID: -854725102605975064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_103
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421710cc2c682c6a0800000000000000
+      internalID: -6430429146727223004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_104
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68682672857796800800000000000000
+      internalID: 606146845359638150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c95ed441a53110800000000000000
+      internalID: 1240074589570713239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_106
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20449c79f8cb450800000000000000
+      internalID: 6105913076887061186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_107
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 10
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adca50c787cfced00800000000000000
+      internalID: 1003454411403799770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_108
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4cb40376a17d50800000000000000
+      internalID: 6733345930826501535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_109
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d43bf0b4836620800000000000000
+      internalID: 2766200491799271318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_110
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca99cf4fa11c2a0800000000000000
+      internalID: -6719059529547797416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf62de93477e6ae0800000000000000
+      internalID: -1554173689085136973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a9f4aa70489360800000000000000
+      internalID: 7176556901712897704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_113
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c457ac902eb61020800000000000000
+      internalID: 2312244505977771206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_114
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27b8391d6aca8c0800000000000000
+      internalID: -3986628151075966261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_115
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7b2f2e46965450800000000000000
+      internalID: 6077210009726058307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_116
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b86856c2e96150800000000000000
+      internalID: 5866469331141440616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_117
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f797018d7506530800000000000000
+      internalID: 3846170667275353997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_118
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f79e4a33798c0f0800000000000000
+      internalID: -1096460261198823533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 10
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0213c13d060b50800000000000000
+      internalID: 6558944414689005131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_120
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af721df7599f0fe80800000000000000
+      internalID: -8146737305423370246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monmon_121
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 10
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c7ff870f099f890800000000000000
+      internalID: -7423743148246991776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monmon_12: -8443423473748553308
+      Monmon_65: 2328150167215386743
+      Monmon_75: 1864415843478569978
+      Monmon_105: 1240074589570713239
+      Monmon_103: -6430429146727223004
+      Monmon_118: -1096460261198823533
+      Monmon_37: 7572998098778532471
+      Monmon_66: 3790067472378069258
+      Monmon_119: 6558944414689005131
+      Monmon_33: -8683321847267660027
+      Monmon_79: -4238378593989460021
+      Monmon_83: 5266269624116104850
+      Monmon_107: 1003454411403799770
+      Monmon_94: 5556576785635023869
+      Monmon_46: 709226255160221671
+      Monmon_106: 6105913076887061186
+      Monmon_114: -3986628151075966261
+      Monmon_6: 7555677946296704096
+      Monmon_54: 380372018061253194
+      Monmon_29: -6190130822076537651
+      Monmon_19: 5379920201100134936
+      Monmon_36: 8101064234564983958
+      Monmon_64: 5459623100972457244
+      Monmon_35: -185543836536965736
+      Monmon_47: -6819651684520926025
+      Monmon_45: 7206714091203192210
+      Monmon_78: 6878002589196816500
+      Monmon_86: -7679602157951801120
+      Monmon_21: -3872889169057764491
+      Monmon_95: -9175192010475056066
+      Monmon_51: 9001165160901127055
+      Monmon_3: -8727130917910110184
+      Monmon_85: -8846801509219273964
+      Monmon_27: 6287165295376104197
+      Monmon_120: -8146737305423370246
+      Monmon_20: -1207491523178703122
+      Monmon_11: -1595028526802271467
+      Monmon_112: 7176556901712897704
+      Monmon_101: -6966836892536064047
+      Monmon_23: -7700237652420845132
+      Monmon_5: -8253196965968973430
+      Monmon_104: 606146845359638150
+      Monmon_111: -1554173689085136973
+      Monmon_77: -5058567246567396508
+      Monmon_102: -854725102605975064
+      Monmon_32: -6194965792383343951
+      Monmon_58: 1374014161422850637
+      Monmon_73: 4323379111837534526
+      Monmon_24: 2478659628343261108
+      Monmon_0: -531501603079352711
+      Monmon_9: -4973163811239069787
+      Monmon_109: 2766200491799271318
+      Monmon_91: -4524755792290825997
+      Monmon_87: -5550211948919543165
+      Monmon_7: 4915868649724659338
+      Monmon_42: 4373402061079242321
+      Monmon_62: -8399839594891996210
+      Monmon_70: 5654572164155720420
+      Monmon_18: -5457567747463158340
+      Monmon_97: 5161126754078233623
+      Monmon_16: -931646502361836672
+      Monmon_43: 2491603554170217220
+      Monmon_92: -5358376738508938569
+      Monmon_82: 9221889064071819945
+      Monmon_55: 758378924650117099
+      Monmon_67: -7222640414870122358
+      Monmon_57: -2866089020526945628
+      Monmon_90: 824244056049734420
+      Monmon_80: 4350448390243582640
+      Monmon_22: -837767206801756418
+      Monmon_31: 3684372799278517960
+      Monmon_60: 8131656918329230719
+      Monmon_121: -7423743148246991776
+      Monmon_100: -738206500045726108
+      Monmon_44: 6913929332495300156
+      Monmon_63: -7848303413024281348
+      Monmon_53: 3635514042534135580
+      Monmon_14: 4102153642982201584
+      Monmon_41: 5382957421729377921
+      Monmon_40: 5680569473251368741
+      Monmon_98: -4335682336435078556
+      Monmon_2: 191805928315914818
+      Monmon_28: 5069887779359894202
+      Monmon_34: 6599675462864637787
+      Monmon_49: 8901308306967360100
+      Monmon_72: -352174371928732276
+      Monmon_93: -2704363573884934541
+      Monmon_96: 838630525699788988
+      Monmon_108: 6733345930826501535
+      Monmon_4: 4459827730699708278
+      Monmon_1: -5854367749667366617
+      Monmon_17: -8874092038537345117
+      Monmon_88: 6887299046169222041
+      Monmon_15: -5944570168761858529
+      Monmon_25: -5431030273879412160
+      Monmon_115: 6077210009726058307
+      Monmon_30: 3501293392256583107
+      Monmon_68: 5990322319813295009
+      Monmon_48: -2942522622611253855
+      Monmon_74: -4010225145020525654
+      Monmon_110: -6719059529547797416
+      Monmon_76: -4575665650506370049
+      Monmon_113: 2312244505977771206
+      Monmon_10: 6889078260674442020
+      Monmon_52: -6288969903133341179
+      Monmon_116: 5866469331141440616
+      Monmon_117: 3846170667275353997
+      Monmon_38: 2501513552013824397
+      Monmon_56: -1642783655266977521
+      Monmon_13: -4227292362458153218
+      Monmon_59: -1515385485903521401
+      Monmon_99: 2993800401823169598
+      Monmon_8: 4024765976152696196
+      Monmon_61: 4706267262319780250
+      Monmon_50: 3052812387537739286
+      Monmon_81: 5548238897901349442
+      Monmon_69: 8202737863145933284
+      Monmon_39: 1064387922902588569
+      Monmon_84: -829259454261696164
+      Monmon_71: -6126336963710449629
+      Monmon_89: -759443964141947189
+      Monmon_26: 4643337821943998225
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

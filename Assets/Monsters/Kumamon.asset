@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd84d1e38be5b484285db4a1dbf6772a, type: 3}
+  m_Name: Kumamon
+  m_EditorClassIdentifier: 
+  mName: Kumamon
+  monsterImage: {fileID: 21300000, guid: 0e663d22c23c94a0782fe4b55b4a34ba, type: 3}
+  playerOneSprite: {fileID: -6315294066699492194, guid: 359e0567b11604982a9f4744306d6eee, type: 3}
+  playerTwoSprite: {fileID: 0}
+  maxHealth: 280
+  currentHealth: 280
+  mana: 30
+  attack: 15
+  initialAttack: 15
+  defense: 15
+  initialDefense: 15
+  speed: 15
+  skillSet:
+  - {fileID: 11400000, guid: 643899423b0ec4311b89aeaa6d656e01, type: 2}
+  - {fileID: 11400000, guid: 643899423b0ec4311b89aeaa6d656e01, type: 2}
+  - {fileID: 11400000, guid: 643899423b0ec4311b89aeaa6d656e01, type: 2}
+  - {fileID: 11400000, guid: 643899423b0ec4311b89aeaa6d656e01, type: 2}
+  learnableSkill:
+  - {fileID: 11400000, guid: 643899423b0ec4311b89aeaa6d656e01, type: 2}
+  debuff: []

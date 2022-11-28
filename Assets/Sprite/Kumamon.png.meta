@@ -1,0 +1,3022 @@
+fileFormatVersion: 2
+guid: 359e0567b11604982a9f4744306d6eee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8411375511314307624
+    second: Kumamon_0
+  - first:
+      213: 8818964839619439985
+    second: Kumamon_1
+  - first:
+      213: -8010337113472107641
+    second: Kumamon_2
+  - first:
+      213: -3189216365758169769
+    second: Kumamon_3
+  - first:
+      213: 9194126840150361196
+    second: Kumamon_4
+  - first:
+      213: 4071069566930220439
+    second: Kumamon_5
+  - first:
+      213: 2861638444725335756
+    second: Kumamon_6
+  - first:
+      213: -824468708173606124
+    second: Kumamon_7
+  - first:
+      213: -4928647220527717090
+    second: Kumamon_8
+  - first:
+      213: -7858154291592536660
+    second: Kumamon_9
+  - first:
+      213: 5774332190160168336
+    second: Kumamon_10
+  - first:
+      213: -6315294066699492194
+    second: Kumamon_11
+  - first:
+      213: 6784484919781164415
+    second: Kumamon_12
+  - first:
+      213: 2370549171434235803
+    second: Kumamon_13
+  - first:
+      213: 8139471013095295357
+    second: Kumamon_14
+  - first:
+      213: -5745077570942628410
+    second: Kumamon_15
+  - first:
+      213: -3373116403333098663
+    second: Kumamon_16
+  - first:
+      213: 547818239484024620
+    second: Kumamon_17
+  - first:
+      213: -2043877027607650162
+    second: Kumamon_18
+  - first:
+      213: -3475802377412743605
+    second: Kumamon_19
+  - first:
+      213: 2851868110406688381
+    second: Kumamon_20
+  - first:
+      213: -1632376335002847239
+    second: Kumamon_21
+  - first:
+      213: -6274884779574863911
+    second: Kumamon_22
+  - first:
+      213: 2916994959279332593
+    second: Kumamon_23
+  - first:
+      213: 9075976957929029568
+    second: Kumamon_24
+  - first:
+      213: -506907118617911266
+    second: Kumamon_25
+  - first:
+      213: 3791301662935638499
+    second: Kumamon_26
+  - first:
+      213: 7573587870066629237
+    second: Kumamon_27
+  - first:
+      213: -4840982820898237913
+    second: Kumamon_28
+  - first:
+      213: -8118979935456856514
+    second: Kumamon_29
+  - first:
+      213: 5594490334868729982
+    second: Kumamon_30
+  - first:
+      213: 1775148404547097369
+    second: Kumamon_31
+  - first:
+      213: -2986967421009912662
+    second: Kumamon_32
+  - first:
+      213: -6955727210514759398
+    second: Kumamon_33
+  - first:
+      213: -1560232966422375557
+    second: Kumamon_34
+  - first:
+      213: -5805681724459906138
+    second: Kumamon_35
+  - first:
+      213: 6929640764436421006
+    second: Kumamon_36
+  - first:
+      213: 6879250457370380926
+    second: Kumamon_37
+  - first:
+      213: -7580650296301828891
+    second: Kumamon_38
+  - first:
+      213: 4790031142803194319
+    second: Kumamon_39
+  - first:
+      213: -8024406342635559861
+    second: Kumamon_40
+  - first:
+      213: -1111132792581273541
+    second: Kumamon_41
+  - first:
+      213: -5880531652506065995
+    second: Kumamon_42
+  - first:
+      213: 1688678040640683784
+    second: Kumamon_43
+  - first:
+      213: 6602514259985407859
+    second: Kumamon_44
+  - first:
+      213: 3892991895695710022
+    second: Kumamon_45
+  - first:
+      213: 2737095962414797814
+    second: Kumamon_46
+  - first:
+      213: 4161733929706093636
+    second: Kumamon_47
+  - first:
+      213: -6962321800705353590
+    second: Kumamon_48
+  - first:
+      213: 7835411723665525896
+    second: Kumamon_49
+  - first:
+      213: -892058617105799242
+    second: Kumamon_50
+  - first:
+      213: 335382692851928639
+    second: Kumamon_51
+  - first:
+      213: -586273435217215357
+    second: Kumamon_52
+  - first:
+      213: 2418859429216654728
+    second: Kumamon_53
+  - first:
+      213: -9116122245609355350
+    second: Kumamon_54
+  - first:
+      213: 2828226214095889340
+    second: Kumamon_55
+  - first:
+      213: -4394083870736865371
+    second: Kumamon_56
+  - first:
+      213: 8340729807214005481
+    second: Kumamon_57
+  - first:
+      213: -3294553736975232757
+    second: Kumamon_58
+  - first:
+      213: -4856444526699420322
+    second: Kumamon_59
+  - first:
+      213: 3890208338475092404
+    second: Kumamon_60
+  - first:
+      213: -7324050591735837118
+    second: Kumamon_61
+  - first:
+      213: 9149831641722214138
+    second: Kumamon_62
+  - first:
+      213: 8559417133472044480
+    second: Kumamon_63
+  - first:
+      213: -8961049321635091226
+    second: Kumamon_64
+  - first:
+      213: -3611895967693043860
+    second: Kumamon_65
+  - first:
+      213: 5539692462087837347
+    second: Kumamon_66
+  - first:
+      213: -8867792703934774049
+    second: Kumamon_67
+  - first:
+      213: -6125023785684341737
+    second: Kumamon_68
+  - first:
+      213: 4584102143559842415
+    second: Kumamon_69
+  - first:
+      213: -5926075819788108268
+    second: Kumamon_70
+  - first:
+      213: 5555546169931474546
+    second: Kumamon_71
+  - first:
+      213: 7995101754296948010
+    second: Kumamon_72
+  - first:
+      213: 4766969128088762537
+    second: Kumamon_73
+  - first:
+      213: 7440528865105273260
+    second: Kumamon_74
+  - first:
+      213: -6229270072954219782
+    second: Kumamon_75
+  - first:
+      213: 7245635629181161675
+    second: Kumamon_76
+  - first:
+      213: 7860380970520463008
+    second: Kumamon_77
+  - first:
+      213: 8502841206157394288
+    second: Kumamon_78
+  - first:
+      213: 8658674707012214709
+    second: Kumamon_79
+  - first:
+      213: 2516876483705752466
+    second: Kumamon_80
+  - first:
+      213: -6795871924256388119
+    second: Kumamon_81
+  - first:
+      213: 4956093950125371119
+    second: Kumamon_82
+  - first:
+      213: -3081230312372022270
+    second: Kumamon_83
+  - first:
+      213: -5054050746075169279
+    second: Kumamon_84
+  - first:
+      213: 7860598299233731534
+    second: Kumamon_85
+  - first:
+      213: -8624143346818961141
+    second: Kumamon_86
+  - first:
+      213: -2297251948428749568
+    second: Kumamon_87
+  - first:
+      213: -4932107808546513636
+    second: Kumamon_88
+  - first:
+      213: -2753772576494446007
+    second: Kumamon_89
+  - first:
+      213: 7340115021916047999
+    second: Kumamon_90
+  - first:
+      213: -7761511836847602816
+    second: Kumamon_91
+  - first:
+      213: -3657208138450926880
+    second: Kumamon_92
+  - first:
+      213: -3539863293710054619
+    second: Kumamon_93
+  - first:
+      213: -5759240235000379405
+    second: Kumamon_94
+  - first:
+      213: -2231373932961372938
+    second: Kumamon_95
+  - first:
+      213: -3097415103171229834
+    second: Kumamon_96
+  - first:
+      213: 337911465322771647
+    second: Kumamon_97
+  - first:
+      213: 6249372048825132628
+    second: Kumamon_98
+  - first:
+      213: 3586252366500263626
+    second: Kumamon_99
+  - first:
+      213: 6068119271395373476
+    second: Kumamon_100
+  - first:
+      213: 3097595269984203815
+    second: Kumamon_101
+  - first:
+      213: -8680126203464185250
+    second: Kumamon_102
+  - first:
+      213: -6505242078909927542
+    second: Kumamon_103
+  - first:
+      213: 2763892248904801386
+    second: Kumamon_104
+  - first:
+      213: -5990728624012355784
+    second: Kumamon_105
+  - first:
+      213: -8814823204408985624
+    second: Kumamon_106
+  - first:
+      213: -2819877450933655940
+    second: Kumamon_107
+  - first:
+      213: -3197821972009548698
+    second: Kumamon_108
+  - first:
+      213: -8338065519372782013
+    second: Kumamon_109
+  - first:
+      213: 5066490783796207603
+    second: Kumamon_110
+  - first:
+      213: 8047986127137931090
+    second: Kumamon_111
+  - first:
+      213: -5856306503474253263
+    second: Kumamon_112
+  - first:
+      213: -5403442837662506503
+    second: Kumamon_113
+  - first:
+      213: -7312806285326517377
+    second: Kumamon_114
+  - first:
+      213: -2936234019610245986
+    second: Kumamon_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kumamon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1f4056753bb470800000000000000
+      internalID: 8411375511314307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2d28fbc1436a70800000000000000
+      internalID: 8818964839619439985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 70
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bfd5cf5d095d090800000000000000
+      internalID: -8010337113472107641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3f1fcc90adb3d0800000000000000
+      internalID: -3189216365758169769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640c0706a9189f70800000000000000
+      internalID: 9194126840150361196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 70
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79577c0a3385f7830800000000000000
+      internalID: 4071069566930220439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6747df00596b720800000000000000
+      internalID: 2861638444725335756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 70
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41313e00416ee84f0800000000000000
+      internalID: -824468708173606124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15aa3d477de99bb0800000000000000
+      internalID: -4928647220527717090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 70
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5a6b5e4a32f290800000000000000
+      internalID: -7858154291592536660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a991888c822050800000000000000
+      internalID: 5774332190160168336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ae3691819b58a0800000000000000
+      internalID: -6315294066699492194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 70
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750d8bb615572e50800000000000000
+      internalID: 6784484919781164415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 70
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972fe569e1e5e020800000000000000
+      internalID: 2370549171434235803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 70
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79422bf2c535f070800000000000000
+      internalID: 8139471013095295357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd86e053626540b0800000000000000
+      internalID: -5745077570942628410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539941b0884031d0800000000000000
+      internalID: -3373116403333098663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27dced49cd3a9700800000000000000
+      internalID: 547818239484024620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806ddc1ca0b2a3e0800000000000000
+      internalID: -2043877027607650162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 70
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eead0472873cfc0800000000000000
+      internalID: -3475802377412743605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 70
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1e03cfeed39720800000000000000
+      internalID: 2851868110406688381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 70
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b66c3f52a859e0800000000000000
+      internalID: -1632376335002847239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75feae9812be8a0800000000000000
+      internalID: -6274884779574863911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 70
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1377e57f3b7820800000000000000
+      internalID: 2916994959279332593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 70
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf7df6e4f854fd70800000000000000
+      internalID: 9075976957929029568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 70
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a9ac49aa17f8f0800000000000000
+      internalID: -506907118617911266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 70
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e160a776c86d9430800000000000000
+      internalID: 3791301662935638499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a578e8a0aca1960800000000000000
+      internalID: 7573587870066629237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 41
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7229794e5cf51dcb0800000000000000
+      internalID: -4840982820898237913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f190d3c6935f80800000000000000
+      internalID: -8118979935456856514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f435915f93ad40800000000000000
+      internalID: 5594490334868729982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 41
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91391ac911892a810800000000000000
+      internalID: 1775148404547097369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1a0bc4f82c86d0800000000000000
+      internalID: -2986967421009912662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 41
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11cfbe74fa487f90800000000000000
+      internalID: -6955727210514759398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735a8d2260f85ae0800000000000000
+      internalID: -1560232966422375557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 40
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab079e3b331e6fa0800000000000000
+      internalID: -5805681724459906138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e899c497f870b2060800000000000000
+      internalID: 6929640764436421006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4188d7d1087f50800000000000000
+      internalID: 6879250457370380926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4487238be1cc690800000000000000
+      internalID: -7580650296301828891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 40
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c7d912fb997240800000000000000
+      internalID: 4790031142803194319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 39
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e0dd42f493a090800000000000000
+      internalID: -8024406342635559861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 39
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c7e7bc967490f0800000000000000
+      internalID: -1111132792581273541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 39
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36fe15e97246ea0800000000000000
+      internalID: -5880531652506065995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 39
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff3602bb36f6710800000000000000
+      internalID: 1688678040640683784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 39
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f91e2ecb7d0ab50800000000000000
+      internalID: 6602514259985407859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 39
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647da60d08fa60630800000000000000
+      internalID: 3892991895695710022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 39
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d3eba64e1cf520800000000000000
+      internalID: 2737095962414797814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 39
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c72d195f271c930800000000000000
+      internalID: 4161733929706093636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_48
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 39
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88dff0d53dd06f90800000000000000
+      internalID: -6962321800705353590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 39
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc30ae279fcbc60800000000000000
+      internalID: 7835411723665525896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b725900a65ce93f0800000000000000
+      internalID: -892058617105799242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec04f38c487a400800000000000000
+      internalID: 335382692851928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38041a8ba632dd7f0800000000000000
+      internalID: -586273435217215357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851010d5d3819120800000000000000
+      internalID: 2418859429216654728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70b6ded170d7180800000000000000
+      internalID: -9116122245609355350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb322a3d1c0ef3720800000000000000
+      internalID: 2828226214095889340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a47b10041503c0800000000000000
+      internalID: -4394083870736865371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_57
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc08e819930c370800000000000000
+      internalID: 8340729807214005481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d72ed4d46742d0800000000000000
+      internalID: -3294553736975232757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e0bafe617a9cb0800000000000000
+      internalID: -4856444526699420322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b902156fdbccf530800000000000000
+      internalID: 3890208338475092404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e88929acebb5a90800000000000000
+      internalID: -7324050591735837118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65b77766bbafe70800000000000000
+      internalID: 9149831641722214138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55efc788829c670800000000000000
+      internalID: 8559417133472044480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 9
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6f21ae15f3a380800000000000000
+      internalID: -8961049321635091226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_65
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678df701c7ffddc0800000000000000
+      internalID: -3611895967693043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a697a791f0f0ec40800000000000000
+      internalID: 5539692462087837347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ca24f4854fe480800000000000000
+      internalID: -8867792703934774049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 9
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6775915b8ffaa0800000000000000
+      internalID: -6125023785684341737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_69
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 9
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6abdf8ac900e9f30800000000000000
+      internalID: 4584102143559842415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_70
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 9
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7f79807952cda0800000000000000
+      internalID: -5926075819788108268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_71
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 9
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762c089ec3491d40800000000000000
+      internalID: 5555546169931474546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_72
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 9
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d8f78fae44fe60800000000000000
+      internalID: 7995101754296948010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8fbfe5a2da72240800000000000000
+      internalID: 4766969128088762537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1e3a9c491124760800000000000000
+      internalID: 7440528865105273260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2979b6fdf2d89a0800000000000000
+      internalID: -6229270072954219782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d149373bad8460800000000000000
+      internalID: 7245635629181161675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_77
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6cc1bb8dea51d60800000000000000
+      internalID: 7860380970520463008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c09ae609200670800000000000000
+      internalID: 8502841206157394288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5f1935cac92870800000000000000
+      internalID: 8658674707012214709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_80
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc0d2b3ddbde220800000000000000
+      internalID: 2516876483705752466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc5afad7630b1a0800000000000000
+      internalID: -6795871924256388119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6faa603597c440800000000000000
+      internalID: 4956093950125371119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20456ef1b554d35d0800000000000000
+      internalID: -3081230312372022270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e346bbf976cd9b0800000000000000
+      internalID: -5054050746075169279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3cdd38184761d60800000000000000
+      internalID: 7860598299233731534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bec89153e05880800000000000000
+      internalID: -8624143346818961141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005945636858e10e0800000000000000
+      internalID: -2297251948428749568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_88
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d97ad5412ad8bb0800000000000000
+      internalID: -4932107808546513636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a16d98e62a8c9d0800000000000000
+      internalID: -2753772576494446007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a80db09b35dd560800000000000000
+      internalID: 7340115021916047999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08385bc4b12994490800000000000000
+      internalID: -7761511836847602816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e207f5239cfe3dc0800000000000000
+      internalID: -3657208138450926880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc7f0e611efdec0800000000000000
+      internalID: -3539863293710054619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74aa025811310b0800000000000000
+      internalID: -5759240235000379405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_95
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f465c4fa319801e0800000000000000
+      internalID: -2231373932961372938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778c8ddf55c305d0800000000000000
+      internalID: -3097415103171229834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47818ffa080b400800000000000000
+      internalID: 337911465322771647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562a7f84ca3ab650800000000000000
+      internalID: 6249372048825132628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_99
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f62cc68de4c130800000000000000
+      internalID: 3586252366500263626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1393ab35a463450800000000000000
+      internalID: 6068119271395373476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_101
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b65d7c7edcfa20800000000000000
+      internalID: 3097595269984203815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a05fc053ff98780800000000000000
+      internalID: -8680126203464185250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_103
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f66a4abccb8b5a0800000000000000
+      internalID: -6505242078909927542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1d6d4b515b5620800000000000000
+      internalID: 2763892248904801386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_105
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379af38e08acdca0800000000000000
+      internalID: -5990728624012355784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_106
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f45f9ff47ba580800000000000000
+      internalID: -8814823204408985624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_107
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7627f21668cdd8d0800000000000000
+      internalID: -2819877450933655940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_108
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648e67fbdd0f93d0800000000000000
+      internalID: -3197821972009548698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_109
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463adb469d394c80800000000000000
+      internalID: -8338065519372782013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_110
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff96f1468acf4640800000000000000
+      internalID: 5066490783796207603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_111
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff3591eb030bf60800000000000000
+      internalID: 8047986127137931090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327b9c53483abea0800000000000000
+      internalID: -5856306503474253263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_113
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16ff82e5d1305b0800000000000000
+      internalID: -5403442837662506503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7edbad61b38a90800000000000000
+      internalID: -7312806285326517377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kumamon_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94c6bb47b66047d0800000000000000
+      internalID: -2936234019610245986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kumamon_40: -8024406342635559861
+      Kumamon_81: -6795871924256388119
+      Kumamon_70: -5926075819788108268
+      Kumamon_61: -7324050591735837118
+      Kumamon_59: -4856444526699420322
+      Kumamon_107: -2819877450933655940
+      Kumamon_64: -8961049321635091226
+      Kumamon_58: -3294553736975232757
+      Kumamon_69: 4584102143559842415
+      Kumamon_14: 8139471013095295357
+      Kumamon_68: -6125023785684341737
+      Kumamon_26: 3791301662935638499
+      Kumamon_72: 7995101754296948010
+      Kumamon_6: 2861638444725335756
+      Kumamon_65: -3611895967693043860
+      Kumamon_89: -2753772576494446007
+      Kumamon_22: -6274884779574863911
+      Kumamon_37: 6879250457370380926
+      Kumamon_35: -5805681724459906138
+      Kumamon_5: 4071069566930220439
+      Kumamon_49: 7835411723665525896
+      Kumamon_92: -3657208138450926880
+      Kumamon_94: -5759240235000379405
+      Kumamon_28: -4840982820898237913
+      Kumamon_42: -5880531652506065995
+      Kumamon_3: -3189216365758169769
+      Kumamon_86: -8624143346818961141
+      Kumamon_52: -586273435217215357
+      Kumamon_27: 7573587870066629237
+      Kumamon_51: 335382692851928639
+      Kumamon_55: 2828226214095889340
+      Kumamon_80: 2516876483705752466
+      Kumamon_24: 9075976957929029568
+      Kumamon_38: -7580650296301828891
+      Kumamon_102: -8680126203464185250
+      Kumamon_106: -8814823204408985624
+      Kumamon_33: -6955727210514759398
+      Kumamon_82: 4956093950125371119
+      Kumamon_104: 2763892248904801386
+      Kumamon_16: -3373116403333098663
+      Kumamon_29: -8118979935456856514
+      Kumamon_85: 7860598299233731534
+      Kumamon_63: 8559417133472044480
+      Kumamon_18: -2043877027607650162
+      Kumamon_113: -5403442837662506503
+      Kumamon_114: -7312806285326517377
+      Kumamon_11: -6315294066699492194
+      Kumamon_25: -506907118617911266
+      Kumamon_41: -1111132792581273541
+      Kumamon_62: 9149831641722214138
+      Kumamon_87: -2297251948428749568
+      Kumamon_112: -5856306503474253263
+      Kumamon_95: -2231373932961372938
+      Kumamon_9: -7858154291592536660
+      Kumamon_109: -8338065519372782013
+      Kumamon_17: 547818239484024620
+      Kumamon_36: 6929640764436421006
+      Kumamon_50: -892058617105799242
+      Kumamon_54: -9116122245609355350
+      Kumamon_99: 3586252366500263626
+      Kumamon_34: -1560232966422375557
+      Kumamon_7: -824468708173606124
+      Kumamon_84: -5054050746075169279
+      Kumamon_76: 7245635629181161675
+      Kumamon_71: 5555546169931474546
+      Kumamon_108: -3197821972009548698
+      Kumamon_110: 5066490783796207603
+      Kumamon_47: 4161733929706093636
+      Kumamon_1: 8818964839619439985
+      Kumamon_77: 7860380970520463008
+      Kumamon_8: -4928647220527717090
+      Kumamon_31: 1775148404547097369
+      Kumamon_13: 2370549171434235803
+      Kumamon_67: -8867792703934774049
+      Kumamon_96: -3097415103171229834
+      Kumamon_0: 8411375511314307624
+      Kumamon_12: 6784484919781164415
+      Kumamon_15: -5745077570942628410
+      Kumamon_98: 6249372048825132628
+      Kumamon_32: -2986967421009912662
+      Kumamon_83: -3081230312372022270
+      Kumamon_79: 8658674707012214709
+      Kumamon_91: -7761511836847602816
+      Kumamon_103: -6505242078909927542
+      Kumamon_48: -6962321800705353590
+      Kumamon_97: 337911465322771647
+      Kumamon_39: 4790031142803194319
+      Kumamon_45: 3892991895695710022
+      Kumamon_46: 2737095962414797814
+      Kumamon_56: -4394083870736865371
+      Kumamon_20: 2851868110406688381
+      Kumamon_66: 5539692462087837347
+      Kumamon_101: 3097595269984203815
+      Kumamon_53: 2418859429216654728
+      Kumamon_88: -4932107808546513636
+      Kumamon_2: -8010337113472107641
+      Kumamon_93: -3539863293710054619
+      Kumamon_30: 5594490334868729982
+      Kumamon_105: -5990728624012355784
+      Kumamon_21: -1632376335002847239
+      Kumamon_78: 8502841206157394288
+      Kumamon_73: 4766969128088762537
+      Kumamon_4: 9194126840150361196
+      Kumamon_74: 7440528865105273260
+      Kumamon_115: -2936234019610245986
+      Kumamon_57: 8340729807214005481
+      Kumamon_100: 6068119271395373476
+      Kumamon_90: 7340115021916047999
+      Kumamon_19: -3475802377412743605
+      Kumamon_10: 5774332190160168336
+      Kumamon_111: 8047986127137931090
+      Kumamon_43: 1688678040640683784
+      Kumamon_44: 6602514259985407859
+      Kumamon_23: 2916994959279332593
+      Kumamon_60: 3890208338475092404
+      Kumamon_75: -6229270072954219782
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

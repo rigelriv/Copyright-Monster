@@ -1,0 +1,4672 @@
+fileFormatVersion: 2
+guid: 3dc4607135e3041eca6dd203d5b84923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8878166074243299853
+    second: Patamon Sprite_0
+  - first:
+      213: 2110637798085360002
+    second: Patamon Sprite_1
+  - first:
+      213: 5711836794935422617
+    second: Patamon Sprite_2
+  - first:
+      213: 137182194826554025
+    second: Patamon Sprite_3
+  - first:
+      213: 3789746512725447729
+    second: Patamon Sprite_4
+  - first:
+      213: -5655603966468797804
+    second: Patamon Sprite_5
+  - first:
+      213: 2594045375573965351
+    second: Patamon Sprite_6
+  - first:
+      213: -7649947272398976811
+    second: Patamon Sprite_7
+  - first:
+      213: -6607860447986731286
+    second: Patamon Sprite_8
+  - first:
+      213: -1679339111214497129
+    second: Patamon Sprite_9
+  - first:
+      213: -5298218053530074247
+    second: Patamon Sprite_10
+  - first:
+      213: -8569476852008653157
+    second: Patamon Sprite_11
+  - first:
+      213: -3430417991329099705
+    second: Patamon Sprite_12
+  - first:
+      213: -956437960743690028
+    second: Patamon Sprite_13
+  - first:
+      213: 214020262079937198
+    second: Patamon Sprite_14
+  - first:
+      213: 8419298229399265668
+    second: Patamon Sprite_15
+  - first:
+      213: 5552725596565182696
+    second: Patamon Sprite_16
+  - first:
+      213: 8717856159368080412
+    second: Patamon Sprite_17
+  - first:
+      213: -8037642415659104287
+    second: Patamon Sprite_18
+  - first:
+      213: -1873168824430807147
+    second: Patamon Sprite_19
+  - first:
+      213: -1938213934105327412
+    second: Patamon Sprite_20
+  - first:
+      213: 2781864539530754254
+    second: Patamon Sprite_21
+  - first:
+      213: 4846160182540316601
+    second: Patamon Sprite_22
+  - first:
+      213: -8093297905488571037
+    second: Patamon Sprite_23
+  - first:
+      213: -5731263863455599570
+    second: Patamon Sprite_24
+  - first:
+      213: 2152628684624972786
+    second: Patamon Sprite_25
+  - first:
+      213: -2684610072281809239
+    second: Patamon Sprite_26
+  - first:
+      213: 8223664785923876786
+    second: Patamon Sprite_27
+  - first:
+      213: 1893525038245873269
+    second: Patamon Sprite_28
+  - first:
+      213: 2757978809680197421
+    second: Patamon Sprite_29
+  - first:
+      213: 5365498660091287397
+    second: Patamon Sprite_30
+  - first:
+      213: -2719186948137411865
+    second: Patamon Sprite_31
+  - first:
+      213: 3415182870869739752
+    second: Patamon Sprite_32
+  - first:
+      213: 8730669053898441006
+    second: Patamon Sprite_33
+  - first:
+      213: -5290986382705410219
+    second: Patamon Sprite_34
+  - first:
+      213: 2168638832926515243
+    second: Patamon Sprite_35
+  - first:
+      213: 7435053249114330758
+    second: Patamon Sprite_36
+  - first:
+      213: 6479029799501965660
+    second: Patamon Sprite_37
+  - first:
+      213: -2626164576971070503
+    second: Patamon Sprite_38
+  - first:
+      213: -1040054409446349706
+    second: Patamon Sprite_39
+  - first:
+      213: -7815237690881579552
+    second: Patamon Sprite_40
+  - first:
+      213: -4687212919452551160
+    second: Patamon Sprite_41
+  - first:
+      213: 8310983941249090896
+    second: Patamon Sprite_42
+  - first:
+      213: 7993625799623517323
+    second: Patamon Sprite_43
+  - first:
+      213: -4872324402190187924
+    second: Patamon Sprite_44
+  - first:
+      213: 2982772884532786238
+    second: Patamon Sprite_45
+  - first:
+      213: -8258141970185877437
+    second: Patamon Sprite_46
+  - first:
+      213: -1104632842576050182
+    second: Patamon Sprite_47
+  - first:
+      213: 7302276119191451765
+    second: Patamon Sprite_48
+  - first:
+      213: -675264963416400113
+    second: Patamon Sprite_49
+  - first:
+      213: 8592837563728503608
+    second: Patamon Sprite_50
+  - first:
+      213: 4925153678471875344
+    second: Patamon Sprite_51
+  - first:
+      213: -5002891592817406643
+    second: Patamon Sprite_52
+  - first:
+      213: -5344172422850189264
+    second: Patamon Sprite_53
+  - first:
+      213: -5253369498090701205
+    second: Patamon Sprite_54
+  - first:
+      213: 6696585094985631569
+    second: Patamon Sprite_55
+  - first:
+      213: -1552613998016519591
+    second: Patamon Sprite_56
+  - first:
+      213: 6074454908429093700
+    second: Patamon Sprite_57
+  - first:
+      213: -1071563114925676747
+    second: Patamon Sprite_58
+  - first:
+      213: -6477289094766286146
+    second: Patamon Sprite_59
+  - first:
+      213: 4302682169023920448
+    second: Patamon Sprite_60
+  - first:
+      213: 1778926030931897330
+    second: Patamon Sprite_61
+  - first:
+      213: -411649085530367080
+    second: Patamon Sprite_62
+  - first:
+      213: -6257184174404863839
+    second: Patamon Sprite_63
+  - first:
+      213: 2611515070913040488
+    second: Patamon Sprite_64
+  - first:
+      213: -1343747082208159446
+    second: Patamon Sprite_65
+  - first:
+      213: -7175530730948281241
+    second: Patamon Sprite_66
+  - first:
+      213: 5046741230323437667
+    second: Patamon Sprite_67
+  - first:
+      213: -5235600380539064065
+    second: Patamon Sprite_68
+  - first:
+      213: -2032734265707450579
+    second: Patamon Sprite_69
+  - first:
+      213: 741079980118769078
+    second: Patamon Sprite_70
+  - first:
+      213: -5012656294684934328
+    second: Patamon Sprite_71
+  - first:
+      213: -1526130472446464487
+    second: Patamon Sprite_72
+  - first:
+      213: 5830063449015293379
+    second: Patamon Sprite_73
+  - first:
+      213: -1812889897407451880
+    second: Patamon Sprite_74
+  - first:
+      213: 645637279137555082
+    second: Patamon Sprite_75
+  - first:
+      213: 8254188963078562090
+    second: Patamon Sprite_76
+  - first:
+      213: -3898324158971257622
+    second: Patamon Sprite_77
+  - first:
+      213: 1492698707034862741
+    second: Patamon Sprite_78
+  - first:
+      213: 8250589304390944888
+    second: Patamon Sprite_79
+  - first:
+      213: 7449835291447002408
+    second: Patamon Sprite_80
+  - first:
+      213: 7702812020440005893
+    second: Patamon Sprite_81
+  - first:
+      213: 1197291807454596812
+    second: Patamon Sprite_82
+  - first:
+      213: 383845154948492400
+    second: Patamon Sprite_83
+  - first:
+      213: 5465206563461700853
+    second: Patamon Sprite_84
+  - first:
+      213: -6266477205121242916
+    second: Patamon Sprite_85
+  - first:
+      213: 4465469486184080866
+    second: Patamon Sprite_86
+  - first:
+      213: 8941363602002019384
+    second: Patamon Sprite_87
+  - first:
+      213: -7839667865794015582
+    second: Patamon Sprite_88
+  - first:
+      213: 8477746247368767776
+    second: Patamon Sprite_89
+  - first:
+      213: 8981517223665078207
+    second: Patamon Sprite_90
+  - first:
+      213: 2503348266234619548
+    second: Patamon Sprite_91
+  - first:
+      213: 1961602636783499636
+    second: Patamon Sprite_92
+  - first:
+      213: -4106664074496801071
+    second: Patamon Sprite_93
+  - first:
+      213: 9186500636083325307
+    second: Patamon Sprite_94
+  - first:
+      213: 3611123950452137693
+    second: Patamon Sprite_95
+  - first:
+      213: 2123116336774244508
+    second: Patamon Sprite_96
+  - first:
+      213: -4234002474384536962
+    second: Patamon Sprite_97
+  - first:
+      213: -4699289174646703239
+    second: Patamon Sprite_98
+  - first:
+      213: 5340527848498368647
+    second: Patamon Sprite_99
+  - first:
+      213: 2578841907993191338
+    second: Patamon Sprite_100
+  - first:
+      213: 2095591608765805804
+    second: Patamon Sprite_101
+  - first:
+      213: 3978490492504565455
+    second: Patamon Sprite_102
+  - first:
+      213: 5875565538019268641
+    second: Patamon Sprite_103
+  - first:
+      213: -104187388796701561
+    second: Patamon Sprite_104
+  - first:
+      213: 2887247128004373194
+    second: Patamon Sprite_105
+  - first:
+      213: -377940396273219258
+    second: Patamon Sprite_106
+  - first:
+      213: 4613576503782754300
+    second: Patamon Sprite_107
+  - first:
+      213: 4769980551920176026
+    second: Patamon Sprite_108
+  - first:
+      213: 8989633486219461445
+    second: Patamon Sprite_109
+  - first:
+      213: 242477412977151511
+    second: Patamon Sprite_110
+  - first:
+      213: 1294542262005504722
+    second: Patamon Sprite_111
+  - first:
+      213: 5053379316862455624
+    second: Patamon Sprite_112
+  - first:
+      213: -8545968298859673384
+    second: Patamon Sprite_113
+  - first:
+      213: -6256222190496746077
+    second: Patamon Sprite_114
+  - first:
+      213: -8727740174088254788
+    second: Patamon Sprite_115
+  - first:
+      213: 1255647891230022838
+    second: Patamon Sprite_116
+  - first:
+      213: -1912554883707708037
+    second: Patamon Sprite_117
+  - first:
+      213: -2250337598725447941
+    second: Patamon Sprite_118
+  - first:
+      213: -8422311965929934026
+    second: Patamon Sprite_119
+  - first:
+      213: -6721836771688079332
+    second: Patamon Sprite_120
+  - first:
+      213: -286429774177370925
+    second: Patamon Sprite_121
+  - first:
+      213: -384156078641691093
+    second: Patamon Sprite_122
+  - first:
+      213: 69358192635384293
+    second: Patamon Sprite_123
+  - first:
+      213: -8155679437760513098
+    second: Patamon Sprite_124
+  - first:
+      213: -5139434615403585956
+    second: Patamon Sprite_125
+  - first:
+      213: 626124526982187371
+    second: Patamon Sprite_126
+  - first:
+      213: 275363772794118592
+    second: Patamon Sprite_127
+  - first:
+      213: 3770776307043744235
+    second: Patamon Sprite_128
+  - first:
+      213: -7618160065280437574
+    second: Patamon Sprite_129
+  - first:
+      213: 8784656066656929729
+    second: Patamon Sprite_130
+  - first:
+      213: -8333328257724465908
+    second: Patamon Sprite_131
+  - first:
+      213: -5631759555651828983
+    second: Patamon Sprite_132
+  - first:
+      213: -3913949417011919937
+    second: Patamon Sprite_133
+  - first:
+      213: -8587377113504363924
+    second: Patamon Sprite_134
+  - first:
+      213: -4622861417343567039
+    second: Patamon Sprite_135
+  - first:
+      213: 6129305367326277101
+    second: Patamon Sprite_136
+  - first:
+      213: -1128319124582474629
+    second: Patamon Sprite_137
+  - first:
+      213: -7637519604543510189
+    second: Patamon Sprite_138
+  - first:
+      213: 9064494184731922637
+    second: Patamon Sprite_139
+  - first:
+      213: 7834073418648238940
+    second: Patamon Sprite_140
+  - first:
+      213: -5335032902346470721
+    second: Patamon Sprite_141
+  - first:
+      213: 6563434044027364329
+    second: Patamon Sprite_142
+  - first:
+      213: 7720891355160754174
+    second: Patamon Sprite_143
+  - first:
+      213: 8037570197370807963
+    second: Patamon Sprite_144
+  - first:
+      213: 39943888844522269
+    second: Patamon Sprite_145
+  - first:
+      213: 3806497654952543235
+    second: Patamon Sprite_146
+  - first:
+      213: -7380623684739942088
+    second: Patamon Sprite_147
+  - first:
+      213: -5818929066003431374
+    second: Patamon Sprite_148
+  - first:
+      213: -4845291435706713208
+    second: Patamon Sprite_149
+  - first:
+      213: -269174931664867717
+    second: Patamon Sprite_150
+  - first:
+      213: -4183293120474591600
+    second: Patamon Sprite_151
+  - first:
+      213: 5073721364553962131
+    second: Patamon Sprite_152
+  - first:
+      213: -8542911474822627993
+    second: Patamon Sprite_153
+  - first:
+      213: 6078292204900306330
+    second: Patamon Sprite_154
+  - first:
+      213: -2734456335019531666
+    second: Patamon Sprite_155
+  - first:
+      213: -4766977559679496405
+    second: Patamon Sprite_156
+  - first:
+      213: 3846721727841631087
+    second: Patamon Sprite_157
+  - first:
+      213: 6670351910851960850
+    second: Patamon Sprite_158
+  - first:
+      213: 461463779617337733
+    second: Patamon Sprite_159
+  - first:
+      213: -8781796103294677174
+    second: Patamon Sprite_160
+  - first:
+      213: -8410197332818314882
+    second: Patamon Sprite_161
+  - first:
+      213: -6236326248680254933
+    second: Patamon Sprite_162
+  - first:
+      213: 3189674757156777720
+    second: Patamon Sprite_163
+  - first:
+      213: -7577985078933023084
+    second: Patamon Sprite_164
+  - first:
+      213: -8413457922556595250
+    second: Patamon Sprite_165
+  - first:
+      213: -6992955444044078113
+    second: Patamon Sprite_166
+  - first:
+      213: 6341696487742886936
+    second: Patamon Sprite_167
+  - first:
+      213: 3355475029153869983
+    second: Patamon Sprite_168
+  - first:
+      213: 6799214114543895852
+    second: Patamon Sprite_169
+  - first:
+      213: -3694961054518923926
+    second: Patamon Sprite_170
+  - first:
+      213: -5009207336154131276
+    second: Patamon Sprite_171
+  - first:
+      213: 5977238251117533771
+    second: Patamon Sprite_172
+  - first:
+      213: 5821069184067914581
+    second: Patamon Sprite_173
+  - first:
+      213: 7869804947637779199
+    second: Patamon Sprite_174
+  - first:
+      213: 5697879008304174507
+    second: Patamon Sprite_175
+  - first:
+      213: 1544952867671011786
+    second: Patamon Sprite_176
+  - first:
+      213: -1342868283657536900
+    second: Patamon Sprite_177
+  - first:
+      213: 7741323765517695899
+    second: Patamon Sprite_178
+  - first:
+      213: -3782933429512189367
+    second: Patamon Sprite_179
+  - first:
+      213: -6288584968430508554
+    second: Patamon Sprite_180
+  - first:
+      213: 2729055460506164544
+    second: Patamon Sprite_181
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Patamon Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cdc77efa6ac480800000000000000
+      internalID: -8878166074243299853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 203
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f36c05ed7a4d10800000000000000
+      internalID: 2110637798085360002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 203
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea1296d45844f40800000000000000
+      internalID: 5711836794935422617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2528ba7e57e100800000000000000
+      internalID: 137182194826554025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 202
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13496c7df52e79430800000000000000
+      internalID: 3789746512725447729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 203
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a465c38224381b0800000000000000
+      internalID: -5655603966468797804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 203
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab4567686eff320800000000000000
+      internalID: 2594045375573965351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 203
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c036ac7de5d590800000000000000
+      internalID: -7649947272398976811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 200
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b568bee92c44a0800000000000000
+      internalID: -6607860447986731286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 203
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c3a2d9f9c1b8e0800000000000000
+      internalID: -1679339111214497129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97347c060c2f876b0800000000000000
+      internalID: -5298218053530074247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 203
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6715c43a131980800000000000000
+      internalID: -8569476852008653157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 203
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74058b31305b460d0800000000000000
+      internalID: -3430417991329099705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 201
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06c2cfdbc0ab2f0800000000000000
+      internalID: -956437960743690028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 203
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaab2006b4a58f200800000000000000
+      internalID: 214020262079937198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812b6dd12b57d470800000000000000
+      internalID: 8419298229399265668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 203
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89c7ea28e3f0d40800000000000000
+      internalID: 5552725596565182696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 203
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce51edcfb0cf870800000000000000
+      internalID: 8717856159368080412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 202
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c607eece847090800000000000000
+      internalID: -8037642415659104287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 202
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597377fe0ea2106e0800000000000000
+      internalID: -1873168824430807147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc880fe22b41a15e0800000000000000
+      internalID: -1938213934105327412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 202
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87cfb4f0b2b9620800000000000000
+      internalID: 2781864539530754254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 202
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf25fc8205014340800000000000000
+      internalID: 4846160182540316601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 194
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d0f16f64deaf80800000000000000
+      internalID: -8093297905488571037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 199
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2432b8b1e57670b0800000000000000
+      internalID: -5731263863455599570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4360326cafdd10800000000000000
+      internalID: 2152628684624972786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 160
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef439ec595ebad0800000000000000
+      internalID: -2684610072281809239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a1ec4d83502270800000000000000
+      internalID: 8223664785923876786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57604fd6df6274a10800000000000000
+      internalID: 1893525038245873269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27fa017d1f464620800000000000000
+      internalID: 2757978809680197421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567539d8a94167a40800000000000000
+      internalID: 5365498660091287397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1466a0e1834ad0800000000000000
+      internalID: -2719186948137411865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e880350aba256f20800000000000000
+      internalID: 3415182870869739752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21cc195f31992970800000000000000
+      internalID: 8730669053898441006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3a63fae3a296b0800000000000000
+      internalID: -5290986382705410219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e3b2578d881e10800000000000000
+      internalID: 2168638832926515243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d297998d9e2760800000000000000
+      internalID: 7435053249114330758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592c7876432ae950800000000000000
+      internalID: 6479029799501965660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ece33b3dfd8bd0800000000000000
+      internalID: -2626164576971070503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742fd9660cf091f0800000000000000
+      internalID: -1040054409446349706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e562cf1ab2ba8390800000000000000
+      internalID: -7815237690881579552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b8650faca3feb0800000000000000
+      internalID: -4687212919452551160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055c0207cdb865370800000000000000
+      internalID: 8310983941249090896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8425fd00501fee60800000000000000
+      internalID: 7993625799623517323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c628cf855c6026cb0800000000000000
+      internalID: -4872324402190187924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 134
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e347e349220f46920800000000000000
+      internalID: 2982772884532786238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488352b1af256d80800000000000000
+      internalID: -8258141970185877437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74603484e8ba0f0800000000000000
+      internalID: -1104632842576050182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 134
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5787938f075e65560800000000000000
+      internalID: 7302276119191451765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5c4ee71af0a6f0800000000000000
+      internalID: -675264963416400113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833aba6cc34ef3770800000000000000
+      internalID: 8592837563728503608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 133
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b468d0d29a95440800000000000000
+      internalID: 4925153678471875344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d84505a98229ab0800000000000000
+      internalID: -5002891592817406643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038639dfe7fa5d5b0800000000000000
+      internalID: -5344172422850189264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7e6866484817b0800000000000000
+      internalID: -5253369498090701205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574bc2f9ac0fec50800000000000000
+      internalID: 6696585094985631569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522dee7bc1047ae0800000000000000
+      internalID: -1552613998016519591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4b0d2e8ccc4450800000000000000
+      internalID: 6074454908429093700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a17c360b0121f0800000000000000
+      internalID: -1071563114925676747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa1fee2eb0c16a0800000000000000
+      internalID: -6477289094766286146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f31ad2a236bb30800000000000000
+      internalID: 4302682169023920448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb246bccc300b810800000000000000
+      internalID: 1778926030931897330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b19d47657894af0800000000000000
+      internalID: -411649085530367080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f66635240a29a0800000000000000
+      internalID: -6257184174404863839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 99
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d95fde17fd3420800000000000000
+      internalID: 2611515070913040488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d301f52d0a5de0800000000000000
+      internalID: -1343747082208159446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbdea51d46b6c90800000000000000
+      internalID: -7175530730948281241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 99
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601fb20960a90640800000000000000
+      internalID: 5046741230323437667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b11c71396757b0800000000000000
+      internalID: -5235600380539064065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 119
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2eb984f64ac3e0800000000000000
+      internalID: -2032734265707450579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdf125c058d84a00800000000000000
+      internalID: 741079980118769078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbd2e78a77f6ab0800000000000000
+      internalID: -5012656294684934328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 119
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eedeccb6812dae0800000000000000
+      internalID: -1526130472446464487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c59b8061db88e050800000000000000
+      internalID: 5830063449015293379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 119
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d62205e3257d6e0800000000000000
+      internalID: -1812889897407451880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a826eb44fa3c5f800800000000000000
+      internalID: 645637279137555082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 117
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216f3d1125cc8270800000000000000
+      internalID: 8254188963078562090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 119
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd135e4de56e9c0800000000000000
+      internalID: -3898324158971257622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5947f7db09127b410800000000000000
+      internalID: 1492698707034862741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780cd3424bff7270800000000000000
+      internalID: 8250589304390944888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8250ed50ab1236760800000000000000
+      internalID: 7449835291447002408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 119
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7fe9a8b2e5ea60800000000000000
+      internalID: 7702812020440005893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce01db2e82ad9010800000000000000
+      internalID: 1197291807454596812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 119
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca57d7221b35500800000000000000
+      internalID: 383845154948492400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc944fd96058db40800000000000000
+      internalID: 5465206563461700853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86aa3ee200909a0800000000000000
+      internalID: -6266477205121242916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5295fa6d888fd30800000000000000
+      internalID: 4465469486184080866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83400f892da161c70800000000000000
+      internalID: 8941363602002019384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8d46cc97e33390800000000000000
+      internalID: -7839667865794015582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f0528b4107a570800000000000000
+      internalID: 8477746247368767776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 94
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf0c9c2452c4ac70800000000000000
+      internalID: 8981517223665078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 98
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96210e1cfdadb220800000000000000
+      internalID: 2503348266234619548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 99
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47933f38433093b10800000000000000
+      internalID: 1961602636783499636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 96
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d682c348c23207c0800000000000000
+      internalID: -4106664074496801071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7985a608a10d7f70800000000000000
+      internalID: 9186500636083325307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 106
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeda92b91a4d1230800000000000000
+      internalID: 3611123950452137693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e14e3f03d67d10800000000000000
+      internalID: 2123116336774244508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4f28ae2dcd35c0800000000000000
+      internalID: -4234002474384536962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b3850c465c8ceb0800000000000000
+      internalID: -4699289174646703239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 106
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78093da68cd5d1a40800000000000000
+      internalID: 5340527848498368647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa323d15d03e9c320800000000000000
+      internalID: 2578841907993191338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce476ca1779051d10800000000000000
+      internalID: 2095591608765805804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6e0042600763730800000000000000
+      internalID: 3978490492504565455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 106
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285a2c0ab33a8150800000000000000
+      internalID: 5875565538019268641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78472b43f1add8ef0800000000000000
+      internalID: -104187388796701561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaa77337ff811820800000000000000
+      internalID: 2887247128004373194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494dd5463941caf0800000000000000
+      internalID: -377940396273219258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74f0ce267b60040800000000000000
+      internalID: 4613576503782754300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b49be1a00623240800000000000000
+      internalID: 4769980551920176026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543411fc60891cc70800000000000000
+      internalID: 8989633486219461445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0f822ce37d5300800000000000000
+      internalID: 242477412977151511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da9199145327f110800000000000000
+      internalID: 1294542262005504722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f84e8f6b5312640800000000000000
+      internalID: 5053379316862455624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d848b45c1f966980800000000000000
+      internalID: -8545968298859673384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 66
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5768b801f6d29a0800000000000000
+      internalID: -6256222190496746077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 66
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba409f9d86d0e680800000000000000
+      internalID: -8727740174088254788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 66
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcdbb7ba15fc6110800000000000000
+      internalID: 1255647891230022838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 58
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd927677d3575e0800000000000000
+      internalID: -1912554883707708037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe934370e135c0e0800000000000000
+      internalID: -2250337598725447941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 66
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633793be3efed1b80800000000000000
+      internalID: -8422311965929934026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 66
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10af59e11d37b2a0800000000000000
+      internalID: -6721836771688079332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 66
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcff0153a5660cf0800000000000000
+      internalID: -286429774177370925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 66
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264142f4143baaf0800000000000000
+      internalID: -384156078641691093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 66
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19b42a8e866f000800000000000000
+      internalID: 69358192635384293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb35213c431de80800000000000000
+      internalID: -8155679437760513098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ed58a727f0da8b0800000000000000
+      internalID: -5139434615403585956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ceef90f070b800800000000000000
+      internalID: 626124526982187371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a76574e942d300800000000000000
+      internalID: 275363772794118592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93dc4a21d745430800000000000000
+      internalID: 3770776307043744235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab294ea88cbd64690800000000000000
+      internalID: -7618160065280437574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70117462e59e970800000000000000
+      internalID: 8784656066656929729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dbb99f9121a5c80800000000000000
+      internalID: -8333328257724465908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90306f0c588f7d1b0800000000000000
+      internalID: -5631759555651828983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 33
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb348220ebbdea9c0800000000000000
+      internalID: -3913949417011919937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac04d530283d880800000000000000
+      internalID: -8587377113504363924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb06da80c48dfb0800000000000000
+      internalID: -4622861417343567039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb063d1caaf0550800000000000000
+      internalID: 6129305367326277101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5bf9fbb76750f0800000000000000
+      internalID: -1128319124582474629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592a1e8264120690800000000000000
+      internalID: -7637519604543510189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 33
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05a8d6f6d8bcd70800000000000000
+      internalID: 9064494184731922637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 33
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbbde744838bc60800000000000000
+      internalID: 7834073418648238940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 33
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0e9e67d726f5b0800000000000000
+      internalID: -5335032902346470721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 33
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e4fc0d70061b50800000000000000
+      internalID: 6563434044027364329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 33
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7bdbdc7cd162b60800000000000000
+      internalID: 7720891355160754174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ad87728f2b8f60800000000000000
+      internalID: 8037570197370807963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13868951c8ed8000800000000000000
+      internalID: 39943888844522269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304cdc1137563d430800000000000000
+      internalID: 3806497654952543235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bd3aecd1c29990800000000000000
+      internalID: -7380623684739942088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308baf28d20f3fa0800000000000000
+      internalID: -5818929066003431374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b75755c1112ccb0800000000000000
+      internalID: -4845291435706713208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eeca763d2b34cf0800000000000000
+      internalID: -269174931664867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec6ca2215f1f5c0800000000000000
+      internalID: -4183293120474591600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3929c8703ba796640800000000000000
+      internalID: 5073721364553962131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76db693a64b717980800000000000000
+      internalID: -8542911474822627993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dcb126e8e6a5450800000000000000
+      internalID: 6078292204900306330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62285973724d0ad0800000000000000
+      internalID: -2734456335019531666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8b0f7a2b48ddb0800000000000000
+      internalID: -4766977559679496405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf6c9d70d426530800000000000000
+      internalID: 3846721727841631087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ed2dc8b9d19c50800000000000000
+      internalID: 6670351910851960850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581fcc4dcd2776600800000000000000
+      internalID: 461463779617337733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0635d8fac02680800000000000000
+      internalID: -8781796103294677174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793d6eb51af84b80800000000000000
+      internalID: -8410197332818314882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2218fb715e1479a0800000000000000
+      internalID: -6236326248680254933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2c51ca40044c20800000000000000
+      internalID: 3189674757156777720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969cf878b695d690800000000000000
+      internalID: -7577985078933023084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3715988946d3b80800000000000000
+      internalID: -8413457922556595250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36e9be21804fe90800000000000000
+      internalID: -6992955444044078113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 17
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d1491b5b320850800000000000000
+      internalID: 6341696487742886936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f86dc2ca019e20800000000000000
+      internalID: 3355475029153869983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250631a639ab5e50800000000000000
+      internalID: 6799214114543895852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2f766f7cd8bcc0800000000000000
+      internalID: -3694961054518923926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4904ab778bb7ab0800000000000000
+      internalID: -5009207336154131276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4adcb7458a63f250800000000000000
+      internalID: 5977238251117533771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4751e49798c050800000000000000
+      internalID: 5821069184067914581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffabf8367e9273d60800000000000000
+      internalID: 7869804947637779199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51027f4cee21f40800000000000000
+      internalID: 5697879008304174507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac170489276c07510800000000000000
+      internalID: 1544952867671011786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a347c296c2d5de0800000000000000
+      internalID: -1342868283657536900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb8fe03f4be6b60800000000000000
+      internalID: 7741323765517695899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 17
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac9f4b612508bc0800000000000000
+      internalID: -3782933429512189367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5a6d02a457ab8a0800000000000000
+      internalID: -6288584968430508554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5fcf6b7d8fd520800000000000000
+      internalID: 2729055460506164544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Patamon Sprite_8: -6607860447986731286
+      Patamon Sprite_181: 2729055460506164544
+      Patamon Sprite_7: -7649947272398976811
+      Patamon Sprite_32: 3415182870869739752
+      Patamon Sprite_24: -5731263863455599570
+      Patamon Sprite_89: 8477746247368767776
+      Patamon Sprite_114: -6256222190496746077
+      Patamon Sprite_72: -1526130472446464487
+      Patamon Sprite_22: 4846160182540316601
+      Patamon Sprite_174: 7869804947637779199
+      Patamon Sprite_49: -675264963416400113
+      Patamon Sprite_101: 2095591608765805804
+      Patamon Sprite_157: 3846721727841631087
+      Patamon Sprite_151: -4183293120474591600
+      Patamon Sprite_62: -411649085530367080
+      Patamon Sprite_25: 2152628684624972786
+      Patamon Sprite_93: -4106664074496801071
+      Patamon Sprite_141: -5335032902346470721
+      Patamon Sprite_34: -5290986382705410219
+      Patamon Sprite_99: 5340527848498368647
+      Patamon Sprite_127: 275363772794118592
+      Patamon Sprite_40: -7815237690881579552
+      Patamon Sprite_30: 5365498660091287397
+      Patamon Sprite_47: -1104632842576050182
+      Patamon Sprite_179: -3782933429512189367
+      Patamon Sprite_103: 5875565538019268641
+      Patamon Sprite_180: -6288584968430508554
+      Patamon Sprite_100: 2578841907993191338
+      Patamon Sprite_63: -6257184174404863839
+      Patamon Sprite_54: -5253369498090701205
+      Patamon Sprite_137: -1128319124582474629
+      Patamon Sprite_116: 1255647891230022838
+      Patamon Sprite_73: 5830063449015293379
+      Patamon Sprite_128: 3770776307043744235
+      Patamon Sprite_165: -8413457922556595250
+      Patamon Sprite_131: -8333328257724465908
+      Patamon Sprite_77: -3898324158971257622
+      Patamon Sprite_136: 6129305367326277101
+      Patamon Sprite_28: 1893525038245873269
+      Patamon Sprite_11: -8569476852008653157
+      Patamon Sprite_10: -5298218053530074247
+      Patamon Sprite_38: -2626164576971070503
+      Patamon Sprite_37: 6479029799501965660
+      Patamon Sprite_97: -4234002474384536962
+      Patamon Sprite_43: 7993625799623517323
+      Patamon Sprite_164: -7577985078933023084
+      Patamon Sprite_39: -1040054409446349706
+      Patamon Sprite_18: -8037642415659104287
+      Patamon Sprite_76: 8254188963078562090
+      Patamon Sprite_67: 5046741230323437667
+      Patamon Sprite_65: -1343747082208159446
+      Patamon Sprite_105: 2887247128004373194
+      Patamon Sprite_35: 2168638832926515243
+      Patamon Sprite_48: 7302276119191451765
+      Patamon Sprite_154: 6078292204900306330
+      Patamon Sprite_44: -4872324402190187924
+      Patamon Sprite_3: 137182194826554025
+      Patamon Sprite_119: -8422311965929934026
+      Patamon Sprite_41: -4687212919452551160
+      Patamon Sprite_9: -1679339111214497129
+      Patamon Sprite_167: 6341696487742886936
+      Patamon Sprite_110: 242477412977151511
+      Patamon Sprite_69: -2032734265707450579
+      Patamon Sprite_26: -2684610072281809239
+      Patamon Sprite_92: 1961602636783499636
+      Patamon Sprite_159: 461463779617337733
+      Patamon Sprite_1: 2110637798085360002
+      Patamon Sprite_57: 6074454908429093700
+      Patamon Sprite_86: 4465469486184080866
+      Patamon Sprite_162: -6236326248680254933
+      Patamon Sprite_36: 7435053249114330758
+      Patamon Sprite_51: 4925153678471875344
+      Patamon Sprite_153: -8542911474822627993
+      Patamon Sprite_19: -1873168824430807147
+      Patamon Sprite_46: -8258141970185877437
+      Patamon Sprite_21: 2781864539530754254
+      Patamon Sprite_91: 2503348266234619548
+      Patamon Sprite_12: -3430417991329099705
+      Patamon Sprite_20: -1938213934105327412
+      Patamon Sprite_166: -6992955444044078113
+      Patamon Sprite_84: 5465206563461700853
+      Patamon Sprite_80: 7449835291447002408
+      Patamon Sprite_83: 383845154948492400
+      Patamon Sprite_170: -3694961054518923926
+      Patamon Sprite_138: -7637519604543510189
+      Patamon Sprite_66: -7175530730948281241
+      Patamon Sprite_56: -1552613998016519591
+      Patamon Sprite_148: -5818929066003431374
+      Patamon Sprite_15: 8419298229399265668
+      Patamon Sprite_90: 8981517223665078207
+      Patamon Sprite_129: -7618160065280437574
+      Patamon Sprite_85: -6266477205121242916
+      Patamon Sprite_0: -8878166074243299853
+      Patamon Sprite_113: -8545968298859673384
+      Patamon Sprite_145: 39943888844522269
+      Patamon Sprite_169: 6799214114543895852
+      Patamon Sprite_144: 8037570197370807963
+      Patamon Sprite_176: 1544952867671011786
+      Patamon Sprite_52: -5002891592817406643
+      Patamon Sprite_42: 8310983941249090896
+      Patamon Sprite_112: 5053379316862455624
+      Patamon Sprite_146: 3806497654952543235
+      Patamon Sprite_5: -5655603966468797804
+      Patamon Sprite_117: -1912554883707708037
+      Patamon Sprite_106: -377940396273219258
+      Patamon Sprite_173: 5821069184067914581
+      Patamon Sprite_78: 1492698707034862741
+      Patamon Sprite_135: -4622861417343567039
+      Patamon Sprite_111: 1294542262005504722
+      Patamon Sprite_150: -269174931664867717
+      Patamon Sprite_130: 8784656066656929729
+      Patamon Sprite_132: -5631759555651828983
+      Patamon Sprite_81: 7702812020440005893
+      Patamon Sprite_29: 2757978809680197421
+      Patamon Sprite_4: 3789746512725447729
+      Patamon Sprite_134: -8587377113504363924
+      Patamon Sprite_133: -3913949417011919937
+      Patamon Sprite_102: 3978490492504565455
+      Patamon Sprite_87: 8941363602002019384
+      Patamon Sprite_155: -2734456335019531666
+      Patamon Sprite_17: 8717856159368080412
+      Patamon Sprite_142: 6563434044027364329
+      Patamon Sprite_59: -6477289094766286146
+      Patamon Sprite_158: 6670351910851960850
+      Patamon Sprite_178: 7741323765517695899
+      Patamon Sprite_96: 2123116336774244508
+      Patamon Sprite_95: 3611123950452137693
+      Patamon Sprite_125: -5139434615403585956
+      Patamon Sprite_2: 5711836794935422617
+      Patamon Sprite_45: 2982772884532786238
+      Patamon Sprite_53: -5344172422850189264
+      Patamon Sprite_71: -5012656294684934328
+      Patamon Sprite_58: -1071563114925676747
+      Patamon Sprite_70: 741079980118769078
+      Patamon Sprite_13: -956437960743690028
+      Patamon Sprite_60: 4302682169023920448
+      Patamon Sprite_14: 214020262079937198
+      Patamon Sprite_168: 3355475029153869983
+      Patamon Sprite_152: 5073721364553962131
+      Patamon Sprite_104: -104187388796701561
+      Patamon Sprite_50: 8592837563728503608
+      Patamon Sprite_172: 5977238251117533771
+      Patamon Sprite_108: 4769980551920176026
+      Patamon Sprite_75: 645637279137555082
+      Patamon Sprite_160: -8781796103294677174
+      Patamon Sprite_31: -2719186948137411865
+      Patamon Sprite_61: 1778926030931897330
+      Patamon Sprite_115: -8727740174088254788
+      Patamon Sprite_143: 7720891355160754174
+      Patamon Sprite_163: 3189674757156777720
+      Patamon Sprite_88: -7839667865794015582
+      Patamon Sprite_64: 2611515070913040488
+      Patamon Sprite_149: -4845291435706713208
+      Patamon Sprite_33: 8730669053898441006
+      Patamon Sprite_107: 4613576503782754300
+      Patamon Sprite_23: -8093297905488571037
+      Patamon Sprite_74: -1812889897407451880
+      Patamon Sprite_139: 9064494184731922637
+      Patamon Sprite_16: 5552725596565182696
+      Patamon Sprite_82: 1197291807454596812
+      Patamon Sprite_123: 69358192635384293
+      Patamon Sprite_122: -384156078641691093
+      Patamon Sprite_124: -8155679437760513098
+      Patamon Sprite_79: 8250589304390944888
+      Patamon Sprite_94: 9186500636083325307
+      Patamon Sprite_118: -2250337598725447941
+      Patamon Sprite_156: -4766977559679496405
+      Patamon Sprite_120: -6721836771688079332
+      Patamon Sprite_6: 2594045375573965351
+      Patamon Sprite_109: 8989633486219461445
+      Patamon Sprite_98: -4699289174646703239
+      Patamon Sprite_140: 7834073418648238940
+      Patamon Sprite_177: -1342868283657536900
+      Patamon Sprite_121: -286429774177370925
+      Patamon Sprite_68: -5235600380539064065
+      Patamon Sprite_161: -8410197332818314882
+      Patamon Sprite_175: 5697879008304174507
+      Patamon Sprite_126: 626124526982187371
+      Patamon Sprite_147: -7380623684739942088
+      Patamon Sprite_171: -5009207336154131276
+      Patamon Sprite_27: 8223664785923876786
+      Patamon Sprite_55: 6696585094985631569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
